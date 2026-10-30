@@ -1,0 +1,246 @@
+{
+  "fecha": "2026-10-29T21:52:46.228Z",
+  "results": [
+    {
+      "page": "inicio",
+      "width": 1440,
+      "height": 900,
+      "title": "Inicio · GVOX",
+      "overflow": false,
+      "broken": [],
+      "overlaps": []
+    },
+    {
+      "page": "catalogo",
+      "width": 1440,
+      "height": 900,
+      "title": "Catálogo · GVOX",
+      "overflow": false,
+      "broken": [],
+      "overlaps": []
+    },
+    {
+      "page": "ficha",
+      "width": 1440,
+      "height": 900,
+      "title": "Metaphor: ReFantazio · GVOX",
+      "overflow": false,
+      "broken": [],
+      "overlaps": []
+    },
+    {
+      "page": "acceso",
+      "width": 1440,
+      "height": 900,
+      "title": "Acceso y registro · GVOX",
+      "overflow": false,
+      "broken": [],
+      "overlaps": []
+    },
+    {
+      "page": "biblioteca",
+      "width": 1440,
+      "height": 900,
+      "title": "Mi biblioteca · GVOX",
+      "overflow": false,
+      "broken": [],
+      "overlaps": []
+    },
+    {
+      "page": "comunidad",
+      "width": 1440,
+      "height": 900,
+      "title": "Comunidad · GVOX",
+      "overflow": false,
+      "broken": [],
+      "overlaps": []
+    },
+    {
+      "page": "perfil",
+      "width": 1440,
+      "height": 900,
+      "title": "Perfil y monedero · GVOX",
+      "overflow": false,
+      "broken": [],
+      "overlaps": []
+    },
+    {
+      "page": "carrito",
+      "width": 1440,
+      "height": 900,
+      "title": "Carrito y pago · GVOX",
+      "overflow": false,
+      "broken": [],
+      "overlaps": []
+    },
+    {
+      "page": "inicio",
+      "width": 1920,
+      "height": 1080,
+      "title": "Inicio · GVOX",
+      "overflow": false,
+      "broken": [],
+      "overlaps": []
+    },
+    {
+      "page": "catalogo",
+      "width": 1920,
+      "height": 1080,
+      "title": "Catálogo · GVOX",
+      "overflow": false,
+      "broken": [],
+      "overlaps": []
+    },
+    {
+      "page": "ficha",
+      "width": 1920,
+      "height": 1080,
+      "title": "Metaphor: ReFantazio · GVOX",
+      "overflow": false,
+      "broken": [],
+      "overlaps": []
+    },
+    {
+      "page": "acceso",
+      "width": 1920,
+      "height": 1080,
+      "title": "Acceso y registro · GVOX",
+      "overflow": false,
+      "broken": [],
+      "overlaps": []
+    },
+    {
+      "page": "biblioteca",
+      "width": 1920,
+      "height": 1080,
+      "title": "Mi biblioteca · GVOX",
+      "overflow": false,
+      "broken": [],
+      "overlaps": []
+    },
+    {
+      "page": "comunidad",
+      "width": 1920,
+      "height": 1080,
+      "title": "Comunidad · GVOX",
+      "overflow": false,
+      "broken": [],
+      "overlaps": []
+    },
+    {
+      "page": "perfil",
+      "width": 1920,
+      "height": 1080,
+      "title": "Perfil y monedero · GVOX",
+      "overflow": false,
+      "broken": [],
+      "overlaps": []
+    },
+    {
+      "page": "carrito",
+      "width": 1920,
+      "height": 1080,
+      "title": "Carrito y pago · GVOX",
+      "overflow": false,
+      "broken": [],
+      "overlaps": []
+    },
+    {
+      "page": "inicio",
+      "width": 1023,
+      "height": 900,
+      "visible": 0
+    },
+    {
+      "page": "catalogo",
+      "width": 1023,
+      "height": 900,
+      "visible": 0
+    },
+    {
+      "page": "ficha",
+      "width": 1023,
+      "height": 900,
+      "visible": 0
+    },
+    {
+      "page": "acceso",
+      "width": 1023,
+      "height": 900,
+      "visible": 0
+    },
+    {
+      "page": "biblioteca",
+      "width": 1023,
+      "height": 900,
+      "visible": 0
+    },
+    {
+      "page": "comunidad",
+      "width": 1023,
+      "height": 900,
+      "visible": 0
+    },
+    {
+      "page": "perfil",
+      "width": 1023,
+      "height": 900,
+      "visible": 0
+    },
+    {
+      "page": "carrito",
+      "width": 1023,
+      "height": 900,
+      "visible": 0
+    },
+    {
+      "page": "inicio",
+      "width": 390,
+      "height": 844,
+      "visible": 0
+    },
+    {
+      "page": "catalogo",
+      "width": 390,
+      "height": 844,
+      "visible": 0
+    },
+    {
+      "page": "ficha",
+      "width": 390,
+      "height": 844,
+      "visible": 0
+    },
+    {
+      "page": "acceso",
+      "width": 390,
+      "height": 844,
+      "visible": 0
+    },
+    {
+      "page": "biblioteca",
+      "width": 390,
+      "height": 844,
+      "visible": 0
+    },
+    {
+      "page": "comunidad",
+      "width": 390,
+      "height": 844,
+      "visible": 0
+    },
+    {
+      "page": "perfil",
+      "width": 390,
+      "height": 844,
+      "visible": 0
+    },
+    {
+      "page": "carrito",
+      "width": 390,
+      "height": 844,
+      "visible": 0
+    }
+  ],
+  "errors": []
+}

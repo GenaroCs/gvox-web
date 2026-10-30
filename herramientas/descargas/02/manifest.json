@@ -1,0 +1,201 @@
+{
+  "proyecto": "Gvox",
+  "paquete": "02 - Portada y autenticación",
+  "version": "1.0",
+  "formato": "Recursos visuales reales de los videojuegos citados, no generados con IA",
+  "estado": "Para descarga local: archivos binarios no incluidos inicialmente",
+  "recursos": [
+    {
+      "id": "hero-principal-metaphor",
+      "juego": "Metaphor: ReFantazio",
+      "steam_appid": 2679460,
+      "archivo": "imagenes/heroes/hero-metaphor.jpg",
+      "uso": "Portada principal",
+      "descripcion": "Arte JRPG fantástico, protagonista; ideal hero con tipografía a la izquierda",
+      "fuente_oficial": "https://store.steampowered.com/app/2679460/",
+      "alternativas_de_descarga": [
+        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2679460/library_hero.jpg",
+        "https://cdn.akamai.steamstatic.com/steam/apps/2679460/library_hero.jpg",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/2679460/library_hero.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/library_hero.jpg"
+      ],
+      "licencia": "Material promocional del titular de derechos. No se concede licencia abierta automáticamente. Uso referencial académico; revisar permiso antes de publicación comercial."
+    },
+    {
+      "id": "hero-alternativo-elden-ring",
+      "juego": "ELDEN RING",
+      "steam_appid": 1245620,
+      "archivo": "imagenes/heroes/hero-elden-ring.jpg",
+      "uso": "Portada alternativa",
+      "descripcion": "Fantasía oscura cinematográfica, alternativa para rotación de temporada",
+      "fuente_oficial": "https://store.steampowered.com/app/1245620/",
+      "alternativas_de_descarga": [
+        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1245620/library_hero.jpg",
+        "https://cdn.akamai.steamstatic.com/steam/apps/1245620/library_hero.jpg",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/library_hero.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/library_hero.jpg"
+      ],
+      "licencia": "Material promocional del titular de derechos. No se concede licencia abierta automáticamente. Uso referencial académico; revisar permiso antes de publicación comercial."
+    },
+    {
+      "id": "hero-alternativo-hades-ii",
+      "juego": "Hades II",
+      "steam_appid": 1145350,
+      "archivo": "imagenes/heroes/hero-hades-ii.jpg",
+      "uso": "Portada alternativa",
+      "descripcion": "Estilo ilustrado de acción, alto contraste; alternativa al hero",
+      "fuente_oficial": "https://store.steampowered.com/app/1145350/",
+      "alternativas_de_descarga": [
+        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1145350/library_hero.jpg",
+        "https://cdn.akamai.steamstatic.com/steam/apps/1145350/library_hero.jpg",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/1145350/library_hero.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/library_hero.jpg"
+      ],
+      "licencia": "Material promocional del titular de derechos. No se concede licencia abierta automáticamente. Uso referencial académico; revisar permiso antes de publicación comercial."
+    },
+    {
+      "id": "hero-alternativo-persona3",
+      "juego": "Persona 3 Reload",
+      "steam_appid": 2161700,
+      "archivo": "imagenes/heroes/hero-persona-3.jpg",
+      "uso": "Portada anime",
+      "descripcion": "JRPG de estética anime, para inicio o bienvenida",
+      "fuente_oficial": "https://store.steampowered.com/app/2161700/",
+      "alternativas_de_descarga": [
+        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2161700/library_hero.jpg",
+        "https://cdn.akamai.steamstatic.com/steam/apps/2161700/library_hero.jpg",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/2161700/library_hero.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/library_hero.jpg"
+      ],
+      "licencia": "Material promocional del titular de derechos. No se concede licencia abierta automáticamente. Uso referencial académico; revisar permiso antes de publicación comercial."
+    },
+    {
+      "id": "login-anime-persona3",
+      "juego": "Persona 3 Reload",
+      "steam_appid": 2161700,
+      "archivo": "imagenes/login/login-persona-3.jpg",
+      "uso": "Login, columna gráfica",
+      "descripcion": "Arte vertical anime para el lateral derecho del acceso",
+      "fuente_oficial": "https://store.steampowered.com/app/2161700/",
+      "alternativas_de_descarga": [
+        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2161700/library_600x900.jpg",
+        "https://cdn.akamai.steamstatic.com/steam/apps/2161700/library_600x900.jpg",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/2161700/library_600x900.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/library_600x900.jpg"
+      ],
+      "licencia": "Material promocional del titular de derechos. No se concede licencia abierta automáticamente. Uso referencial académico; revisar permiso antes de publicación comercial."
+    },
+    {
+      "id": "login-anime-metaphor",
+      "juego": "Metaphor: ReFantazio",
+      "steam_appid": 2679460,
+      "archivo": "imagenes/login/login-metaphor.jpg",
+      "uso": "Login, alternativa",
+      "descripcion": "Imagen vertical de fantasía y diseño de personajes",
+      "fuente_oficial": "https://store.steampowered.com/app/2679460/",
+      "alternativas_de_descarga": [
+        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2679460/library_600x900.jpg",
+        "https://cdn.akamai.steamstatic.com/steam/apps/2679460/library_600x900.jpg",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/2679460/library_600x900.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/library_600x900.jpg"
+      ],
+      "licencia": "Material promocional del titular de derechos. No se concede licencia abierta automáticamente. Uso referencial académico; revisar permiso antes de publicación comercial."
+    },
+    {
+      "id": "login-anime-scarlet-nexus",
+      "juego": "SCARLET NEXUS",
+      "steam_appid": 775500,
+      "archivo": "imagenes/login/login-scarlet-nexus.jpg",
+      "uso": "Login, alternativa",
+      "descripcion": "Protagonistas anime de acción futurista",
+      "fuente_oficial": "https://store.steampowered.com/app/775500/",
+      "alternativas_de_descarga": [
+        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/775500/library_600x900.jpg",
+        "https://cdn.akamai.steamstatic.com/steam/apps/775500/library_600x900.jpg",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/775500/library_600x900.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/775500/library_600x900.jpg"
+      ],
+      "licencia": "Material promocional del titular de derechos. No se concede licencia abierta automáticamente. Uso referencial académico; revisar permiso antes de publicación comercial."
+    },
+    {
+      "id": "login-anime-code-vein",
+      "juego": "CODE VEIN",
+      "steam_appid": 678960,
+      "archivo": "imagenes/login/login-code-vein.jpg",
+      "uso": "Login, alternativa",
+      "descripcion": "Tono anime postapocalíptico y oscuro",
+      "fuente_oficial": "https://store.steampowered.com/app/678960/",
+      "alternativas_de_descarga": [
+        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/678960/library_600x900.jpg",
+        "https://cdn.akamai.steamstatic.com/steam/apps/678960/library_600x900.jpg",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/678960/library_600x900.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/678960/library_600x900.jpg"
+      ],
+      "licencia": "Material promocional del titular de derechos. No se concede licencia abierta automáticamente. Uso referencial académico; revisar permiso antes de publicación comercial."
+    },
+    {
+      "id": "promo-tales-of-arise",
+      "juego": "Tales of ARISE",
+      "steam_appid": 740130,
+      "archivo": "imagenes/promos/promo-tales-of-arise.jpg",
+      "uso": "Tarjeta de promoción",
+      "descripcion": "Banner de videojuego de aventuras anime",
+      "fuente_oficial": "https://store.steampowered.com/app/740130/",
+      "alternativas_de_descarga": [
+        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/740130/capsule_616x353.jpg",
+        "https://cdn.akamai.steamstatic.com/steam/apps/740130/capsule_616x353.jpg",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/740130/capsule_616x353.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/740130/capsule_616x353.jpg"
+      ],
+      "licencia": "Material promocional del titular de derechos. No se concede licencia abierta automáticamente. Uso referencial académico; revisar permiso antes de publicación comercial."
+    },
+    {
+      "id": "promo-persona5",
+      "juego": "Persona 5 Royal",
+      "steam_appid": 1687950,
+      "archivo": "imagenes/promos/promo-persona-5-royal.jpg",
+      "uso": "Tarjeta de promoción",
+      "descripcion": "Arte anime urbano y colorido",
+      "fuente_oficial": "https://store.steampowered.com/app/1687950/",
+      "alternativas_de_descarga": [
+        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1687950/capsule_616x353.jpg",
+        "https://cdn.akamai.steamstatic.com/steam/apps/1687950/capsule_616x353.jpg",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/1687950/capsule_616x353.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/capsule_616x353.jpg"
+      ],
+      "licencia": "Material promocional del titular de derechos. No se concede licencia abierta automáticamente. Uso referencial académico; revisar permiso antes de publicación comercial."
+    },
+    {
+      "id": "promo-hades2",
+      "juego": "Hades II",
+      "steam_appid": 1145350,
+      "archivo": "imagenes/promos/promo-hades-ii.jpg",
+      "uso": "Tarjeta de promoción",
+      "descripcion": "Banner horizontal ilustrado",
+      "fuente_oficial": "https://store.steampowered.com/app/1145350/",
+      "alternativas_de_descarga": [
+        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1145350/capsule_616x353.jpg",
+        "https://cdn.akamai.steamstatic.com/steam/apps/1145350/capsule_616x353.jpg",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/1145350/capsule_616x353.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/capsule_616x353.jpg"
+      ],
+      "licencia": "Material promocional del titular de derechos. No se concede licencia abierta automáticamente. Uso referencial académico; revisar permiso antes de publicación comercial."
+    },
+    {
+      "id": "promo-elden-ring",
+      "juego": "ELDEN RING",
+      "steam_appid": 1245620,
+      "archivo": "imagenes/promos/promo-elden-ring.jpg",
+      "uso": "Tarjeta de promoción",
+      "descripcion": "Banner horizontal de fantasía oscura",
+      "fuente_oficial": "https://store.steampowered.com/app/1245620/",
+      "alternativas_de_descarga": [
+        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1245620/capsule_616x353.jpg",
+        "https://cdn.akamai.steamstatic.com/steam/apps/1245620/capsule_616x353.jpg",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/capsule_616x353.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/capsule_616x353.jpg"
+      ],
+      "licencia": "Material promocional del titular de derechos. No se concede licencia abierta automáticamente. Uso referencial académico; revisar permiso antes de publicación comercial."
+    }
+  ]
+}

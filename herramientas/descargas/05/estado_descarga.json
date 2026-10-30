@@ -1,0 +1,149 @@
+[
+  {
+    "id": "avatar_kairo",
+    "status": "OK",
+    "path": "imagenes/avatares/avatar_kairo.jpg",
+    "fuente": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/capsule_184x69.jpg?t=1764776430",
+    "bytes": 3373
+  },
+  {
+    "id": "avatar_mika",
+    "status": "OK",
+    "path": "imagenes/avatares/avatar_mika.jpg",
+    "fuente": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/capsule_184x69.jpg?t=1764776325",
+    "bytes": 9813
+  },
+  {
+    "id": "avatar_ren",
+    "status": "OK",
+    "path": "imagenes/avatares/avatar_ren.jpg",
+    "fuente": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/capsule_184x69.jpg?t=1783356822",
+    "bytes": 7756
+  },
+  {
+    "id": "avatar_sora",
+    "status": "OK",
+    "path": "imagenes/avatares/avatar_sora.jpg",
+    "fuente": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/740130/3c17579d4d76ad1cb7a40c5402a99da0fb478e91/capsule_184x69.jpg?t=1783413316",
+    "bytes": 6163
+  },
+  {
+    "id": "avatar_noa",
+    "status": "OK",
+    "path": "imagenes/avatares/avatar_noa.jpg",
+    "fuente": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/775500/capsule_184x69.jpg?t=1703662938",
+    "bytes": 8628
+  },
+  {
+    "id": "avatar_akari",
+    "status": "OK",
+    "path": "imagenes/avatares/avatar_akari.jpg",
+    "fuente": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/678960/capsule_184x69.jpg?t=1766015412",
+    "bytes": 7911
+  },
+  {
+    "id": "avatar_nero",
+    "status": "OK",
+    "path": "imagenes/avatares/avatar_nero.jpg",
+    "fuente": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524220/capsule_184x69.jpg?t=1785182957",
+    "bytes": 4424
+  },
+  {
+    "id": "avatar_lyra",
+    "status": "OK",
+    "path": "imagenes/avatares/avatar_lyra.jpg",
+    "fuente": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/10c9138570a8d7ac9144f601ab0f2ccbc820337e/capsule_184x69.jpg?t=1779901265",
+    "bytes": 8511
+  },
+  {
+    "id": "banner_perfil",
+    "status": "OK",
+    "path": "imagenes/banners/banner_perfil.jpg",
+    "fuente": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2161700?t=1764776430",
+    "bytes": 36787
+  },
+  {
+    "id": "banner_comunidad",
+    "status": "OK",
+    "path": "imagenes/banners/banner_comunidad.jpg",
+    "fuente": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2679460?t=1764776325",
+    "bytes": 96092
+  },
+  {
+    "id": "banner_evento",
+    "status": "OK",
+    "path": "imagenes/banners/banner_evento.jpg",
+    "fuente": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1145350?t=1779901265",
+    "bytes": 26405
+  },
+  {
+    "id": "banner_grupo",
+    "status": "OK",
+    "path": "imagenes/banners/banner_grupo.jpg",
+    "fuente": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1091500?t=1792682505",
+    "bytes": 80567
+  },
+  {
+    "id": "post_01",
+    "status": "OK",
+    "path": "imagenes/publicaciones/post_01.jpg",
+    "fuente": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/ss_9809b4bfb257dc3e4f39f3f54fad1768234c03ad.1920x1080.jpg?t=1764776325",
+    "bytes": 1040008
+  },
+  {
+    "id": "post_02",
+    "status": "OK",
+    "path": "imagenes/publicaciones/post_02.jpg",
+    "fuente": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/ss_7017244fb8319ba927a0ef414959b95a6164356f.1920x1080.jpg?t=1764776430",
+    "bytes": 389556
+  },
+  {
+    "id": "post_03",
+    "status": "OK",
+    "path": "imagenes/publicaciones/post_03.jpg",
+    "fuente": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/ss_ef0f63061d0a0a9a7e46f3b84f125d25330e8f19.1920x1080.jpg?t=1779901265",
+    "bytes": 527902
+  },
+  {
+    "id": "post_04",
+    "status": "OK",
+    "path": "imagenes/publicaciones/post_04.jpg",
+    "fuente": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_943bf6fe62352757d9070c1d33e50b92fe8539f1.1920x1080.jpg?t=1790290043",
+    "bytes": 573366
+  },
+  {
+    "id": "post_05",
+    "status": "OK",
+    "path": "imagenes/publicaciones/post_05.jpg",
+    "fuente": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/740130/ss_ff3e713e134572734fdc55adcb6043e2652f0506.1920x1080.jpg?t=1783413316",
+    "bytes": 738641
+  },
+  {
+    "id": "actividad_01",
+    "status": "OK",
+    "path": "imagenes/actividad/actividad_01.jpg",
+    "fuente": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/header.jpg?t=1764776325",
+    "bytes": 49208
+  },
+  {
+    "id": "actividad_02",
+    "status": "OK",
+    "path": "imagenes/actividad/actividad_02.jpg",
+    "fuente": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/91ac334a2c137d08968ccc0bc474a02579602100/header.jpg?t=1779901265",
+    "bytes": 53376
+  },
+  {
+    "id": "actividad_03",
+    "status": "OK",
+    "path": "imagenes/actividad/actividad_03.jpg",
+    "fuente": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg?t=1764776430",
+    "bytes": 62160
+  },
+  {
+    "id": "actividad_04",
+    "status": "OK",
+    "path": "imagenes/actividad/actividad_04.jpg",
+    "fuente": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524220/header.jpg?t=1785182957",
+    "bytes": 50937
+  }
+]

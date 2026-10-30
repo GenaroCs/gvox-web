@@ -1,0 +1,130 @@
+.catalogo-estructura {
+  display:grid;
+  grid-template-columns:230px minmax(0,1fr);
+  gap:32px
+}
+.filtros {
+  align-self:start;
+  position:sticky;
+  top:25px;
+  padding:23px 20px
+}
+.filtros .enlace-texto {
+  font-size:11px
+}
+.filtros input[type=range] {
+  padding:0;
+  border:0;
+  accent-color:var(--lima);
+  width:100%
+}
+#precio-etiqueta {
+  color:var(--lima);
+  font-size:17px
+}
+.filtros-nota {
+  border-top:1px solid var(--borde);
+  margin-top:26px;
+  padding-top:26px
+}
+.filtros-nota .ceja {
+  font-size:11px
+}
+.filtros-nota strong {
+  font-size:21px;
+  line-height:1.25;
+  letter-spacing:-.7px
+}
+.filtros-nota p {
+  font-size:11px;
+  color:var(--muted);
+  margin-top:12px
+}
+.catalogo-barra {
+  display:flex;
+  align-items:end;
+  gap:20px
+}
+.catalogo-barra .buscador {
+  flex:1
+}
+.catalogo-barra input {
+  height:52px
+}
+.ordenar {
+  min-width:190px;
+  font-size:11px;
+  letter-spacing:1px
+}
+.ordenar select {
+  padding:9px 12px;
+  height:44px;
+  font-size:11px
+}
+.catalogo-banner {
+  margin:22px 0;
+  background:linear-gradient(90deg,#24321c,#1d2919,#131d16);
+  border:1px solid #495638;
+  border-radius:7px;
+  min-height:105px;
+  padding:23px 27px;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  position:relative;
+  overflow:hidden
+}
+.catalogo-banner:after {
+  content:'48 / 72';
+  position:absolute;
+  right:130px;
+  top:-7px;
+  font-size:85px;
+  font-weight:900;
+  font-style:italic;
+  color:#d5ff510b;
+  pointer-events:none
+}
+.catalogo-banner .ceja {
+  font-size:11px;
+  letter-spacing:2px;
+  margin-bottom:8px
+}
+.catalogo-banner strong {
+  font-size:24px;
+  letter-spacing:-1px
+}
+.catalogo-banner .insignia {
+  font-size:13px;
+  padding:10px 15px
+}
+.catalogo-conteo {
+  margin-bottom:18px
+}
+.catalogo-conteo .micro {
+  font-size:11px
+}
+.catalogo-estructura .rejilla-juegos {
+  gap:24px;
+  grid-template-columns:repeat(3,minmax(0,1fr))
+}
+.catalogo-estructura .tarjeta-info {
+  padding:16px
+}
+.catalogo-estructura .titulo-juego {
+  font-size:15px
+}
+.catalogo-estructura .tarjeta-precio strong {
+  font-size:18px
+}
+.catalogo-estructura .tarjeta-arte .etiqueta {
+  font-size:11px;
+  left:8px;
+  top:8px
+}
+.catalogo-estructura .estado-vacio {
+  grid-column:1/-1
+}
+@media(min-width:1700px) {
+  .catalogo-estructura .rejilla-juegos { grid-template-columns:repeat(4,minmax(0,1fr)) }
+}

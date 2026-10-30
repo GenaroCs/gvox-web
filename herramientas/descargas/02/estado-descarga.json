@@ -1,0 +1,86 @@
+[
+  {
+    "id": "hero-principal-metaphor",
+    "estado": "OK",
+    "archivo": "imagenes/heroes/hero-metaphor.jpg",
+    "origen": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2679460/library_hero.jpg",
+    "bytes": 370963
+  },
+  {
+    "id": "hero-alternativo-elden-ring",
+    "estado": "OK",
+    "archivo": "imagenes/heroes/hero-elden-ring.jpg",
+    "origen": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1245620/library_hero.jpg",
+    "bytes": 203966
+  },
+  {
+    "id": "hero-alternativo-hades-ii",
+    "estado": "OK",
+    "archivo": "imagenes/heroes/hero-hades-ii.jpg",
+    "origen": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1145350/library_hero.jpg",
+    "bytes": 246724
+  },
+  {
+    "id": "hero-alternativo-persona3",
+    "estado": "OK",
+    "archivo": "imagenes/heroes/hero-persona-3.jpg",
+    "origen": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2161700/library_hero.jpg",
+    "bytes": 308717
+  },
+  {
+    "id": "login-anime-persona3",
+    "estado": "OK",
+    "archivo": "imagenes/login/login-persona-3.jpg",
+    "origen": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2161700/library_600x900.jpg",
+    "bytes": 80788
+  },
+  {
+    "id": "login-anime-metaphor",
+    "estado": "OK",
+    "archivo": "imagenes/login/login-metaphor.jpg",
+    "origen": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2679460/library_600x900.jpg",
+    "bytes": 85761
+  },
+  {
+    "id": "login-anime-scarlet-nexus",
+    "estado": "OK",
+    "archivo": "imagenes/login/login-scarlet-nexus.jpg",
+    "origen": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/775500/library_600x900.jpg",
+    "bytes": 62540
+  },
+  {
+    "id": "login-anime-code-vein",
+    "estado": "OK",
+    "archivo": "imagenes/login/login-code-vein.jpg",
+    "origen": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/678960/library_600x900.jpg",
+    "bytes": 84090
+  },
+  {
+    "id": "promo-tales-of-arise",
+    "estado": "OK",
+    "archivo": "imagenes/promos/promo-tales-of-arise.jpg",
+    "origen": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/740130/capsule_616x353.jpg",
+    "bytes": 102817
+  },
+  {
+    "id": "promo-persona5",
+    "estado": "OK",
+    "archivo": "imagenes/promos/promo-persona-5-royal.jpg",
+    "origen": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1687950/capsule_616x353.jpg",
+    "bytes": 107084
+  },
+  {
+    "id": "promo-hades2",
+    "estado": "OK",
+    "archivo": "imagenes/promos/promo-hades-ii.jpg",
+    "origen": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1145350/capsule_616x353.jpg",
+    "bytes": 110095
+  },
+  {
+    "id": "promo-elden-ring",
+    "estado": "OK",
+    "archivo": "imagenes/promos/promo-elden-ring.jpg",
+    "origen": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1245620/capsule_616x353.jpg",
+    "bytes": 60437
+  }
+]

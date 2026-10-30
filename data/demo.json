@@ -1,0 +1,219 @@
+{
+  "usuarios": [
+    {
+      "id": "kairo",
+      "nombre": "Kairo",
+      "avatar": "avatar_kairo",
+      "rutaAvatar": "assets/img/comunidad/avatares/cartoon/chico-1.webp",
+      "conectado": true,
+      "licencias": [
+        "persona-3-reload"
+      ],
+      "estado": "en línea"
+    },
+    {
+      "id": "mika",
+      "nombre": "Mika",
+      "avatar": "avatar_mika",
+      "rutaAvatar": "assets/img/comunidad/avatares/cartoon/chica-1.webp",
+      "conectado": true,
+      "licencias": [
+        "metaphor-refantazio"
+      ],
+      "estado": "en línea"
+    },
+    {
+      "id": "ren",
+      "nombre": "Ren",
+      "avatar": "avatar_ren",
+      "rutaAvatar": "assets/img/comunidad/avatares/cartoon/chico-2.webp",
+      "conectado": false,
+      "licencias": [
+        "persona-5-royal"
+      ],
+      "estado": "desconectado"
+    },
+    {
+      "id": "sora",
+      "nombre": "Sora",
+      "avatar": "avatar_sora",
+      "rutaAvatar": "assets/img/comunidad/avatares/cartoon/gato.webp",
+      "conectado": true,
+      "licencias": [
+        "tales-of-arise"
+      ],
+      "estado": "ausente"
+    },
+    {
+      "id": "noa",
+      "nombre": "Noa",
+      "avatar": "avatar_noa",
+      "rutaAvatar": "assets/img/comunidad/avatares/cartoon/chica-2.webp",
+      "conectado": true,
+      "licencias": [
+        "scarlet-nexus"
+      ],
+      "estado": "en línea"
+    },
+    {
+      "id": "akari",
+      "nombre": "Akari",
+      "avatar": "avatar_akari",
+      "rutaAvatar": "assets/img/comunidad/avatares/cartoon/perro.webp",
+      "conectado": false,
+      "licencias": [
+        "code-vein"
+      ],
+      "estado": "desconectado"
+    },
+    {
+      "id": "nero",
+      "nombre": "Nero",
+      "avatar": "avatar_nero",
+      "rutaAvatar": "assets/img/comunidad/avatares/cartoon/robot.webp",
+      "conectado": true,
+      "licencias": [
+        "nier-automata"
+      ],
+      "estado": "en línea"
+    },
+    {
+      "id": "lyra",
+      "nombre": "Lyra",
+      "avatar": "avatar_lyra",
+      "rutaAvatar": "assets/img/comunidad/avatares/cartoon/criatura.webp",
+      "conectado": true,
+      "licencias": [
+        "hades-ii"
+      ],
+      "estado": "en línea"
+    }
+  ],
+  "publicaciones": [
+    {
+      "id": "post-mika",
+      "usuarioId": "mika",
+      "juegoId": "metaphor-refantazio",
+      "texto": "Me desvié de la misión para explorar y acabé encontrando este lugar. Cero arrepentimientos. ¿Qué zona les sorprendió más?",
+      "imagenId": "post_01"
+    },
+    {
+      "id": "post-ren",
+      "usuarioId": "ren",
+      "juegoId": "persona-3-reload",
+      "texto": "La banda sonora de Persona 3 ya se quedó en mi lista de estudio. Hoy avanzo un poco en el Tártaro; sin spoilers, por favor.",
+      "imagenId": "post_02"
+    },
+    {
+      "id": "post-lyra",
+      "usuarioId": "lyra",
+      "juegoId": "hades-ii",
+      "texto": "Llegué al jefe con muy poca vida y casi sale. Mañana pruebo otra combinación de bendiciones. ¿Alguna favorita?",
+      "imagenId": "post_03"
+    }
+  ],
+  "resenas": [
+    {
+      "id": "resena-mika",
+      "usuarioId": "mika",
+      "juegoId": "metaphor-refantazio",
+      "puntuacion": 5,
+      "texto": "El sistema de arquetipos me hizo cambiar de equipo varias veces. Los primeros combates explican mucho, pero después puedes experimentar bastante. Lo jugaría con tiempo para leer los diálogos.",
+      "verificada": true,
+      "recomienda": true
+    },
+    {
+      "id": "resena-ren",
+      "usuarioId": "ren",
+      "juegoId": "persona-5-royal",
+      "puntuacion": 5,
+      "texto": "Vine por la música y terminé encariñándome con el grupo. Ojo: el arranque es largo. Si te gustan los RPG por turnos, vale la pena pasar esas primeras horas.",
+      "verificada": true,
+      "recomienda": true
+    },
+    {
+      "id": "resena-lyra",
+      "usuarioId": "lyra",
+      "juegoId": "hades-ii",
+      "puntuacion": 4,
+      "texto": "El combate se siente ágil y cada intento enseña algo. A mí me cuesta dejarlo tras una sola partida. Algunas armas me funcionan mucho mejor que otras; todavía estoy probando.",
+      "verificada": true,
+      "recomienda": true
+    }
+  ],
+  "recursos": {
+    "avatar_kairo": "assets/img/comunidad/avatares/cartoon/chico-1.webp",
+    "avatar_mika": "assets/img/comunidad/avatares/cartoon/chica-1.webp",
+    "avatar_ren": "assets/img/comunidad/avatares/cartoon/chico-2.webp",
+    "avatar_sora": "assets/img/comunidad/avatares/cartoon/gato.webp",
+    "avatar_noa": "assets/img/comunidad/avatares/cartoon/chica-2.webp",
+    "avatar_akari": "assets/img/comunidad/avatares/cartoon/perro.webp",
+    "avatar_nero": "assets/img/comunidad/avatares/cartoon/robot.webp",
+    "avatar_lyra": "assets/img/comunidad/avatares/cartoon/criatura.webp",
+    "banner_perfil": "assets/img/ilustraciones/inicio-aventura.webp",
+    "banner_comunidad": "assets/img/comunidad/banners/metaphor-refantazio--banner_comunidad.webp",
+    "banner_evento": "assets/img/comunidad/banners/hades-ii--banner_evento.webp",
+    "banner_grupo": "assets/img/comunidad/banners/cyberpunk-2077--banner_grupo.webp",
+    "post_01": "assets/img/comunidad/publicaciones/metaphor-refantazio--post_01.webp",
+    "post_02": "assets/img/comunidad/publicaciones/persona-3-reload--post_02.webp",
+    "post_03": "assets/img/comunidad/publicaciones/hades-ii--post_03.webp",
+    "post_04": "assets/img/comunidad/publicaciones/elden-ring--post_04.webp",
+    "post_05": "assets/img/comunidad/publicaciones/tales-of-arise--post_05.webp",
+    "actividad_01": "assets/img/comunidad/actividad/metaphor-refantazio--actividad_01.webp",
+    "actividad_02": "assets/img/comunidad/actividad/hades-ii--actividad_02.webp",
+    "actividad_03": "assets/img/comunidad/actividad/persona-3-reload--actividad_03.webp",
+    "actividad_04": "assets/img/comunidad/actividad/nier-automata--actividad_04.webp"
+  },
+  "avatares": [
+    {
+      "avatar": "avatar_kairo",
+      "nombre": "Avatar 1",
+      "rutaAvatar": "assets/img/comunidad/avatares/cartoon/chico-1.webp"
+    },
+    {
+      "avatar": "avatar_ren",
+      "nombre": "Avatar 2",
+      "rutaAvatar": "assets/img/comunidad/avatares/cartoon/chico-2.webp"
+    },
+    {
+      "avatar": "avatar_mika",
+      "nombre": "Avatar 3",
+      "rutaAvatar": "assets/img/comunidad/avatares/cartoon/chica-1.webp"
+    },
+    {
+      "avatar": "avatar_noa",
+      "nombre": "Avatar 4",
+      "rutaAvatar": "assets/img/comunidad/avatares/cartoon/chica-2.webp"
+    },
+    {
+      "avatar": "avatar_sora",
+      "nombre": "Avatar 5",
+      "rutaAvatar": "assets/img/comunidad/avatares/cartoon/gato.webp"
+    },
+    {
+      "avatar": "avatar_akari",
+      "nombre": "Avatar 6",
+      "rutaAvatar": "assets/img/comunidad/avatares/cartoon/perro.webp"
+    },
+    {
+      "avatar": "avatar_nero",
+      "nombre": "Avatar 7",
+      "rutaAvatar": "assets/img/comunidad/avatares/cartoon/robot.webp"
+    },
+    {
+      "avatar": "avatar_lyra",
+      "nombre": "Avatar 8",
+      "rutaAvatar": "assets/img/comunidad/avatares/cartoon/criatura.webp"
+    },
+    {
+      "avatar": "avatar_caballero",
+      "nombre": "Avatar 9",
+      "rutaAvatar": "assets/img/comunidad/avatares/cartoon/caballero.webp"
+    },
+    {
+      "avatar": "avatar_goku",
+      "nombre": "Avatar 10",
+      "rutaAvatar": "assets/img/comunidad/avatares/cartoon/goku.webp"
+    }
+  ]
+}

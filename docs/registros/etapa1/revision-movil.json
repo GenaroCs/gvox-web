@@ -1,0 +1,98 @@
+[
+  {
+    "pagina": "index.html",
+    "width": 1023,
+    "height": 900,
+    "visibles": 0
+  },
+  {
+    "pagina": "pages/catalogo.html",
+    "width": 1023,
+    "height": 900,
+    "visibles": 0
+  },
+  {
+    "pagina": "pages/ficha.html",
+    "width": 1023,
+    "height": 900,
+    "visibles": 0
+  },
+  {
+    "pagina": "pages/carrito.html",
+    "width": 1023,
+    "height": 900,
+    "visibles": 0
+  },
+  {
+    "pagina": "pages/acceso.html",
+    "width": 1023,
+    "height": 900,
+    "visibles": 0
+  },
+  {
+    "pagina": "pages/biblioteca.html",
+    "width": 1023,
+    "height": 900,
+    "visibles": 0
+  },
+  {
+    "pagina": "pages/comunidad.html",
+    "width": 1023,
+    "height": 900,
+    "visibles": 0
+  },
+  {
+    "pagina": "pages/perfil-monedero.html",
+    "width": 1023,
+    "height": 900,
+    "visibles": 0
+  },
+  {
+    "pagina": "index.html",
+    "width": 390,
+    "height": 844,
+    "visibles": 0
+  },
+  {
+    "pagina": "pages/catalogo.html",
+    "width": 390,
+    "height": 844,
+    "visibles": 0
+  },
+  {
+    "pagina": "pages/ficha.html",
+    "width": 390,
+    "height": 844,
+    "visibles": 0
+  },
+  {
+    "pagina": "pages/carrito.html",
+    "width": 390,
+    "height": 844,
+    "visibles": 0
+  },
+  {
+    "pagina": "pages/acceso.html",
+    "width": 390,
+    "height": 844,
+    "visibles": 0
+  },
+  {
+    "pagina": "pages/biblioteca.html",
+    "width": 390,
+    "height": 844,
+    "visibles": 0
+  },
+  {
+    "pagina": "pages/comunidad.html",
+    "width": 390,
+    "height": 844,
+    "visibles": 0
+  },
+  {
+    "pagina": "pages/perfil-monedero.html",
+    "width": 390,
+    "height": 844,
+    "visibles": 0
+  }
+]

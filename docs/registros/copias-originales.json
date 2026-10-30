@@ -1,0 +1,645 @@
+[
+  {
+    "source": "C:\\Users\\cesar\\OneDrive\\Desktop\\GVOX_Paquete_01_Identidad_NUEVO",
+    "destination": "C:\\Users\\cesar\\OneDrive\\Desktop\\GVOX\\00_MATERIAL_ORIGINAL\\01_IDENTIDAD",
+    "files": [
+      {
+        "relativePath": "GVOX_01_IDENTIDAD\\LEEME.txt",
+        "bytes": 1522,
+        "sha256": "57B41A9DECF55CD679F9E1861F8B1C89F210A913A40C770077FEBE2CCF2FBAF6"
+      },
+      {
+        "relativePath": "GVOX_01_IDENTIDAD\\manifest.json",
+        "bytes": 3392,
+        "sha256": "6573705C5E04076E3A7BE71DDC55A78615E421EDF993B8610079F8EAF0318493"
+      },
+      {
+        "relativePath": "GVOX_01_IDENTIDAD\\css\\tokens-gvox.css",
+        "bytes": 749,
+        "sha256": "D1A060BA93EF01A934E93A234DD592D60DAEFF66A5645F71E84327B48117E517"
+      },
+      {
+        "relativePath": "GVOX_01_IDENTIDAD\\etiquetas\\alquiler-48h.svg",
+        "bytes": 355,
+        "sha256": "8D7C06533895AE96DA15A318A3CF1393FFEA053534E41F1FFF52BE2038110DA9"
+      },
+      {
+        "relativePath": "GVOX_01_IDENTIDAD\\etiquetas\\alquiler-72h.svg",
+        "bytes": 355,
+        "sha256": "9FE5395C3838C05015BCD946DBEA31FFE30EE2A9F29B96CC874BFD00217B0A23"
+      },
+      {
+        "relativePath": "GVOX_01_IDENTIDAD\\etiquetas\\demo-academica.svg",
+        "bytes": 410,
+        "sha256": "F974E0301E2671A8482B4DC4F0C7EA3BF77B600F31026A708DB6A4BD558230C8"
+      },
+      {
+        "relativePath": "GVOX_01_IDENTIDAD\\etiquetas\\descuento-100.svg",
+        "bytes": 594,
+        "sha256": "D4BC919D1AA3E64EC8ED83467F003BBEA7961230EE0F069C26355FAC692B4898"
+      },
+      {
+        "relativePath": "GVOX_01_IDENTIDAD\\fondos\\marcas-esquinas.svg",
+        "bytes": 427,
+        "sha256": "B53897D6FF24CFD26737B9242AF5F59F65AE6CA1C495E8FF58EB6E81A20A35D5"
+      },
+      {
+        "relativePath": "GVOX_01_IDENTIDAD\\fondos\\trama-cuadricula.svg",
+        "bytes": 370,
+        "sha256": "92CE8E5031361A238E803B29AE484661C88BB1489976BA23C1AE5221451398B1"
+      },
+      {
+        "relativePath": "GVOX_01_IDENTIDAD\\fondos\\trama-diagonal.svg",
+        "bytes": 407,
+        "sha256": "4FCDB819CB056F9E67C07BF6156CB20AF84D6BDD5E6D4C9BDCA859E089ECA6A8"
+      },
+      {
+        "relativePath": "GVOX_01_IDENTIDAD\\logos\\favicon.ico",
+        "bytes": 11151,
+        "sha256": "0A7503CB606698B87224C0E82BF2BBF34DD6F6F0C1C450B34583E7222F178139"
+      },
+      {
+        "relativePath": "GVOX_01_IDENTIDAD\\logos\\gvox-apilado.svg",
+        "bytes": 749,
+        "sha256": "2BE28A9E938CDC87D44DA4DEFE90714B1531E8159F2FFEF53BA9B230E3478B9F"
+      },
+      {
+        "relativePath": "GVOX_01_IDENTIDAD\\logos\\gvox-favicon.png",
+        "bytes": 10114,
+        "sha256": "938802CA1D6D67CEDA486D8FBAE34A798DB4A4BEA7578C9B3D92EB77642E26A3"
+      },
+      {
+        "relativePath": "GVOX_01_IDENTIDAD\\logos\\gvox-favicon.svg",
+        "bytes": 587,
+        "sha256": "3FF1551BD1D7A2C1B40D07B5E2DAC2C8490A3016EE73CF9D4FD554B3648EF886"
+      },
+      {
+        "relativePath": "GVOX_01_IDENTIDAD\\logos\\gvox-horizontal-claro.png",
+        "bytes": 18237,
+        "sha256": "18B0FE3DC8BC65A3312CD9BA0353A4A27046FF345FEA7C95B15F6F0AC2595990"
+      },
+      {
+        "relativePath": "GVOX_01_IDENTIDAD\\logos\\gvox-horizontal-claro.svg",
+        "bytes": 740,
+        "sha256": "66F8765B26AF7C080F7934734CCE8755903628E6B2281B2D485740C20955EF42"
+      },
+      {
+        "relativePath": "GVOX_01_IDENTIDAD\\logos\\gvox-horizontal-oscuro.png",
+        "bytes": 18491,
+        "sha256": "F29A31C8838611C493DD7A43403A4D0CCA8032FFF6CFDC481F6F5277B93E4B61"
+      },
+      {
+        "relativePath": "GVOX_01_IDENTIDAD\\logos\\gvox-horizontal-oscuro.svg",
+        "bytes": 741,
+        "sha256": "C807A17A3E1A7E38A1623FEDB3FEDEF0522F7DB7B85F5C844D3BBDA7974AE51D"
+      },
+      {
+        "relativePath": "GVOX_01_IDENTIDAD\\logos\\gvox-monocromo-blanco.svg",
+        "bytes": 743,
+        "sha256": "FB12104531C04C4752D52081AD2BB9DB105A2E5FEFA9B4E810D2A2854C370CCC"
+      },
+      {
+        "relativePath": "GVOX_01_IDENTIDAD\\logos\\gvox-monocromo-negro.svg",
+        "bytes": 742,
+        "sha256": "2BCEE3152561C70C5A621F1AC62989D0AE564AD20F14E64474072C98BBEB0091"
+      },
+      {
+        "relativePath": "GVOX_01_IDENTIDAD\\logos\\gvox-simbolo.png",
+        "bytes": 6548,
+        "sha256": "7F3EB54AD78454067F1315F3590D9B9470EF409BFDCAE9AABF89E2D88C3A6561"
+      },
+      {
+        "relativePath": "GVOX_01_IDENTIDAD\\logos\\gvox-simbolo.svg",
+        "bytes": 532,
+        "sha256": "62CCDC1D2B4977AF306B30A8B8DA3562A53471A1DAD8CFCE897B689BBE02D14D"
+      },
+      {
+        "relativePath": "GVOX_01_IDENTIDAD\\vista_previa\\preview.html",
+        "bytes": 3744,
+        "sha256": "7FCBE510FB72A45908E86AD67F00F0A573A2EA11AB2EFDBEFF1E0CBEF9E1B5EF"
+      },
+      {
+        "relativePath": "GVOX_01_IDENTIDAD\\vista_previa\\preview.png",
+        "bytes": 81751,
+        "sha256": "666A7BB32E28A8C27F6D5D02BB89FCB99AA455CDBD583A98D18D35792771825C"
+      }
+    ],
+    "copiedFiles": 24,
+    "verified": true
+  },
+  {
+    "source": "C:\\Users\\cesar\\OneDrive\\Desktop\\GVOX_02_PORTADA_AUTENTICACION",
+    "destination": "C:\\Users\\cesar\\OneDrive\\Desktop\\GVOX\\00_MATERIAL_ORIGINAL\\02_PORTADA_AUTENTICACION",
+    "files": [
+      {
+        "relativePath": "GVOX_02_PORTADA_AUTENTICACION\\descargar_imagenes.mjs",
+        "bytes": 2322,
+        "sha256": "7A2A28FACAA064751AC52D4AF9EB8E46AA7DD2B1A7E8B8A4F4A366A824A410A6"
+      },
+      {
+        "relativePath": "GVOX_02_PORTADA_AUTENTICACION\\fuentes.csv",
+        "bytes": 3636,
+        "sha256": "EA505AF7BD31B46F83ECF0500E48EC7C5CA2F73A3AE73CEC5D73437D25C0C30F"
+      },
+      {
+        "relativePath": "GVOX_02_PORTADA_AUTENTICACION\\gvox-demo.css",
+        "bytes": 4504,
+        "sha256": "F4880691EC5AC9418A98B1D27BE8B5709D352D1A02D8706519F18E49E656FE13"
+      },
+      {
+        "relativePath": "GVOX_02_PORTADA_AUTENTICACION\\LEEME_PRIMERO.txt",
+        "bytes": 2206,
+        "sha256": "BE264F83FD3128EDD623966DD4579D9ADAD982E5711677A16AC677B8F6BE5F70"
+      },
+      {
+        "relativePath": "GVOX_02_PORTADA_AUTENTICACION\\login_demo.html",
+        "bytes": 2118,
+        "sha256": "4C5B2BE2838666A4167B0E9536A8D6B232CD6215AF2B2A1E78FC24F0436AE744"
+      },
+      {
+        "relativePath": "GVOX_02_PORTADA_AUTENTICACION\\manifest.json",
+        "bytes": 11861,
+        "sha256": "F8DEB0A3C5790AA60288BA88A22CBF82DF2BA047BEE1F056B6A23F32ABD6FC78"
+      },
+      {
+        "relativePath": "GVOX_02_PORTADA_AUTENTICACION\\portada_demo.html",
+        "bytes": 2685,
+        "sha256": "4DA56E82EDA7CBA4804130A8C46790C526EB5672C882A67A6CDDEA5D2F6559B5"
+      }
+    ],
+    "copiedFiles": 7,
+    "verified": true
+  },
+  {
+    "source": "C:\\Users\\cesar\\OneDrive\\Desktop\\GVOX_03_CATALOGO",
+    "destination": "C:\\Users\\cesar\\OneDrive\\Desktop\\GVOX\\00_MATERIAL_ORIGINAL\\03_CATALOGO",
+    "files": [
+      {
+        "relativePath": "descargar_catalogo.mjs",
+        "bytes": 3537,
+        "sha256": "24719B258ECFE87D3962C6F86F492533CD25174A151730499448CD7CD226110C"
+      },
+      {
+        "relativePath": "fuentes_catalogo.csv",
+        "bytes": 19234,
+        "sha256": "93D3AF416B4B43FA8480EEA0D59B7CFAACEA17550A75BDB1B3E379F07A78253E"
+      },
+      {
+        "relativePath": "juegos.json",
+        "bytes": 15432,
+        "sha256": "18619705C07D5CB3C912B3EC6CE2A1A0889501885128D606B0495D15D4CF6B6F"
+      },
+      {
+        "relativePath": "LEEME_PRIMERO.txt",
+        "bytes": 2877,
+        "sha256": "E11F1DA5BD44B3352C87C70C01E4C71277476C2E582514B02F741F8373F0ABA1"
+      },
+      {
+        "relativePath": "vista_previa_catalogo.html",
+        "bytes": 18872,
+        "sha256": "A08A6D334B34DA2557E3146AF2CDF3CD57AC625EE8C47FCD3645C38FDF2214B2"
+      },
+      {
+        "relativePath": "imagenes\\catalogo\\clair-obscur-expedition-33\\.directorio",
+        "bytes": 61,
+        "sha256": "13220C98E999FA764E8ED1F538E4B5DD74CC22134C3CC937568EFB33A57796DB"
+      },
+      {
+        "relativePath": "imagenes\\catalogo\\code-vein\\.directorio",
+        "bytes": 61,
+        "sha256": "13220C98E999FA764E8ED1F538E4B5DD74CC22134C3CC937568EFB33A57796DB"
+      },
+      {
+        "relativePath": "imagenes\\catalogo\\cult-of-the-lamb\\.directorio",
+        "bytes": 61,
+        "sha256": "13220C98E999FA764E8ED1F538E4B5DD74CC22134C3CC937568EFB33A57796DB"
+      },
+      {
+        "relativePath": "imagenes\\catalogo\\cyberpunk-2077\\.directorio",
+        "bytes": 61,
+        "sha256": "13220C98E999FA764E8ED1F538E4B5DD74CC22134C3CC937568EFB33A57796DB"
+      },
+      {
+        "relativePath": "imagenes\\catalogo\\dave-the-diver\\.directorio",
+        "bytes": 61,
+        "sha256": "13220C98E999FA764E8ED1F538E4B5DD74CC22134C3CC937568EFB33A57796DB"
+      },
+      {
+        "relativePath": "imagenes\\catalogo\\elden-ring\\.directorio",
+        "bytes": 61,
+        "sha256": "13220C98E999FA764E8ED1F538E4B5DD74CC22134C3CC937568EFB33A57796DB"
+      },
+      {
+        "relativePath": "imagenes\\catalogo\\hades-ii\\.directorio",
+        "bytes": 61,
+        "sha256": "13220C98E999FA764E8ED1F538E4B5DD74CC22134C3CC937568EFB33A57796DB"
+      },
+      {
+        "relativePath": "imagenes\\catalogo\\hollow-knight\\.directorio",
+        "bytes": 61,
+        "sha256": "13220C98E999FA764E8ED1F538E4B5DD74CC22134C3CC937568EFB33A57796DB"
+      },
+      {
+        "relativePath": "imagenes\\catalogo\\hollow-knight-silksong\\.directorio",
+        "bytes": 61,
+        "sha256": "13220C98E999FA764E8ED1F538E4B5DD74CC22134C3CC937568EFB33A57796DB"
+      },
+      {
+        "relativePath": "imagenes\\catalogo\\metaphor-refantazio\\.directorio",
+        "bytes": 61,
+        "sha256": "13220C98E999FA764E8ED1F538E4B5DD74CC22134C3CC937568EFB33A57796DB"
+      },
+      {
+        "relativePath": "imagenes\\catalogo\\nier-automata\\.directorio",
+        "bytes": 61,
+        "sha256": "13220C98E999FA764E8ED1F538E4B5DD74CC22134C3CC937568EFB33A57796DB"
+      },
+      {
+        "relativePath": "imagenes\\catalogo\\ori-will-of-wisps\\.directorio",
+        "bytes": 61,
+        "sha256": "13220C98E999FA764E8ED1F538E4B5DD74CC22134C3CC937568EFB33A57796DB"
+      },
+      {
+        "relativePath": "imagenes\\catalogo\\persona-3-reload\\.directorio",
+        "bytes": 61,
+        "sha256": "13220C98E999FA764E8ED1F538E4B5DD74CC22134C3CC937568EFB33A57796DB"
+      },
+      {
+        "relativePath": "imagenes\\catalogo\\persona-5-royal\\.directorio",
+        "bytes": 61,
+        "sha256": "13220C98E999FA764E8ED1F538E4B5DD74CC22134C3CC937568EFB33A57796DB"
+      },
+      {
+        "relativePath": "imagenes\\catalogo\\resident-evil-4\\.directorio",
+        "bytes": 61,
+        "sha256": "13220C98E999FA764E8ED1F538E4B5DD74CC22134C3CC937568EFB33A57796DB"
+      },
+      {
+        "relativePath": "imagenes\\catalogo\\scarlet-nexus\\.directorio",
+        "bytes": 61,
+        "sha256": "13220C98E999FA764E8ED1F538E4B5DD74CC22134C3CC937568EFB33A57796DB"
+      },
+      {
+        "relativePath": "imagenes\\catalogo\\sekiro\\.directorio",
+        "bytes": 61,
+        "sha256": "13220C98E999FA764E8ED1F538E4B5DD74CC22134C3CC937568EFB33A57796DB"
+      },
+      {
+        "relativePath": "imagenes\\catalogo\\stardew-valley\\.directorio",
+        "bytes": 61,
+        "sha256": "13220C98E999FA764E8ED1F538E4B5DD74CC22134C3CC937568EFB33A57796DB"
+      },
+      {
+        "relativePath": "imagenes\\catalogo\\stray\\.directorio",
+        "bytes": 61,
+        "sha256": "13220C98E999FA764E8ED1F538E4B5DD74CC22134C3CC937568EFB33A57796DB"
+      },
+      {
+        "relativePath": "imagenes\\catalogo\\tales-of-arise\\.directorio",
+        "bytes": 61,
+        "sha256": "13220C98E999FA764E8ED1F538E4B5DD74CC22134C3CC937568EFB33A57796DB"
+      }
+    ],
+    "copiedFiles": 25,
+    "verified": true
+  },
+  {
+    "source": "C:\\Users\\cesar\\OneDrive\\Desktop\\GVOX_04_GALERIAS_FICHAS",
+    "destination": "C:\\Users\\cesar\\OneDrive\\Desktop\\GVOX\\00_MATERIAL_ORIGINAL\\04_GALERIAS",
+    "files": [
+      {
+        "relativePath": "DESCARGAR_EN_WINDOWS.bat",
+        "bytes": 397,
+        "sha256": "949634973C6FB520BE0B2FFD975C6D1CB3281A9D6EE075B291699AFD8222C995"
+      },
+      {
+        "relativePath": "descargar_galerias.mjs",
+        "bytes": 7260,
+        "sha256": "C0329B2F8E9B6A7FF77B77EA41C22F289BA526D14048790B9FDCA47E43B9D642"
+      },
+      {
+        "relativePath": "fuentes_y_destinos.csv",
+        "bytes": 15446,
+        "sha256": "7C7CB061D740A22E13F33A0C717620DE561EA8DB060DFAC09039F1AB623E61F2"
+      },
+      {
+        "relativePath": "galerias_plan.json",
+        "bytes": 16924,
+        "sha256": "B4AC474182FD42436FEC4BDD73603487DDDBFBC79C84E0299D623E2C41D019F2"
+      },
+      {
+        "relativePath": "LEEME_PRIMERO.txt",
+        "bytes": 3433,
+        "sha256": "C7C970D4CB5742490DF202101D3798AECC388728DBCF9DE5A1BC563367915EAE"
+      },
+      {
+        "relativePath": "PARA_CODEX.txt",
+        "bytes": 1622,
+        "sha256": "71399F288394AC4FBA3D27F85D12F1A41E96AAED1BD652FF9963928384FEA46B"
+      },
+      {
+        "relativePath": "vista_previa_fichas.html",
+        "bytes": 13111,
+        "sha256": "4B092FC58DACF4F05F9B8DF2C45FF9946647089A1480B20A80993FA34323679E"
+      }
+    ],
+    "copiedFiles": 7,
+    "verified": true
+  },
+  {
+    "source": "C:\\Users\\cesar\\OneDrive\\Desktop\\GVOX_05_COMUNIDAD_PERFILES",
+    "destination": "C:\\Users\\cesar\\OneDrive\\Desktop\\GVOX\\00_MATERIAL_ORIGINAL\\05_COMUNIDAD",
+    "files": [
+      {
+        "relativePath": "GVOX_05_COMUNIDAD_PERFILES\\comunidad_demo.html",
+        "bytes": 7602,
+        "sha256": "A23AED69314ED7440B411AA57F72DD9347DA9D7117C16792F2789A5E46B4B99C"
+      },
+      {
+        "relativePath": "GVOX_05_COMUNIDAD_PERFILES\\descargar_comunidad.mjs",
+        "bytes": 4308,
+        "sha256": "DB9F138069DDA27F2E9CAD6DDD630A1732970B4FBE3DF321FF6D0DF6E5093EE7"
+      },
+      {
+        "relativePath": "GVOX_05_COMUNIDAD_PERFILES\\DESCARGAR_EN_WINDOWS.bat",
+        "bytes": 253,
+        "sha256": "C45A2455BCBD058E8DF0DA034DE2560AE417ECEC42F24885C4D389CA677BF445"
+      },
+      {
+        "relativePath": "GVOX_05_COMUNIDAD_PERFILES\\fuentes_comunidad.csv",
+        "bytes": 3988,
+        "sha256": "4CFA01BF080E948D00F668247208B3F840A270EC8BC6B7C5C3FC53A5709B67F6"
+      },
+      {
+        "relativePath": "GVOX_05_COMUNIDAD_PERFILES\\LEEME_PRIMERO.txt",
+        "bytes": 1769,
+        "sha256": "3F48D20E2154437DBAB50AFA3477E2B0781BAA35E3A405E0278DE10705C31AE3"
+      },
+      {
+        "relativePath": "GVOX_05_COMUNIDAD_PERFILES\\manifest_comunidad.json",
+        "bytes": 8475,
+        "sha256": "957ED4B0E56D8C1135567BEA08C4234C3DB754FBF9009CE25358914392653439"
+      },
+      {
+        "relativePath": "GVOX_05_COMUNIDAD_PERFILES\\PARA_CODEX.txt",
+        "bytes": 1205,
+        "sha256": "B7AF56F46AB4F01BAF878EF0242CF9964B134CF9091C1F9A1B011D5EE5265BAA"
+      },
+      {
+        "relativePath": "GVOX_05_COMUNIDAD_PERFILES\\perfil_monedero_demo.html",
+        "bytes": 5342,
+        "sha256": "7C1A0989B506BAA79E753E7F333538FC49CEF4D4B8D83FC3CBE00C3E91D976BA"
+      },
+      {
+        "relativePath": "GVOX_05_COMUNIDAD_PERFILES\\capturas\\01_comunidad_mini.png",
+        "bytes": 88821,
+        "sha256": "3E38FC87BD454895A0C3CAD3D3A11FC6C4A882A6F540552A3213846B3E6A2427"
+      },
+      {
+        "relativePath": "GVOX_05_COMUNIDAD_PERFILES\\capturas\\01_comunidad.png",
+        "bytes": 574904,
+        "sha256": "1CE4A0AB6DFF67A4F4FC1A5D3F3CA77FEF80FE45A81527DD202854FE6615EE4F"
+      },
+      {
+        "relativePath": "GVOX_05_COMUNIDAD_PERFILES\\capturas\\02_perfil_monedero_mini.png",
+        "bytes": 113917,
+        "sha256": "830D1A41890F471B4501058376D0DE06E999D80A70487DD26EE955A14E5D4B16"
+      },
+      {
+        "relativePath": "GVOX_05_COMUNIDAD_PERFILES\\capturas\\02_perfil_monedero.png",
+        "bytes": 326639,
+        "sha256": "8CC6619037A2F6F21CEDE5468DD8DDD52CBFBB1ACA5757C2FE16D4EFE00374E8"
+      },
+      {
+        "relativePath": "GVOX_05_COMUNIDAD_PERFILES\\css\\gvox_comunidad.css",
+        "bytes": 10927,
+        "sha256": "74D0E66F754295789E38188B5381F86B89A51C0F6569198EDE3F73607726DA32"
+      },
+      {
+        "relativePath": "GVOX_05_COMUNIDAD_PERFILES\\imagenes\\actividad\\ANADIR_IMAGENES_AQUI.txt",
+        "bytes": 76,
+        "sha256": "459ECBC1DB25213AD0D9845D8F8DB16AD6E1D6CC14A27D094BE7372B637D4A88"
+      },
+      {
+        "relativePath": "GVOX_05_COMUNIDAD_PERFILES\\imagenes\\avatares\\ANADIR_IMAGENES_AQUI.txt",
+        "bytes": 76,
+        "sha256": "459ECBC1DB25213AD0D9845D8F8DB16AD6E1D6CC14A27D094BE7372B637D4A88"
+      },
+      {
+        "relativePath": "GVOX_05_COMUNIDAD_PERFILES\\imagenes\\banners\\ANADIR_IMAGENES_AQUI.txt",
+        "bytes": 76,
+        "sha256": "459ECBC1DB25213AD0D9845D8F8DB16AD6E1D6CC14A27D094BE7372B637D4A88"
+      },
+      {
+        "relativePath": "GVOX_05_COMUNIDAD_PERFILES\\imagenes\\publicaciones\\ANADIR_IMAGENES_AQUI.txt",
+        "bytes": 76,
+        "sha256": "459ECBC1DB25213AD0D9845D8F8DB16AD6E1D6CC14A27D094BE7372B637D4A88"
+      },
+      {
+        "relativePath": "GVOX_05_COMUNIDAD_PERFILES\\js\\demo.js",
+        "bytes": 2713,
+        "sha256": "CDC11241FBF701B1E6C3F1EF9EDAA654EF38C4CC4BA2C7C0D8F223CD68EC417B"
+      }
+    ],
+    "copiedFiles": 18,
+    "verified": true
+  },
+  {
+    "source": "C:\\Users\\cesar\\OneDrive\\Desktop\\GVOX_06_WIREFRAMES_FINALES",
+    "destination": "C:\\Users\\cesar\\OneDrive\\Desktop\\GVOX\\00_MATERIAL_ORIGINAL\\06_WIREFRAMES",
+    "files": [
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\01_inicio.html",
+        "bytes": 4353,
+        "sha256": "B5593EF46D988F78394820969AC4B039059890BD0D3927A4192D670D59EBD333"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\02_catalogo.html",
+        "bytes": 6941,
+        "sha256": "56AB4700CC44A9BA7C3B105FC375CD41428BFA8A90B980CAD1CDE5C2E7F8C571"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\03_ficha.html",
+        "bytes": 4641,
+        "sha256": "06A50C81C4D474DC24D0BA9D485B341089C7BC80DECC8FD72178BA7876DEDA7E"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\04_carrito.html",
+        "bytes": 4618,
+        "sha256": "E07E6960EE95770B1C4C067DA096553F373661B77F403D4BDE63B038328EE1C1"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\05_acceso.html",
+        "bytes": 3611,
+        "sha256": "7A3942F85E49255CBE282F3C1F3D8D516AA68BBECC4321540F35233670D9DA8C"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\06_biblioteca.html",
+        "bytes": 5310,
+        "sha256": "BFCE8C17DCDD394E8EB96D063A3607DD674B79AE881448C517B4F74BC8EA8851"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\07_comunidad.html",
+        "bytes": 5930,
+        "sha256": "2676AACFFCB8DD35013E42B761549717E1E208D240F5CBCBF4BCE35E8FB0B5B3"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\08_perfil_monedero.html",
+        "bytes": 5553,
+        "sha256": "4EF8C3E37157E8775489B211EBE01DE93E7B28162E370B6582EE2857F46D8305"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\assets\\aetherfall.webp",
+        "bytes": 17740,
+        "sha256": "051CBF363F7E2E6AA7BB6929E5F4A800317A23D37DFAC4C94F3021CC35F85FD1"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\assets\\hero.webp",
+        "bytes": 55636,
+        "sha256": "0E37CA50F10C5307434086C7AE0933C5DC78A796509E0734210D81CAE38AA283"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\assets\\logo-gvox.png",
+        "bytes": 18491,
+        "sha256": "F29A31C8838611C493DD7A43403A4D0CCA8032FFF6CFDC481F6F5277B93E4B61"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\assets\\lumina.webp",
+        "bytes": 18344,
+        "sha256": "00399F8CB284E2210E7520B24A3A1AD7D59FE2021EAAD5AA17296DAA1553A52E"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\assets\\neon-drift.webp",
+        "bytes": 20090,
+        "sha256": "848D2D27211E73CDC3FECE600BAD983E0BDCBBCB2307260608B0D4C535893DDC"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\assets\\portrait.webp",
+        "bytes": 38638,
+        "sha256": "EF1BDAA0E3C949BD7456F57B1FF2A2EF3472BB3A8823105AAE927F631B4AD187"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\assets\\promo1.webp",
+        "bytes": 14398,
+        "sha256": "3F3C11BF6CD1973034E34EF8AA52CEF2795A226D953E4F0F61DCECA107584495"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\assets\\promo2.webp",
+        "bytes": 15204,
+        "sha256": "DDF99BA1C481403FC540330DFA752665EE00BF1DD7D85CE2C13B78C3C6B3158B"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\assets\\promo3.webp",
+        "bytes": 14686,
+        "sha256": "25F964D8B044A3B452D49FD8BD94955016363657B3DE804FDFA037FE56BD140E"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\assets\\promo4.webp",
+        "bytes": 10576,
+        "sha256": "7E714D4169F20DF745CA1343226A771273FFF8BF3C8ABB1FF6DE606256BB7AB7"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\assets\\rust-zone.webp",
+        "bytes": 16098,
+        "sha256": "74C30B98EEECC5401BE24737BB13B2D690C89676813C790A01FFEA4DD6F21D9D"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\assets\\scene.webp",
+        "bytes": 47006,
+        "sha256": "1AF98E783C7EE93ED17728624EE0AACBD9E6245589C001FC82ABCF42BB42BEFF"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\assets\\shadow-reign.webp",
+        "bytes": 15106,
+        "sha256": "ED7B9BA1AEE6A1C4A97CACA2D63AAFF1DF1FD2A927946FCD612C01E009F2B3FC"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\assets\\solaris.webp",
+        "bytes": 18212,
+        "sha256": "F08A6557CE89795804C76099A469504D693CBE6705C0CA47881CA75533B263AF"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\assets\\void-echo.webp",
+        "bytes": 13300,
+        "sha256": "565EFF3FEB767C7DDA9ABAFDA6CBCD010F20A41051CCD1DC34B4375C24307DE2"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\assets\\wildbound.webp",
+        "bytes": 18422,
+        "sha256": "DFA69E7E637AFC8A9A1D8FC91F4EE65B581164FFD7BDC52824E08C7D04B83563"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\capturas\\00_vista_general.png",
+        "bytes": 344495,
+        "sha256": "1F3C737A4D6B191C31B5ACD98A5F143026DF7F8FB9985D02736BC91EFE0248D7"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\capturas\\01_inicio.png",
+        "bytes": 659753,
+        "sha256": "FDDFE8C594AF85B4366170B82A1E4ABC8D73A3DA8BCA331D0F756060585A6814"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\capturas\\02_catalogo.png",
+        "bytes": 608673,
+        "sha256": "40E87C68E845AF0BF8EF18C788CC752C3A25E4789B9BE7D2EA9BAF05C560CA46"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\capturas\\03_ficha.png",
+        "bytes": 518526,
+        "sha256": "A2BEE3DBBA5D3BCA159A516D68DB2F4D2DF55220B2FC2D775A90181D83026C0A"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\capturas\\04_carrito.png",
+        "bytes": 191357,
+        "sha256": "14EE7115DEBEDC412EBC38E13FA9A88690AFB6A53F04234BDAF5056937259949"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\capturas\\05_acceso.png",
+        "bytes": 431543,
+        "sha256": "BAB4DEA9E3EDDFBCC230306A2F843B756D240A3295D0D5D6167632957B3997C2"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\capturas\\06_biblioteca.png",
+        "bytes": 375084,
+        "sha256": "EE2EE6FB830E06E0774EEF7D40689AE85394794EA67BF8DB37AD0897AF3B315E"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\capturas\\07_comunidad.png",
+        "bytes": 403119,
+        "sha256": "7B19F369169B6C0E439FA1743FD6151AE39DE9BA46448E7415AAD592F68988C5"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\capturas\\08_perfil_monedero.png",
+        "bytes": 351059,
+        "sha256": "14AD86D7DCE8E54B6120A2E75AF371F6C39180C163C811A63DFD70AC950D289A"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\css\\style.css",
+        "bytes": 17267,
+        "sha256": "5EF4D8C0A8E98F593E6DCD41770EB455317B3AA9503082AFBCCEBE0AABA2B785"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\docs\\LEEME_PRIMERO.md",
+        "bytes": 2080,
+        "sha256": "860F02F5733520EE2D806E1440A472ABBD5F1493AB0D8127321B3D542A1023CE"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\docs\\MATRIZ_REQUISITOS_FRONEND.csv",
+        "bytes": 2433,
+        "sha256": "4D4D07DC4CFF4AA41BA6A70550CF2E466E37044029E8579B85EA09A3AE31EE9F"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\docs\\PARA_CODEX.md",
+        "bytes": 3486,
+        "sha256": "E371585A4EA9128B8985A9B8D5616FFD187CF3B4D0B039CF9885C3890C45E408"
+      },
+      {
+        "relativePath": "GVOX_06_WIREFRAMES_FINALES\\js\\demo.js",
+        "bytes": 3035,
+        "sha256": "C607A4D89757D4295157788AB2F493F848015EF1B9191AA35532CCB3F04C5073"
+      }
+    ],
+    "copiedFiles": 38,
+    "verified": true
+  }
+]

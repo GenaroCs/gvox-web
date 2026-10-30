@@ -1,0 +1,130 @@
+[
+  {
+    "pagina": "index.html",
+    "ancho": 1440,
+    "alto": 900,
+    "desborde": false,
+    "rotas": 0,
+    "titulo": "PRIMEROJUÉGALO.LUEGO DECIDE."
+  },
+  {
+    "pagina": "pages/catalogo.html",
+    "ancho": 1440,
+    "alto": 900,
+    "desborde": false,
+    "rotas": 0,
+    "titulo": "Tu próximo juego está aquí."
+  },
+  {
+    "pagina": "pages/ficha.html?juego=metaphor-refantazio",
+    "ancho": 1440,
+    "alto": 900,
+    "desborde": false,
+    "rotas": 0,
+    "titulo": "Metaphor: ReFantazio"
+  },
+  {
+    "pagina": "pages/carrito.html",
+    "ancho": 1440,
+    "alto": 900,
+    "desborde": false,
+    "rotas": 0,
+    "titulo": "Todo listo para jugar."
+  },
+  {
+    "pagina": "pages/acceso.html",
+    "ancho": 1440,
+    "alto": 900,
+    "desborde": false,
+    "rotas": 0,
+    "titulo": "UNA COMUNIDADQUE NUNCASE DETIENE."
+  },
+  {
+    "pagina": "pages/biblioteca.html",
+    "ancho": 1440,
+    "alto": 900,
+    "desborde": false,
+    "rotas": 0,
+    "titulo": "Mi biblioteca."
+  },
+  {
+    "pagina": "pages/comunidad.html",
+    "ancho": 1440,
+    "alto": 900,
+    "desborde": false,
+    "rotas": 0,
+    "titulo": "Jugar es mejor juntos."
+  },
+  {
+    "pagina": "pages/perfil-monedero.html",
+    "ancho": 1440,
+    "alto": 900,
+    "desborde": false,
+    "rotas": 0,
+    "titulo": "Mi perfil y monedero."
+  },
+  {
+    "pagina": "index.html",
+    "ancho": 1920,
+    "alto": 1080,
+    "desborde": false,
+    "rotas": 0,
+    "titulo": "PRIMEROJUÉGALO.LUEGO DECIDE."
+  },
+  {
+    "pagina": "pages/catalogo.html",
+    "ancho": 1920,
+    "alto": 1080,
+    "desborde": false,
+    "rotas": 0,
+    "titulo": "Tu próximo juego está aquí."
+  },
+  {
+    "pagina": "pages/ficha.html?juego=metaphor-refantazio",
+    "ancho": 1920,
+    "alto": 1080,
+    "desborde": false,
+    "rotas": 0,
+    "titulo": "Metaphor: ReFantazio"
+  },
+  {
+    "pagina": "pages/carrito.html",
+    "ancho": 1920,
+    "alto": 1080,
+    "desborde": false,
+    "rotas": 0,
+    "titulo": "Todo listo para jugar."
+  },
+  {
+    "pagina": "pages/acceso.html",
+    "ancho": 1920,
+    "alto": 1080,
+    "desborde": false,
+    "rotas": 0,
+    "titulo": "UNA COMUNIDADQUE NUNCASE DETIENE."
+  },
+  {
+    "pagina": "pages/biblioteca.html",
+    "ancho": 1920,
+    "alto": 1080,
+    "desborde": false,
+    "rotas": 0,
+    "titulo": "Mi biblioteca."
+  },
+  {
+    "pagina": "pages/comunidad.html",
+    "ancho": 1920,
+    "alto": 1080,
+    "desborde": false,
+    "rotas": 0,
+    "titulo": "Jugar es mejor juntos."
+  },
+  {
+    "pagina": "pages/perfil-monedero.html",
+    "ancho": 1920,
+    "alto": 1080,
+    "desborde": false,
+    "rotas": 0,
+    "titulo": "Mi perfil y monedero."
+  }
+]

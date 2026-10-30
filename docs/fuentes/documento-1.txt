@@ -1,0 +1,494 @@
+
+=== PÁGINA 1 ===
+Gvox
+Plataforma de distribución digital de videojuegos con 
+alquiler por horas
+Trabajo Final · 1ASI0720 Diseño y Patrones de Software
+Ingeniería de Software · UPC · Ciclo 202620 · NRC 7135
+Profesor: Jorge Luis Delgado Vite · Grupo 02
+48 h · 72 h
+
+=== PÁGINA 2 ===
+1 Presentación del proyecto
+Integrantes · Tema · Objetivos · Alcance · Supuestos
+
+=== PÁGINA 3 ===
+Gvox · 1ASI0720 Diseño y Patrones de Software · Grupo 02
+Integrantes del equipo
+Fabrizzio André 
+Zegarra Gutierrez
+u202115109
+Resolución de problemas 
+clave para el desarrollo del 
+proyecto.
+César Caleb Genaro 
+Antezana
+u20221C831
+Soluciones prácticas y 
+rápidas a cualquier problema 
+del proyecto.
+Leonardo Andre Flores 
+Taipe
+u202414776
+Análisis de requerimientos y 
+diseño lógico del software.
+Leo Giovanny Yañez 
+Santos
+u202218061
+Colaborador, responsable y 
+creativo; le gusta investigar.
+Ingeniería de Software · Universidad Peruana de Ciencias Aplicadas
+3
+
+=== PÁGINA 4 ===
+Gvox · 1ASI0720 Diseño y Patrones de Software · Grupo 02
+Tema: tienda de videojuegos con alquiler digital
+Descripción del producto
+Plataforma web inspirada en Steam para 
+buscar, comprar, alquilar temporalmente y 
+gestionar videojuegos digitales desde un solo 
+lugar.
+Propuesta de valor
+Probar juegos completos por 48 o 72 horas a una 
+fracción del costo y descontar lo pagado si luego se 
+compra la versión permanente.
+Basado en el modelo de negocio de Steam
+1
+Tienda, carrito y alquiler digital
+Catálogo con ofertas, buscador con filtros, compra definitiva y 
+alquiler de 48/72 h en un carrito unificado.
+2
+Biblioteca y colecciones
+Juegos comprados y en alquiler, temporizador de vigencia, 
+validación de licencia y colecciones.
+3
+Comunidad y reseñas verificadas
+Amigos, solicitudes y calificaciones (pulgar arriba/abajo) solo de 
+poseedores del título.
+4
+Seguridad y finanzas
+Códigos al correo, monedero recargable, reembolso automático y 
+conversión de alquiler a compra.
+4
+
+=== PÁGINA 5 ===
+Gvox · 1ASI0720 Diseño y Patrones de Software · Grupo 02
+Objetivos del proyecto
+Objetivo general
+Elaborar los artefactos de diseño y la especificación arquitectónica de una solución basada en el modelo de negocio de Steam,  con el 
+diseño inicial de un Frontend y la implementación parcial de Web Services RESTful que evidencien patrones de diseño y buenas 
+prácticas.
+1 Análisis de negocio y 
+requisitos
+Lean UX Canvas, As-Is / To-Be y matriz de 
+requisitos funcionales y no funcionales.
+2 Arquitectura con C4 y DDD
+Diagramas de contexto, contenedores y 
+componentes; dominios de Tienda, DRM y 
+Comunidad.
+3 Diseño estático y dinámico
+Diagramas UML, Product Backlog, Sprint 
+Backlogs e Historias de Usuario.
+4 Prototipo de Frontend
+Wireframes y prototipos de los flujos 
+esenciales, con soporte en inglés y español.
+5 Backend parcial
+API RESTful stateless: usuarios, catálogo de 
+tienda y validación de licencias (DRM).
+6 Documentación y calidad
+Endpoints documentados con OpenAPI / 
+Swagger y pruebas unitarias iniciales.
+5
+
+=== PÁGINA 6 ===
+Gvox · 1ASI0720 Diseño y Patrones de Software · Grupo 02
+Alcance del proyecto
+Modelado, diseño arquitectónico e implementación parcial de una solución orientada a servicios.
+1
+Diseño y 
+documentación
+• Diagramas UML estáticos 
+y dinámicos
+• Diagrama de clases con 
+requisitos de hardware, 
+categorías, colecciones y 
+licencias de alquiler
+• Modelo C4 y DDD 
+estratégico
+2
+Implementación de 
+Backend
+• Web Services con estilo 
+RESTful
+• Tienda
+• Licencias de compra y 
+alquiler (DRM)
+• Biblioteca de juegos y 
+Comunidad
+3
+Implementación de 
+Frontend
+• Interfaz web que 
+consume los servicios
+• Selección de modalidad: 
+compra o alquiler
+• Tiempo restante de las 
+licencias
+4
+Estándares de calidad
+• Internacionalización 
+(i18n) en inglés y español
+• Endpoints documentados 
+con OpenAPI 
+Specification (Swagger)
+6
+
+=== PÁGINA 7 ===
+Gvox · 1ASI0720 Diseño y Patrones de Software · Grupo 02
+Supuestos
+Suposiciones del Lean UX Canvas sobre las que se construye el proyecto.
+1 Pagos simulados
+La simulación de pasarelas de pago (tarjeta, PayPal, saldo) es 
+suficiente para validar el flujo transaccional dentro del alcance 
+académico.
+2 Implementación parcial
+Una implementación parcial del backend y un frontend 
+representativo bastan para evidenciar los patrones 
+arquitectónicos requeridos.
+Hipótesis asociadas
+Una arquitectura RESTful stateless y bien 
+modulada logrará respuestas menores a 2 
+s en alta concurrencia.
+Modelar con DDD y C4 dará un 
+desacoplamiento claro entre tienda, DRM 
+y comunidad.
+Habrá éxito cuando el frontend consuma 
+los endpoints y las pruebas validen las 
+transacciones.
+7
+
+=== PÁGINA 8 ===
+2 Funcionalidad
+Requisitos funcionales · No funcionales · AS-IS / TO-BE · Product Backlog 
+y cronograma
+
+=== PÁGINA 9 ===
+Gvox · 1ASI0720 Diseño y Patrones de Software · Grupo 02
+Requisitos funcionales: 23 en seis módulos
+Autenticación y usuarios
+RFU-001 a 005
+• Registro de usuario
+• Inicio de sesión
+• Dos factores (Steam Guard)
+• Recuperación de contraseña
+• Gestión de perfil
+Tienda
+RFU-006 a 010
+• Catálogo principal
+• Búsqueda de productos
+• Filtrado avanzado
+• Detalles del producto
+• Lista de deseados
+Transacciones y carrito
+RFU-011 a 015
+• Carrito de compras
+• Pasarela de pago simulada
+• Comprobantes digitales
+• Reembolso de productos
+• Recarga de cartera
+Biblioteca
+RFU-016 a 018
+• Biblioteca de usuario
+• Validación de licencias (DRM)
+• Colecciones personalizadas
+Comunidad y social
+RFU-019 a 020
+• Red de amigos
+• Publicación y calificación de reseñas
+Alquiler de juegos
+RFU-021 a 023
+• Modalidad de 48 o 72 horas
+• Vigencia y expiración
+• Conversión a compra (Rent-to-Own)
+9
+
+=== PÁGINA 10 ===
+Gvox · 1ASI0720 Diseño y Patrones de Software · Grupo 02
+Requisitos no funcionales
+RNF-001
+< 2 s
+Rendimiento y 
+escalabilidad
+Catálogo y carrito 
+responden en menos de 
+2000 ms, incluso en alta 
+concurrencia.
+RNF-002
+Bcrypt
+Seguridad y privacidad
+Contraseñas con 
+hashing seguro y 
+comunicación cliente-
+servidor sobre HTTPS.
+RNF-003
+ES / EN
+Internacionalización
+Interfaz y respuestas del 
+servicio en español 
+latinoamericano e inglés.
+RNF-004
+REST
+Estándares de 
+arquitectura
+API RESTful con 
+operaciones stateless e 
+identificadores de 
+recursos 
+estandarizados.
+RNF-005
+Swagger
+Documentación de la 
+API
+Servicios documentados 
+de forma interactiva con 
+OpenAPI Specification.
+10
+
+=== PÁGINA 11 ===
+Gvox · 1ASI0720 Diseño y Patrones de Software · Grupo 02
+Escenario AS-IS / TO-BE
+AS-IS · Situación actual TO-BE · Con Gvox
+Jugador / 
+Comprador
+Compra claves que fallan ("ya utilizada") y no hay 
+devolución. Pierde su dinero.
+Estafado y desconfiado
+Elige comprar o alquilar 48 h a precio reducido; si le 
+gusta, compra descontando el alquiler.
+Seguro y empoderado
+Desarrollador / 
+Publisher
+Comisiones de hasta 30 % o tiendas con muy pocos 
+compradores activos.
+Presionado y desmotivado
+Comisiones justas y alquiler digital que atrae a indecisos 
+y los convierte en compras.
+Optimista y respaldado
+Comunidad y 
+soporte
+Reclamos y devoluciones manuales por tickets; reseñas 
+de cuentas falsas.
+Sobrecargado y saturado
+Reglas automáticas: vencimiento de alquileres, 
+reembolsos (< 2 h y < 14 días) y reseñas verificadas.
+Eficiente y en control
+11
+
+=== PÁGINA 12 ===
+Gvox · 1ASI0720 Diseño y Patrones de Software · Grupo 02
+Product Backlog
+Id Historia de usuario Prioridad Story points
+HU01 Registro de usuario nuevo Alta 5
+HU02 Inicio de sesión de usuario Alta 3
+HU03 Gestión de perfil de usuario Baja 3
+HU04 Exploración del catálogo y ofertas Alta 5
+HU05 Búsqueda y filtrado de juegos Alta 5
+HU06 Ficha técnica y detalles del juego Media 5
+HU07 Gestión de carrito de compras Media 3
+HU08 Pago y recibo de compra Alta 5
+HU09 Alquiler digital de videojuegos Alta 8
+HU10 Biblioteca digital de juegos Alta 5
+HU11 Solicitud de reembolso Alta 3
+HU12 Publicación de reseñas Media 5
+12
+historias de usuario
+55
+story points en total
+8
+historias de prioridad alta
+12
+
+=== PÁGINA 13 ===
+Gvox · 1ASI0720 Diseño y Patrones de Software · Grupo 02
+Cronograma por sprints
+1
+Sprint 1
+Autenticación y gestión 
+de cuentas
+Registro, inicio de sesión, dos 
+factores, recuperación y perfil
+20 h
+2
+Sprint 2
+Tienda, búsqueda, ficha 
+y deseados
+Catálogo, búsqueda, filtros, 
+detalles del producto y wishlist
+21 h
+3
+Sprint 3
+Carrito y checkout 
+transaccional
+Carrito, pasarela de pago, 
+comprobantes y recarga de 
+cartera
+21 h
+4
+Sprint 4
+Biblioteca, reembolsos y 
+comunidad
+Biblioteca, DRM, colecciones, 
+reembolso, amigos y reseñas
+27 h
+13
+
+=== PÁGINA 14 ===
+3 Análisis y diseño
+Diagrama de clases · Otros diagramas UML · Wireframes · Requisitos 
+clave · Patrones
+
+=== PÁGINA 15 ===
+Gvox · 1ASI0720 Diseño y Patrones de Software · Grupo 02
+Diagrama de clases
+85 clases organizadas alrededor de tres 
+entidades centrales: Juego, Pedido y Usuario.
+Builder
+BuilderPublicacion arma la publicación del juego: 
+capturas, ofertas y planes de alquiler.
+Proxy
+ProxyLicencia valida el acceso al juego con licencia 
+permanente o temporal.
+Strategy
+StrategyPago: tarjeta, billetera virtual o saldo de 
+cartera.
+15
+
+=== PÁGINA 16 ===
+Gvox · 1ASI0720 Diseño y Patrones de Software · Grupo 02
+Otros diagramas UML: objetos y estados
+Diagrama de objetos
+Una compra real: comprador, carrito, pedido pagado, comprobante, pago con tarjeta y licencia 
+activa.
+Diagrama de estados del pedido
+Pendiente → Procesando pago → Pagado → 
+Solicitud de reembolso → Reembolsado.
+16
+
+=== PÁGINA 17 ===
+Gvox · 1ASI0720 Diseño y Patrones de Software · Grupo 02
+Otros diagramas UML: actividades y secuencia
+Diagrama de 
+actividades
+Compra de un videojuego 
+en cuatro carriles: 
+usuario, frontend, 
+backend / API y base de 
+datos.
+Diagrama de 
+secuencia
+Inicio de sesión, 
+búsqueda, carrito, 
+pago, emisión de 
+licencia y 
+reembolso.
+17
+
+=== PÁGINA 18 ===
+Gvox · 1ASI0720 Diseño y Patrones de Software · Grupo 02
+Wireframes y prototipos de pantalla
+1. Inicio de sesión  RFU-001, 002, 004
+2. Tienda  RFU-006, 007, 008
+18
+
+=== PÁGINA 19 ===
+Gvox · 1ASI0720 Diseño y Patrones de Software · Grupo 02
+Wireframes y prototipos de pantalla
+19
+3. Ficha del juego  RFU-009, 010, 021
+ 4. Carrito y pago  RFU-011, 012, 023
+
+=== PÁGINA 20 ===
+Gvox · 1ASI0720 Diseño y Patrones de Software · Grupo 02
+Wireframes y prototipos de pantalla
+20
+5. Cartera  RFU-015
+ 6. Biblioteca con alquiler y temporizador  RFU-016, 017, 022
+
+
+=== PÁGINA 21 ===
+Gvox · 1ASI0720 Diseño y Patrones de Software · Grupo 02
+Wireframes y prototipos de pantalla
+21
+7. Reembolso  RFU-014 8. Comunidad  RFU-019
+
+
+=== PÁGINA 22 ===
+Gvox · 1ASI0720 Diseño y Patrones de Software · Grupo 02
+Requisitos funcionales más importantes
+Los que diferencian a Gvox de una tienda tradicional y sostienen sus reglas de negocio.
+RFU-021
+Modalidad de alquiler digital
+Desde la ficha se elige compra permanente 
+o alquiler de 48 o 72 horas a precio 
+fraccionado.
+RFU-022
+Vigencia y expiración
+Calcula la hora exacta de expiración, 
+muestra el temporizador y revoca el acceso 
+al terminar.
+RFU-023
+Rent-to-Own
+Con el alquiler activo, la compra descuenta 
+el 100 % de lo pagado por el alquiler.
+RFU-014
+Reembolso automático
+Valida menos de 14 días desde la compra y 
+menos de 2 horas de ejecución del juego.
+RFU-017
+Validación de licencias (DRM)
+Verifica una licencia activa y válida antes de 
+habilitar el lanzador o la descarga.
+RFU-012
+Pasarela de pago simulada
+Tarjeta, billetera virtual o saldo de cartera, 
+validando el monto total de la compra.
+22
+
+=== PÁGINA 23 ===
+Gvox · 1ASI0720 Diseño y Patrones de Software · Grupo 02
+Patrones de diseño que podemos usar
+Creacionales
+Builder
+Arma paso a paso la publicación del juego: 
+capturas, ofertas y planes de alquiler.
+Factory Method
+ProductoFactory crea el producto concreto: 
+Juego o DLC.
+Singleton
+GestorAutenticacion: una sola instancia valida 
+las credenciales.
+Estructurales
+Proxy
+ValidadorLicenciaProxy controla el acceso al 
+juego (DRM).
+Decorator
+DescuentoDecorator aplica ofertas sobre el 
+precio base.
+Composite
+Coleccion agrupa elementos de la biblioteca.
+Adapter
+PasarelaPagoAdapter adapta al proveedor de 
+pago externo.
+De comportamiento
+Strategy
+EstrategiaPago: tarjeta, billetera virtual o saldo 
+de cartera.
+State
+EstadoPedido: pendiente, pagado y 
+reembolsado.
+23
+
+=== PÁGINA 24 ===
+Gracias
+¿Preguntas?
+Gvox · Grupo 02 · 1ASI0720 Diseño y Patrones de Software

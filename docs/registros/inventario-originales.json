@@ -1,0 +1,716 @@
+[
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/css/tokens-gvox.css",
+    "bytes": 749,
+    "sha256": "d1a060ba93ef01a934e93a234dd592d60daeff66a5645f71e84327b48117e517",
+    "extension": ".css"
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/etiquetas/alquiler-48h.svg",
+    "bytes": 355,
+    "sha256": "8d7c06533895ae96da15a318a3cf1393ffea053534e41f1fff52be2038110da9",
+    "extension": ".svg"
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/etiquetas/alquiler-72h.svg",
+    "bytes": 355,
+    "sha256": "9fe5395c3838c05015bcd946dbea31ffe30ee2a9f29b96cc874bfd00217b0a23",
+    "extension": ".svg"
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/etiquetas/demo-academica.svg",
+    "bytes": 410,
+    "sha256": "f974e0301e2671a8482b4dc4f0c7ea3bf77b600f31026a708db6a4bd558230c8",
+    "extension": ".svg"
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/etiquetas/descuento-100.svg",
+    "bytes": 594,
+    "sha256": "d4bc919d1aa3e64ec8ed83467f003bbea7961230ee0f069c26355fac692b4898",
+    "extension": ".svg"
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/fondos/marcas-esquinas.svg",
+    "bytes": 427,
+    "sha256": "b53897d6ff24cfd26737b9242af5f59f65ae6ca1c495e8ff58eb6e81a20a35d5",
+    "extension": ".svg"
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/fondos/trama-cuadricula.svg",
+    "bytes": 370,
+    "sha256": "92ce8e5031361a238e803b29ae484661c88bb1489976ba23c1ae5221451398b1",
+    "extension": ".svg"
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/fondos/trama-diagonal.svg",
+    "bytes": 407,
+    "sha256": "4fcdb819cb056f9e67c07bf6156cb20af84d6bdd5e6d4c9bdca859e089eca6a8",
+    "extension": ".svg"
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/LEEME.txt",
+    "bytes": 1522,
+    "sha256": "57b41a9decf55cd679f9e1861f8b1c89f210a913a40c770077febe2ccf2fbaf6",
+    "extension": ".txt"
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/logos/favicon.ico",
+    "bytes": 11151,
+    "sha256": "0a7503cb606698b87224c0e82bf2bbf34dd6f6f0c1c450b34583e7222f178139",
+    "extension": ".ico"
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/logos/gvox-apilado.svg",
+    "bytes": 749,
+    "sha256": "2be28a9e938cdc87d44da4defe90714b1531e8159f2ffef53ba9b230e3478b9f",
+    "extension": ".svg"
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/logos/gvox-favicon.png",
+    "bytes": 10114,
+    "sha256": "938802ca1d6d67ceda486d8fbae34a798db4a4bea7578c9b3d92eb77642e26a3",
+    "extension": ".png"
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/logos/gvox-favicon.svg",
+    "bytes": 587,
+    "sha256": "3ff1551bd1d7a2c1b40d07b5e2dac2c8490a3016ee73cf9d4fd554b3648ef886",
+    "extension": ".svg"
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/logos/gvox-horizontal-claro.png",
+    "bytes": 18237,
+    "sha256": "18b0fe3dc8bc65a3312cd9ba0353a4a27046ff345fea7c95b15f6f0ac2595990",
+    "extension": ".png"
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/logos/gvox-horizontal-claro.svg",
+    "bytes": 740,
+    "sha256": "66f8765b26af7c080f7934734cce8755903628e6b2281b2d485740c20955ef42",
+    "extension": ".svg"
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/logos/gvox-horizontal-oscuro.png",
+    "bytes": 18491,
+    "sha256": "f29a31c8838611c493dd7a43403a4d0cca8032fff6cfdc481f6f5277b93e4b61",
+    "extension": ".png"
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/logos/gvox-horizontal-oscuro.svg",
+    "bytes": 741,
+    "sha256": "c807a17a3e1a7e38a1623fedb3fedef0522f7db7b85f5c844d3bbda7974ae51d",
+    "extension": ".svg"
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/logos/gvox-monocromo-blanco.svg",
+    "bytes": 743,
+    "sha256": "fb12104531c04c4752d52081ad2bb9db105a2e5fefa9b4e810d2a2854c370ccc",
+    "extension": ".svg"
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/logos/gvox-monocromo-negro.svg",
+    "bytes": 742,
+    "sha256": "2bcee3152561c70c5a621f1ac62989d0ae564ad20f14e64474072c98bbeb0091",
+    "extension": ".svg"
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/logos/gvox-simbolo.png",
+    "bytes": 6548,
+    "sha256": "7f3eb54ad78454067f1315f3590d9b9470ef409bfdcae9aabf89e2d88c3a6561",
+    "extension": ".png"
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/logos/gvox-simbolo.svg",
+    "bytes": 532,
+    "sha256": "62ccdc1d2b4977af306b30a8b8da3562a53471a1dad8cfce897b689bbe02d14d",
+    "extension": ".svg"
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/manifest.json",
+    "bytes": 3392,
+    "sha256": "6573705c5e04076e3a7be71ddc55a78615e421edf993b8610079f8eaf0318493",
+    "extension": ".json"
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/vista_previa/preview.html",
+    "bytes": 3744,
+    "sha256": "7fcbe510fb72a45908e86ad67f00f0a573a2ea11ab2efdbeff1e0cbef9e1b5ef",
+    "extension": ".html"
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/vista_previa/preview.png",
+    "bytes": 81751,
+    "sha256": "666a7bb32e28a8c27f6d5d02bb89fcb99aa455cdbd583a98d18d35792771825c",
+    "extension": ".png"
+  },
+  {
+    "ruta": "02_PORTADA_AUTENTICACION/GVOX_02_PORTADA_AUTENTICACION/descargar_imagenes.mjs",
+    "bytes": 2322,
+    "sha256": "7a2a28facaa064751ac52d4af9eb8e46aa7dd2b1a7e8b8a4f4a366a824a410a6",
+    "extension": ".mjs"
+  },
+  {
+    "ruta": "02_PORTADA_AUTENTICACION/GVOX_02_PORTADA_AUTENTICACION/fuentes.csv",
+    "bytes": 3636,
+    "sha256": "ea505af7bd31b46f83ecf0500e48ec7c5ca2f73a3ae73cec5d73437d25c0c30f",
+    "extension": ".csv"
+  },
+  {
+    "ruta": "02_PORTADA_AUTENTICACION/GVOX_02_PORTADA_AUTENTICACION/gvox-demo.css",
+    "bytes": 4504,
+    "sha256": "f4880691ec5ac9418a98b1d27be8b5709d352d1a02d8706519f18e49e656fe13",
+    "extension": ".css"
+  },
+  {
+    "ruta": "02_PORTADA_AUTENTICACION/GVOX_02_PORTADA_AUTENTICACION/LEEME_PRIMERO.txt",
+    "bytes": 2206,
+    "sha256": "be264f83fd3128edd623966dd4579d9adad982e5711677a16ac677b8f6be5f70",
+    "extension": ".txt"
+  },
+  {
+    "ruta": "02_PORTADA_AUTENTICACION/GVOX_02_PORTADA_AUTENTICACION/login_demo.html",
+    "bytes": 2118,
+    "sha256": "4c5b2be2838666a4167b0e9536a8d6b232cd6215af2b2a1e78fc24f0436ae744",
+    "extension": ".html"
+  },
+  {
+    "ruta": "02_PORTADA_AUTENTICACION/GVOX_02_PORTADA_AUTENTICACION/manifest.json",
+    "bytes": 11861,
+    "sha256": "f8deb0a3c5790aa60288ba88a22cbf82df2ba047bee1f056b6a23f32abd6fc78",
+    "extension": ".json"
+  },
+  {
+    "ruta": "02_PORTADA_AUTENTICACION/GVOX_02_PORTADA_AUTENTICACION/portada_demo.html",
+    "bytes": 2685,
+    "sha256": "4da56e82eda7cba4804130a8c46790c526eb5672c882a67a6cddea5d2f6559b5",
+    "extension": ".html"
+  },
+  {
+    "ruta": "03_CATALOGO/descargar_catalogo.mjs",
+    "bytes": 3537,
+    "sha256": "24719b258ecfe87d3962c6f86f492533cd25174a151730499448cd7cd226110c",
+    "extension": ".mjs"
+  },
+  {
+    "ruta": "03_CATALOGO/fuentes_catalogo.csv",
+    "bytes": 19234,
+    "sha256": "93d3af416b4b43fa8480eea0d59b7cfaacea17550a75bdb1b3e379f07a78253e",
+    "extension": ".csv"
+  },
+  {
+    "ruta": "03_CATALOGO/imagenes/catalogo/clair-obscur-expedition-33/.directorio",
+    "bytes": 61,
+    "sha256": "13220c98e999fa764e8ed1f538e4b5dd74cc22134c3cc937568efb33a57796db",
+    "extension": ""
+  },
+  {
+    "ruta": "03_CATALOGO/imagenes/catalogo/code-vein/.directorio",
+    "bytes": 61,
+    "sha256": "13220c98e999fa764e8ed1f538e4b5dd74cc22134c3cc937568efb33a57796db",
+    "extension": ""
+  },
+  {
+    "ruta": "03_CATALOGO/imagenes/catalogo/cult-of-the-lamb/.directorio",
+    "bytes": 61,
+    "sha256": "13220c98e999fa764e8ed1f538e4b5dd74cc22134c3cc937568efb33a57796db",
+    "extension": ""
+  },
+  {
+    "ruta": "03_CATALOGO/imagenes/catalogo/cyberpunk-2077/.directorio",
+    "bytes": 61,
+    "sha256": "13220c98e999fa764e8ed1f538e4b5dd74cc22134c3cc937568efb33a57796db",
+    "extension": ""
+  },
+  {
+    "ruta": "03_CATALOGO/imagenes/catalogo/dave-the-diver/.directorio",
+    "bytes": 61,
+    "sha256": "13220c98e999fa764e8ed1f538e4b5dd74cc22134c3cc937568efb33a57796db",
+    "extension": ""
+  },
+  {
+    "ruta": "03_CATALOGO/imagenes/catalogo/elden-ring/.directorio",
+    "bytes": 61,
+    "sha256": "13220c98e999fa764e8ed1f538e4b5dd74cc22134c3cc937568efb33a57796db",
+    "extension": ""
+  },
+  {
+    "ruta": "03_CATALOGO/imagenes/catalogo/hades-ii/.directorio",
+    "bytes": 61,
+    "sha256": "13220c98e999fa764e8ed1f538e4b5dd74cc22134c3cc937568efb33a57796db",
+    "extension": ""
+  },
+  {
+    "ruta": "03_CATALOGO/imagenes/catalogo/hollow-knight/.directorio",
+    "bytes": 61,
+    "sha256": "13220c98e999fa764e8ed1f538e4b5dd74cc22134c3cc937568efb33a57796db",
+    "extension": ""
+  },
+  {
+    "ruta": "03_CATALOGO/imagenes/catalogo/hollow-knight-silksong/.directorio",
+    "bytes": 61,
+    "sha256": "13220c98e999fa764e8ed1f538e4b5dd74cc22134c3cc937568efb33a57796db",
+    "extension": ""
+  },
+  {
+    "ruta": "03_CATALOGO/imagenes/catalogo/metaphor-refantazio/.directorio",
+    "bytes": 61,
+    "sha256": "13220c98e999fa764e8ed1f538e4b5dd74cc22134c3cc937568efb33a57796db",
+    "extension": ""
+  },
+  {
+    "ruta": "03_CATALOGO/imagenes/catalogo/nier-automata/.directorio",
+    "bytes": 61,
+    "sha256": "13220c98e999fa764e8ed1f538e4b5dd74cc22134c3cc937568efb33a57796db",
+    "extension": ""
+  },
+  {
+    "ruta": "03_CATALOGO/imagenes/catalogo/ori-will-of-wisps/.directorio",
+    "bytes": 61,
+    "sha256": "13220c98e999fa764e8ed1f538e4b5dd74cc22134c3cc937568efb33a57796db",
+    "extension": ""
+  },
+  {
+    "ruta": "03_CATALOGO/imagenes/catalogo/persona-3-reload/.directorio",
+    "bytes": 61,
+    "sha256": "13220c98e999fa764e8ed1f538e4b5dd74cc22134c3cc937568efb33a57796db",
+    "extension": ""
+  },
+  {
+    "ruta": "03_CATALOGO/imagenes/catalogo/persona-5-royal/.directorio",
+    "bytes": 61,
+    "sha256": "13220c98e999fa764e8ed1f538e4b5dd74cc22134c3cc937568efb33a57796db",
+    "extension": ""
+  },
+  {
+    "ruta": "03_CATALOGO/imagenes/catalogo/resident-evil-4/.directorio",
+    "bytes": 61,
+    "sha256": "13220c98e999fa764e8ed1f538e4b5dd74cc22134c3cc937568efb33a57796db",
+    "extension": ""
+  },
+  {
+    "ruta": "03_CATALOGO/imagenes/catalogo/scarlet-nexus/.directorio",
+    "bytes": 61,
+    "sha256": "13220c98e999fa764e8ed1f538e4b5dd74cc22134c3cc937568efb33a57796db",
+    "extension": ""
+  },
+  {
+    "ruta": "03_CATALOGO/imagenes/catalogo/sekiro/.directorio",
+    "bytes": 61,
+    "sha256": "13220c98e999fa764e8ed1f538e4b5dd74cc22134c3cc937568efb33a57796db",
+    "extension": ""
+  },
+  {
+    "ruta": "03_CATALOGO/imagenes/catalogo/stardew-valley/.directorio",
+    "bytes": 61,
+    "sha256": "13220c98e999fa764e8ed1f538e4b5dd74cc22134c3cc937568efb33a57796db",
+    "extension": ""
+  },
+  {
+    "ruta": "03_CATALOGO/imagenes/catalogo/stray/.directorio",
+    "bytes": 61,
+    "sha256": "13220c98e999fa764e8ed1f538e4b5dd74cc22134c3cc937568efb33a57796db",
+    "extension": ""
+  },
+  {
+    "ruta": "03_CATALOGO/imagenes/catalogo/tales-of-arise/.directorio",
+    "bytes": 61,
+    "sha256": "13220c98e999fa764e8ed1f538e4b5dd74cc22134c3cc937568efb33a57796db",
+    "extension": ""
+  },
+  {
+    "ruta": "03_CATALOGO/juegos.json",
+    "bytes": 15432,
+    "sha256": "18619705c07d5cb3c912b3ec6ce2a1a0889501885128d606b0495d15d4cf6b6f",
+    "extension": ".json"
+  },
+  {
+    "ruta": "03_CATALOGO/LEEME_PRIMERO.txt",
+    "bytes": 2877,
+    "sha256": "e11f1da5bd44b3352c87c70c01e4c71277476c2e582514b02f741f8373f0aba1",
+    "extension": ".txt"
+  },
+  {
+    "ruta": "03_CATALOGO/vista_previa_catalogo.html",
+    "bytes": 18872,
+    "sha256": "a08a6d334b34da2557e3146af2cdf3cd57ac625ee8c47fcd3645c38fdf2214b2",
+    "extension": ".html"
+  },
+  {
+    "ruta": "04_GALERIAS/DESCARGAR_EN_WINDOWS.bat",
+    "bytes": 397,
+    "sha256": "949634973c6fb520be0b2ffd975c6d1cb3281a9d6ee075b291699afd8222c995",
+    "extension": ".bat"
+  },
+  {
+    "ruta": "04_GALERIAS/descargar_galerias.mjs",
+    "bytes": 7260,
+    "sha256": "c0329b2f8e9b6a7ff77b77ea41c22f289ba526d14048790b9fdca47e43b9d642",
+    "extension": ".mjs"
+  },
+  {
+    "ruta": "04_GALERIAS/fuentes_y_destinos.csv",
+    "bytes": 15446,
+    "sha256": "7c7cb061d740a22e13f33a0c717620de561ea8db060dfac09039f1ab623e61f2",
+    "extension": ".csv"
+  },
+  {
+    "ruta": "04_GALERIAS/galerias_plan.json",
+    "bytes": 16924,
+    "sha256": "b4ac474182fd42436fec4bdd73603487dddbfbc79c84e0299d623e2c41d019f2",
+    "extension": ".json"
+  },
+  {
+    "ruta": "04_GALERIAS/LEEME_PRIMERO.txt",
+    "bytes": 3433,
+    "sha256": "c7c970d4cb5742490df202101d3798aecc388728dbcf9de5a1bc563367915eae",
+    "extension": ".txt"
+  },
+  {
+    "ruta": "04_GALERIAS/PARA_CODEX.txt",
+    "bytes": 1622,
+    "sha256": "71399f288394ac4fba3d27f85d12f1a41e96aaed1bd652ff9963928384fea46b",
+    "extension": ".txt"
+  },
+  {
+    "ruta": "04_GALERIAS/vista_previa_fichas.html",
+    "bytes": 13111,
+    "sha256": "4b092fc58dacf4f05f9b8df2c45ff9946647089a1480b20a80993fa34323679e",
+    "extension": ".html"
+  },
+  {
+    "ruta": "05_COMUNIDAD/GVOX_05_COMUNIDAD_PERFILES/capturas/01_comunidad.png",
+    "bytes": 574904,
+    "sha256": "1ce4a0ab6dff67a4f4fc1a5d3f3ca77fef80fe45a81527dd202854fe6615ee4f",
+    "extension": ".png"
+  },
+  {
+    "ruta": "05_COMUNIDAD/GVOX_05_COMUNIDAD_PERFILES/capturas/01_comunidad_mini.png",
+    "bytes": 88821,
+    "sha256": "3e38fc87bd454895a0c3cad3d3a11fc6c4a882a6f540552a3213846b3e6a2427",
+    "extension": ".png"
+  },
+  {
+    "ruta": "05_COMUNIDAD/GVOX_05_COMUNIDAD_PERFILES/capturas/02_perfil_monedero.png",
+    "bytes": 326639,
+    "sha256": "8cc6619037a2f6f21cede5468dd8ddd52cbfbb1aca5757c2fe16d4efe00374e8",
+    "extension": ".png"
+  },
+  {
+    "ruta": "05_COMUNIDAD/GVOX_05_COMUNIDAD_PERFILES/capturas/02_perfil_monedero_mini.png",
+    "bytes": 113917,
+    "sha256": "830d1a41890f471b4501058376d0de06e999d80a70487dd26ee955a14e5d4b16",
+    "extension": ".png"
+  },
+  {
+    "ruta": "05_COMUNIDAD/GVOX_05_COMUNIDAD_PERFILES/comunidad_demo.html",
+    "bytes": 7602,
+    "sha256": "a23aed69314ed7440b411aa57f72dd9347da9d7117c16792f2789a5e46b4b99c",
+    "extension": ".html"
+  },
+  {
+    "ruta": "05_COMUNIDAD/GVOX_05_COMUNIDAD_PERFILES/css/gvox_comunidad.css",
+    "bytes": 10927,
+    "sha256": "74d0e66f754295789e38188b5381f86b89a51c0f6569198ede3f73607726da32",
+    "extension": ".css"
+  },
+  {
+    "ruta": "05_COMUNIDAD/GVOX_05_COMUNIDAD_PERFILES/descargar_comunidad.mjs",
+    "bytes": 4308,
+    "sha256": "db9f138069dda27f2e9cad6ddd630a1732970b4fbe3df321ff6d0df6e5093ee7",
+    "extension": ".mjs"
+  },
+  {
+    "ruta": "05_COMUNIDAD/GVOX_05_COMUNIDAD_PERFILES/DESCARGAR_EN_WINDOWS.bat",
+    "bytes": 253,
+    "sha256": "c45a2455bcbd058e8df0da034de2560ae417ecec42f24885c4d389ca677bf445",
+    "extension": ".bat"
+  },
+  {
+    "ruta": "05_COMUNIDAD/GVOX_05_COMUNIDAD_PERFILES/fuentes_comunidad.csv",
+    "bytes": 3988,
+    "sha256": "4cfa01bf080e948d00f668247208b3f840a270ec8bc6b7c5c3fc53a5709b67f6",
+    "extension": ".csv"
+  },
+  {
+    "ruta": "05_COMUNIDAD/GVOX_05_COMUNIDAD_PERFILES/imagenes/actividad/ANADIR_IMAGENES_AQUI.txt",
+    "bytes": 76,
+    "sha256": "459ecbc1db25213ad0d9845d8f8db16ad6e1d6cc14a27d094be7372b637d4a88",
+    "extension": ".txt"
+  },
+  {
+    "ruta": "05_COMUNIDAD/GVOX_05_COMUNIDAD_PERFILES/imagenes/avatares/ANADIR_IMAGENES_AQUI.txt",
+    "bytes": 76,
+    "sha256": "459ecbc1db25213ad0d9845d8f8db16ad6e1d6cc14a27d094be7372b637d4a88",
+    "extension": ".txt"
+  },
+  {
+    "ruta": "05_COMUNIDAD/GVOX_05_COMUNIDAD_PERFILES/imagenes/banners/ANADIR_IMAGENES_AQUI.txt",
+    "bytes": 76,
+    "sha256": "459ecbc1db25213ad0d9845d8f8db16ad6e1d6cc14a27d094be7372b637d4a88",
+    "extension": ".txt"
+  },
+  {
+    "ruta": "05_COMUNIDAD/GVOX_05_COMUNIDAD_PERFILES/imagenes/publicaciones/ANADIR_IMAGENES_AQUI.txt",
+    "bytes": 76,
+    "sha256": "459ecbc1db25213ad0d9845d8f8db16ad6e1d6cc14a27d094be7372b637d4a88",
+    "extension": ".txt"
+  },
+  {
+    "ruta": "05_COMUNIDAD/GVOX_05_COMUNIDAD_PERFILES/js/demo.js",
+    "bytes": 2713,
+    "sha256": "cdc11241fbf701b1e6c3f1ef9edaa654ef38c4cc4ba2c7c0d8f223cd68ec417b",
+    "extension": ".js"
+  },
+  {
+    "ruta": "05_COMUNIDAD/GVOX_05_COMUNIDAD_PERFILES/LEEME_PRIMERO.txt",
+    "bytes": 1769,
+    "sha256": "3f48d20e2154437dbab50afa3477e2b0781baa35e3a405e0278de10705c31ae3",
+    "extension": ".txt"
+  },
+  {
+    "ruta": "05_COMUNIDAD/GVOX_05_COMUNIDAD_PERFILES/manifest_comunidad.json",
+    "bytes": 8475,
+    "sha256": "957ed4b0e56d8c1135567bea08c4234c3db754fbf9009ce25358914392653439",
+    "extension": ".json"
+  },
+  {
+    "ruta": "05_COMUNIDAD/GVOX_05_COMUNIDAD_PERFILES/PARA_CODEX.txt",
+    "bytes": 1205,
+    "sha256": "b7af56f46ab4f01baf878ef0242cf9964b134cf9091c1f9a1b011d5ee5265baa",
+    "extension": ".txt"
+  },
+  {
+    "ruta": "05_COMUNIDAD/GVOX_05_COMUNIDAD_PERFILES/perfil_monedero_demo.html",
+    "bytes": 5342,
+    "sha256": "7c1a0989b506baa79e753e7f333538fc49cef4d4b8d83fc3cbe00c3e91d976ba",
+    "extension": ".html"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/01_inicio.html",
+    "bytes": 4353,
+    "sha256": "b5593ef46d988f78394820969ac4b039059890bd0d3927a4192d670d59ebd333",
+    "extension": ".html"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/02_catalogo.html",
+    "bytes": 6941,
+    "sha256": "56ab4700cc44a9ba7c3b105fc375cd41428bfa8a90b980cad1cde5c2e7f8c571",
+    "extension": ".html"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/03_ficha.html",
+    "bytes": 4641,
+    "sha256": "06a50c81c4d474dc24d0ba9d485b341089c7bc80decc8fd72178ba7876deda7e",
+    "extension": ".html"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/04_carrito.html",
+    "bytes": 4618,
+    "sha256": "e07e6960ee95770b1c4c067da096553f373661b77f403d4bde63b038328ee1c1",
+    "extension": ".html"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/05_acceso.html",
+    "bytes": 3611,
+    "sha256": "7a3942f85e49255cbe282f3c1f3d8d516aa68bbecc4321540f35233670d9da8c",
+    "extension": ".html"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/06_biblioteca.html",
+    "bytes": 5310,
+    "sha256": "bfce8c17dcdd394e8eb96d063a3607dd674b79ae881448c517b4f74bc8ea8851",
+    "extension": ".html"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/07_comunidad.html",
+    "bytes": 5930,
+    "sha256": "2676aacffcb8dd35013e42b761549717e1e208d240f5cbcbf4bce35e8fb0b5b3",
+    "extension": ".html"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/08_perfil_monedero.html",
+    "bytes": 5553,
+    "sha256": "4ef8c3e37157e8775489b211ebe01de93e7b28162e370b6582ee2857f46d8305",
+    "extension": ".html"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/assets/aetherfall.webp",
+    "bytes": 17740,
+    "sha256": "051cbf363f7e2e6aa7bb6929e5f4a800317a23d37dfac4c94f3021cc35f85fd1",
+    "extension": ".webp"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/assets/hero.webp",
+    "bytes": 55636,
+    "sha256": "0e37ca50f10c5307434086c7ae0933c5dc78a796509e0734210d81cae38aa283",
+    "extension": ".webp"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/assets/logo-gvox.png",
+    "bytes": 18491,
+    "sha256": "f29a31c8838611c493dd7a43403a4d0cca8032fff6cfdc481f6f5277b93e4b61",
+    "extension": ".png"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/assets/lumina.webp",
+    "bytes": 18344,
+    "sha256": "00399f8cb284e2210e7520b24a3a1ad7d59fe2021eaad5aa17296daa1553a52e",
+    "extension": ".webp"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/assets/neon-drift.webp",
+    "bytes": 20090,
+    "sha256": "848d2d27211e73cdc3fece600bad983e0bdcbbcb2307260608b0d4c535893ddc",
+    "extension": ".webp"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/assets/portrait.webp",
+    "bytes": 38638,
+    "sha256": "ef1bdaa0e3c949bd7456f57b1ff2a2ef3472bb3a8823105aae927f631b4ad187",
+    "extension": ".webp"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/assets/promo1.webp",
+    "bytes": 14398,
+    "sha256": "3f3c11bf6cd1973034e34ef8aa52cef2795a226d953e4f0f61dceca107584495",
+    "extension": ".webp"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/assets/promo2.webp",
+    "bytes": 15204,
+    "sha256": "ddf99ba1c481403fc540330dfa752665ee00bf1dd7d85ce2c13b78c3c6b3158b",
+    "extension": ".webp"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/assets/promo3.webp",
+    "bytes": 14686,
+    "sha256": "25f964d8b044a3b452d49fd8bd94955016363657b3de804fdfa037fe56bd140e",
+    "extension": ".webp"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/assets/promo4.webp",
+    "bytes": 10576,
+    "sha256": "7e714d4169f20df745ca1343226a771273fff8bf3c8abb1ff6de606256bb7ab7",
+    "extension": ".webp"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/assets/rust-zone.webp",
+    "bytes": 16098,
+    "sha256": "74c30b98eeecc5401be24737bb13b2d690c89676813c790a01ffea4dd6f21d9d",
+    "extension": ".webp"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/assets/scene.webp",
+    "bytes": 47006,
+    "sha256": "1af98e783c7ee93ed17728624ee0aacbd9e6245589c001fc82abcf42bb42beff",
+    "extension": ".webp"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/assets/shadow-reign.webp",
+    "bytes": 15106,
+    "sha256": "ed7b9ba1aee6a1c4a97caca2d63aaff1df1fd2a927946fcd612c01e009f2b3fc",
+    "extension": ".webp"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/assets/solaris.webp",
+    "bytes": 18212,
+    "sha256": "f08a6557ce89795804c76099a469504d693cbe6705c0ca47881ca75533b263af",
+    "extension": ".webp"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/assets/void-echo.webp",
+    "bytes": 13300,
+    "sha256": "565eff3feb767c7dda9abafda6cbcd010f20a41051ccd1dc34b4375c24307de2",
+    "extension": ".webp"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/assets/wildbound.webp",
+    "bytes": 18422,
+    "sha256": "dfa69e7e637afc8a9a1d8fc91f4ee65b581164ffd7bdc52824e08c7d04b83563",
+    "extension": ".webp"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/capturas/00_vista_general.png",
+    "bytes": 344495,
+    "sha256": "1f3c737a4d6b191c31b5acd98a5f143026df7f8fb9985d02736bc91efe0248d7",
+    "extension": ".png"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/capturas/01_inicio.png",
+    "bytes": 659753,
+    "sha256": "fddfe8c594af85b4366170b82a1e4abc8d73a3da8bca331d0f756060585a6814",
+    "extension": ".png"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/capturas/02_catalogo.png",
+    "bytes": 608673,
+    "sha256": "40e87c68e845af0bf8ef18c788cc752c3a25e4789b9be7d2ea9baf05c560ca46",
+    "extension": ".png"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/capturas/03_ficha.png",
+    "bytes": 518526,
+    "sha256": "a2bee3dbba5d3bca159a516d68db2f4d2df55220b2fc2d775a90181d83026c0a",
+    "extension": ".png"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/capturas/04_carrito.png",
+    "bytes": 191357,
+    "sha256": "14ee7115debedc412ebc38e13fa9a88690afb6a53f04234bdaf5056937259949",
+    "extension": ".png"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/capturas/05_acceso.png",
+    "bytes": 431543,
+    "sha256": "bab4dea9e3eddfbcc230306a2f843b756d240a3295d0d5d6167632957b3997c2",
+    "extension": ".png"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/capturas/06_biblioteca.png",
+    "bytes": 375084,
+    "sha256": "ee2ee6fb830e06e0774eef7d40689ae85394794ea67bf8db37ad0897af3b315e",
+    "extension": ".png"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/capturas/07_comunidad.png",
+    "bytes": 403119,
+    "sha256": "7b19f369169b6c0e439fa1743fd6151ae39de9ba46448e7415aad592f68988c5",
+    "extension": ".png"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/capturas/08_perfil_monedero.png",
+    "bytes": 351059,
+    "sha256": "14ad86d7dce8e54b6120a2e75af371f6c39180c163c811a63dfd70ac950d289a",
+    "extension": ".png"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/css/style.css",
+    "bytes": 17267,
+    "sha256": "5ef4d8c0a8e98f593e6dcd41770eb455317b3aa9503082afbccebe0aaba2b785",
+    "extension": ".css"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/docs/LEEME_PRIMERO.md",
+    "bytes": 2080,
+    "sha256": "860f02f5733520ee2d806e1440a472abbd5f1493ab0d8127321b3d542a1023ce",
+    "extension": ".md"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/docs/MATRIZ_REQUISITOS_FRONEND.csv",
+    "bytes": 2433,
+    "sha256": "4d4d07dc4cff4aa41ba6a70550cf2e466e37044029e8579b85ea09a3ae31ee9f",
+    "extension": ".csv"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/docs/PARA_CODEX.md",
+    "bytes": 3486,
+    "sha256": "e371585a4ea9128b8985a9b8d5616ffd187cf3b4d0b039cf9885c3890c45e408",
+    "extension": ".md"
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/js/demo.js",
+    "bytes": 3035,
+    "sha256": "c607a4d89757d4295157788ab2f493f848015ef1b9191aa35532ccb3f04c5073",
+    "extension": ".js"
+  }
+]

@@ -1,0 +1,80 @@
+{
+  "fecha_lima": "2026-10-29T13:35:03.591463-05:00",
+  "paquetes": {
+    "02": {
+      "previstos": 12,
+      "disponibles": 12,
+      "incidencias_descargador": []
+    },
+    "03": {
+      "previstos": 60,
+      "disponibles": 60,
+      "incidencias_descargador": []
+    },
+    "04": {
+      "previstos": 84,
+      "disponibles": 84,
+      "incidencias_descargador": []
+    },
+    "05": {
+      "previstos": 21,
+      "disponibles": 21,
+      "incidencias_descargador": []
+    }
+  },
+  "recursos_referenciados": 196,
+  "archivos_unicos": 180,
+  "referencias_sin_duplicar_archivo": 16,
+  "formatos_archivos_unicos": {
+    "ICO": 1,
+    "SVG": 14,
+    "PNG": 10,
+    "JPEG": 155
+  },
+  "fallos_validacion": [],
+  "faltantes": [],
+  "incidencias_primer_intento_04": [
+    {
+      "juego": "Metaphor: ReFantazio",
+      "tipo": "banner",
+      "estado": "ERROR",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/page_bg_raw.jpg?t=1764776325",
+      "detalle": "Firma binaria inconsistente"
+    },
+    {
+      "juego": "Persona 3 Reload",
+      "tipo": "banner",
+      "estado": "ERROR",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/page_bg_raw.jpg?t=1764776430",
+      "detalle": "Firma binaria inconsistente"
+    },
+    {
+      "juego": "Persona 5 Royal",
+      "tipo": "banner",
+      "estado": "ERROR",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/page_bg_raw.jpg?t=1783356822",
+      "detalle": "Firma binaria inconsistente"
+    },
+    {
+      "juego": "ELDEN RING",
+      "tipo": "banner",
+      "estado": "ERROR",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/page_bg_raw.jpg?t=1790290043",
+      "detalle": "Firma binaria inconsistente"
+    },
+    {
+      "juego": "Hades II",
+      "tipo": "banner",
+      "estado": "ERROR",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/page_bg_raw.jpg?t=1779901265",
+      "detalle": "Firma binaria inconsistente"
+    },
+    {
+      "juego": "Cyberpunk 2077",
+      "tipo": "banner",
+      "estado": "ERROR",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/644eb087007768417a847e52c38eeaf34b57fd12/page_bg_raw.jpg?t=1792682505",
+      "detalle": "Firma binaria inconsistente"
+    }
+  ]
+}

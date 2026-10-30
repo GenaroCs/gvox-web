@@ -1,0 +1,186 @@
+.biblioteca-banner {
+  background:linear-gradient(110deg,#1b2b1c,#101b13);
+  border:1px solid #405438;
+  padding:26px 30px;
+  border-radius:8px;
+  margin-bottom:15px
+}
+.biblioteca-banner .ceja {
+  font-size:11px
+}
+.biblioteca-banner h2 {
+  font-size:27px
+}
+.biblioteca-banner p {
+  font-size:11px;
+  margin-top:9px
+}
+.biblioteca-rejilla {
+  display:grid;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:20px
+}
+.biblioteca-tarjeta {
+  border:1px solid var(--borde);
+  border-radius:8px;
+  background:#141e18;
+  overflow:hidden
+}
+.biblioteca-arte {
+  display:block;
+  position:relative;
+  aspect-ratio:616/300;
+  overflow:hidden
+}
+.biblioteca-arte img {
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  transition:transform .3s
+}
+.biblioteca-arte:hover img {
+  transform:scale(1.04)
+}
+.biblioteca-arte .etiqueta {
+  position:absolute;
+  top:10px;
+  left:10px;
+  font-size:11px
+}
+.biblioteca-info {
+  padding:17px
+}
+.biblioteca-info .titulo-juego {
+  font-size:13px
+}
+.licencia-estado {
+  display:flex;
+  gap:6px;
+  align-items:center;
+  font-size:11px;
+  color:#9bb08f;
+  margin:10px 0
+}
+.licencia-estado .icono {
+  width:13px;
+  height:13px
+}
+.tiempo-restante {
+  font-size:17px;
+  font-weight:700;
+  letter-spacing:.5px;
+  color:var(--calido);
+  min-height:30px
+}
+.tiempo-restante.vencido {
+  font-size:11px;
+  color:#ce9780
+}
+.tiempo-restante.permanente {
+  font-size:11px;
+  letter-spacing:1.2px;
+  color:var(--lima)
+}
+.biblioteca-info progress {
+  display:block;
+  margin:5px 0 13px
+}
+.biblioteca-info>.entre {
+  font-size:11px
+}
+.jugar-boton {
+  margin-top:17px;
+  font-size:11px;
+  padding:11px
+}
+.jugar-boton .icono {
+  width:13px
+}
+.convertir-boton {
+  font-size:11px;
+  padding:10px;
+  margin-top:8px
+}
+.convertir-boton .icono {
+  width:12px
+}
+.conversion-ayuda {
+  display:block;
+  font-size:11px;
+  color:var(--calido);
+  text-align:center;
+  margin-top:8px
+}
+.reembolso-boton {
+  font-size:11px;
+  display:block;
+  margin:15px auto 0;
+  color:var(--muted)
+}
+.renovar-enlace {
+  font-size:11px;
+  display:flex;
+  justify-content:center;
+  margin-top:14px
+}
+.biblioteca-notas {
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:20px;
+  margin-top:30px
+}
+.biblioteca-notas h3 {
+  font-size:17px
+}
+.biblioteca-notas .ceja {
+  font-size:11px
+}
+.biblioteca-notas p {
+  font-size:11px;
+  margin-top:12px
+}
+.biblioteca-rejilla .estado-vacio {
+  grid-column:1/-1
+}
+.coleccion-cabecera {
+  margin-bottom:20px;
+  font-size:11px
+}
+.colecciones-mini {
+  display:flex;
+  gap:6px;
+  flex-wrap:wrap;
+  margin:11px 0 0
+}
+.colecciones-mini span {
+  font-size:11px;
+  background:#243322;
+  color:#b0ce95;
+  padding:4px 7px;
+  border-radius:3px
+}
+.pestanas button {
+  font-size:11px
+}
+.fechas-licencia {
+  display:block;
+  color:var(--muted);
+  font-size:11px;
+  line-height:1.8;
+  margin:8px 0 12px
+}
+.acciones-vencido {
+  margin-top:10px
+}
+.acciones-vencido>.boton {
+  font-size:11px;
+  padding:10px
+}
+.biblioteca-tarjeta:has(.etiqueta.vencida) .licencia-estado,
+.biblioteca-tarjeta:has(.etiqueta.vencida) .tiempo-restante { color:#ffb4bb }
+.biblioteca-tarjeta:has(.etiqueta.vencida) progress::-webkit-progress-value { background:#d47f8a }
+.biblioteca-tarjeta:has(.etiqueta.vencida) .jugar-boton {
+  background:#282b2e;
+  color:#c3c9cd;
+  border-color:#52585c
+}

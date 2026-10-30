@@ -1,0 +1,25 @@
+{
+  "node_observado": "v24.21.0",
+  "dependencias_instaladas": [],
+  "dominios_declarados_revisados": [
+    "cdn.akamai.steamstatic.com",
+    "cdn.cloudflare.steamstatic.com",
+    "shared.akamai.steamstatic.com",
+    "shared.fastly.steamstatic.com",
+    "store.steampowered.com"
+  ],
+  "scripts": [
+    "herramientas/descargas/02/descargar_imagenes.mjs",
+    "herramientas/descargas/03/descargar_catalogo.mjs",
+    "herramientas/descargas/04/descargar_galerias.mjs",
+    "herramientas/descargas/05/descargar_comunidad.mjs"
+  ],
+  "observaciones": [
+    "Solo se ejecutan copias MJS con Node, nunca BAT ni scripts de demostración.",
+    "Descargan imágenes desde CDN Steam; 04 y 05 consultan metadata pública Steam solo durante preparación.",
+    "Destinos declarados relativos sin recorrido fuera de la carpeta de trabajo.",
+    "02 y 03 validan firma JPEG; 04 y 05 validan MIME, firma y tamaño.",
+    "La consolidación vuelve a decodificar las imágenes y conserva el formato real.",
+    "La aplicación definitiva usará datos locales, sin llamadas a estos servicios."
+  ]
+}

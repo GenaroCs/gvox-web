@@ -1,0 +1,280 @@
+gvox-web/
+├── assets/
+│   ├── css/
+│   │   ├── base/
+│   │   │   └── tokens.css
+│   │   ├── components/
+│   │   │   ├── comprobante.css
+│   │   │   ├── controles.css
+│   │   │   ├── estructura.css
+│   │   │   └── tarjetas.css
+│   │   ├── pages/
+│   │   │   ├── acceso.css
+│   │   │   ├── biblioteca.css
+│   │   │   ├── carrito.css
+│   │   │   ├── catalogo.css
+│   │   │   ├── comunidad.css
+│   │   │   ├── ficha.css
+│   │   │   ├── inicio.css
+│   │   │   └── perfil-monedero.css
+│   │   └── global.css
+│   ├── img/
+│   │   ├── branding/
+│   │   │   ├── etiquetas/ [4 archivos]
+│   │   │   ├── fondos/ [3 archivos]
+│   │   │   └── logos/ [12 archivos]
+│   │   ├── comunidad/
+│   │   │   ├── actividad/ [4 archivos]
+│   │   │   ├── avatares/ [8 archivos]
+│   │   │   ├── banners/ [4 archivos]
+│   │   │   └── publicaciones/ [5 archivos]
+│   │   ├── galerias/
+│   │   │   ├── clair-obscur-expedition-33/ [6 archivos]
+│   │   │   ├── code-vein/ [3 archivos]
+│   │   │   ├── cult-of-the-lamb/ [3 archivos]
+│   │   │   ├── cyberpunk-2077/ [6 archivos]
+│   │   │   ├── dave-the-diver/ [3 archivos]
+│   │   │   ├── elden-ring/ [6 archivos]
+│   │   │   ├── hades-ii/ [6 archivos]
+│   │   │   ├── hollow-knight/ [3 archivos]
+│   │   │   ├── hollow-knight-silksong/ [3 archivos]
+│   │   │   ├── metaphor-refantazio/ [6 archivos]
+│   │   │   ├── nier-automata/ [3 archivos]
+│   │   │   ├── ori-will-of-wisps/ [3 archivos]
+│   │   │   ├── persona-3-reload/ [6 archivos]
+│   │   │   ├── persona-5-royal/ [6 archivos]
+│   │   │   ├── resident-evil-4/ [3 archivos]
+│   │   │   ├── scarlet-nexus/ [3 archivos]
+│   │   │   ├── sekiro/ [3 archivos]
+│   │   │   ├── stardew-valley/ [3 archivos]
+│   │   │   ├── stray/ [3 archivos]
+│   │   │   └── tales-of-arise/ [6 archivos]
+│   │   ├── login/
+│   │   ├── portada/
+│   │   │   ├── elden-ring/ [1 archivos]
+│   │   │   ├── hades-ii/ [1 archivos]
+│   │   │   ├── metaphor-refantazio/ [1 archivos]
+│   │   │   └── persona-3-reload/ [1 archivos]
+│   │   └── videojuegos/
+│   │       ├── clair-obscur-expedition-33/ [3 archivos]
+│   │       ├── code-vein/ [3 archivos]
+│   │       ├── cult-of-the-lamb/ [3 archivos]
+│   │       ├── cyberpunk-2077/ [3 archivos]
+│   │       ├── dave-the-diver/ [3 archivos]
+│   │       ├── elden-ring/ [3 archivos]
+│   │       ├── hades-ii/ [3 archivos]
+│   │       ├── hollow-knight/ [3 archivos]
+│   │       ├── hollow-knight-silksong/ [3 archivos]
+│   │       ├── metaphor-refantazio/ [3 archivos]
+│   │       ├── nier-automata/ [3 archivos]
+│   │       ├── ori-will-of-wisps/ [3 archivos]
+│   │       ├── persona-3-reload/ [3 archivos]
+│   │       ├── persona-5-royal/ [3 archivos]
+│   │       ├── resident-evil-4/ [3 archivos]
+│   │       ├── scarlet-nexus/ [3 archivos]
+│   │       ├── sekiro/ [3 archivos]
+│   │       ├── stardew-valley/ [3 archivos]
+│   │       ├── stray/ [3 archivos]
+│   │       └── tales-of-arise/ [3 archivos]
+│   └── js/
+│       ├── components/
+│       │   ├── comprobante.js
+│       │   ├── dialogos.js
+│       │   ├── estructura.js
+│       │   ├── fabrica.js
+│       │   ├── iconos.js
+│       │   └── resenas.js
+│       ├── core/
+│       │   ├── datos.js
+│       │   └── estado.js
+│       ├── pages/
+│       │   ├── acceso.js
+│       │   ├── biblioteca.js
+│       │   ├── carrito.js
+│       │   ├── catalogo.js
+│       │   ├── comunidad.js
+│       │   ├── ficha.js
+│       │   ├── inicio.js
+│       │   └── perfil-monedero.js
+│       ├── services/
+│       │   ├── biblioteca.js
+│       │   ├── carrito.js
+│       │   ├── comunidad.js
+│       │   └── pagos.js
+│       └── strategies/
+│           └── payment/
+│               ├── externos.js
+│               └── monedero.js
+├── data/
+│   ├── comunidad-recursos.json
+│   ├── demo.json
+│   ├── galerias.json
+│   ├── imagenes.json
+│   ├── juegos-detalles.json
+│   ├── juegos.json
+│   ├── portada-presupuesto.json
+│   └── recursos.json
+├── docs/
+│   ├── fuentes/
+│   │   ├── documento-1.txt
+│   │   ├── documento-2.txt
+│   │   └── metadatos-steam.json
+│   ├── registros/
+│   │   ├── etapa1/
+│   │   │   ├── acceso-1440.jpg
+│   │   │   ├── acceso-1920.jpg
+│   │   │   ├── biblioteca-1440.jpg
+│   │   │   ├── biblioteca-1920.jpg
+│   │   │   ├── carrito-1440.jpg
+│   │   │   ├── carrito-1920.jpg
+│   │   │   ├── catalogo-1440.jpg
+│   │   │   ├── catalogo-1920.jpg
+│   │   │   ├── comunidad-1440.jpg
+│   │   │   ├── comunidad-1920.jpg
+│   │   │   ├── ficha-1440.jpg
+│   │   │   ├── ficha-1920.jpg
+│   │   │   ├── fuente-pagina-48.png
+│   │   │   ├── fuente-pagina-49.png
+│   │   │   ├── fuente-pagina-50.png
+│   │   │   ├── inicio-1440.jpg
+│   │   │   ├── inicio-1920.jpg
+│   │   │   ├── perfil-1440.jpg
+│   │   │   ├── perfil-1920.jpg
+│   │   │   ├── presupuesto-portada.json
+│   │   │   ├── pruebas-servicios.json
+│   │   │   ├── recorrido-navegador.json
+│   │   │   ├── revision-movil.json
+│   │   │   ├── revision-paginas.json
+│   │   │   ├── verificacion-recursos.json
+│   │   │   ├── vista-general-1440.jpg
+│   │   │   └── vista-general-1920.jpg
+│   │   ├── contacto-portadas.webp
+│   │   ├── copias-originales.json
+│   │   ├── descarga-02-resultado.json
+│   │   ├── descarga-02.log
+│   │   ├── descarga-03-resultado.json
+│   │   ├── descarga-03.log
+│   │   ├── descarga-04-primer-intento.json
+│   │   ├── descarga-04-primer-intento.log
+│   │   ├── descarga-04-reintento.log
+│   │   ├── descarga-04-resultado.json
+│   │   ├── descarga-04.log
+│   │   ├── descarga-05-resultado.json
+│   │   ├── descarga-05.log
+│   │   ├── inventario-originales.json
+│   │   ├── optimizacion.json
+│   │   ├── originales-descargados.json
+│   │   ├── recursos-antes-optimizacion.json
+│   │   ├── resultado-etapa0.json
+│   │   ├── revision-descargadores.json
+│   │   ├── validacion-imagenes-originales.json
+│   │   ├── verificacion-originales.json
+│   │   └── verificacion-recursos.json
+│   ├── ARBOL_DIRECTORIOS.txt
+│   ├── ARQUITECTURA.md
+│   ├── COBERTURA_REQUISITOS.md
+│   ├── INFORME_ETAPA_0.md
+│   ├── INVENTARIO_RECURSOS.md
+│   ├── RECURSOS.md
+│   ├── VERIFICACION_ETAPA_1.md
+│   └── requisitos.csv
+├── herramientas/
+│   └── descargas/
+│       ├── 02/
+│       │   ├── imagenes/
+│       │   │   ├── heroes/
+│       │   │   ├── login/
+│       │   │   └── promos/
+│       │   ├── descargar_imagenes.mjs
+│       │   ├── estado-descarga.json
+│       │   ├── fuentes.csv
+│       │   └── manifest.json
+│       ├── 03/
+│       │   ├── imagenes/
+│       │   │   └── catalogo/
+│       │   │       ├── clair-obscur-expedition-33/
+│       │   │       ├── code-vein/
+│       │   │       ├── cult-of-the-lamb/
+│       │   │       ├── cyberpunk-2077/
+│       │   │       ├── dave-the-diver/
+│       │   │       ├── elden-ring/
+│       │   │       ├── hades-ii/
+│       │   │       ├── hollow-knight/
+│       │   │       ├── hollow-knight-silksong/
+│       │   │       ├── metaphor-refantazio/
+│       │   │       ├── nier-automata/
+│       │   │       ├── ori-will-of-wisps/
+│       │   │       ├── persona-3-reload/
+│       │   │       ├── persona-5-royal/
+│       │   │       ├── resident-evil-4/
+│       │   │       ├── scarlet-nexus/
+│       │   │       ├── sekiro/
+│       │   │       ├── stardew-valley/
+│       │   │       ├── stray/
+│       │   │       └── tales-of-arise/
+│       │   ├── descargar_catalogo.mjs
+│       │   ├── estado_descarga.json
+│       │   ├── fuentes_catalogo.csv
+│       │   ├── juegos.json
+│       │   └── juegos_descargados.json
+│       ├── 04/
+│       │   ├── imagenes/
+│       │   │   └── galerias/
+│       │   │       ├── clair-obscur-expedition-33/
+│       │   │       ├── code-vein/
+│       │   │       ├── cult-of-the-lamb/
+│       │   │       ├── cyberpunk-2077/
+│       │   │       ├── dave-the-diver/
+│       │   │       ├── elden-ring/
+│       │   │       ├── hades-ii/
+│       │   │       ├── hollow-knight/
+│       │   │       ├── hollow-knight-silksong/
+│       │   │       ├── metaphor-refantazio/
+│       │   │       ├── nier-automata/
+│       │   │       ├── ori-will-of-wisps/
+│       │   │       ├── persona-3-reload/
+│       │   │       ├── persona-5-royal/
+│       │   │       ├── resident-evil-4/
+│       │   │       ├── scarlet-nexus/
+│       │   │       ├── sekiro/
+│       │   │       ├── stardew-valley/
+│       │   │       ├── stray/
+│       │   │       └── tales-of-arise/
+│       │   ├── descargar_galerias.mjs
+│       │   ├── estado_descarga.json
+│       │   ├── fuentes_y_destinos.csv
+│       │   ├── galerias_descargadas.json
+│       │   └── galerias_plan.json
+│       └── 05/
+│           ├── imagenes/
+│           │   ├── actividad/
+│           │   ├── avatares/
+│           │   ├── banners/
+│           │   └── publicaciones/
+│           ├── descargar_comunidad.mjs
+│           ├── estado_descarga.json
+│           ├── fuentes_comunidad.csv
+│           └── manifest_comunidad.json
+├── pages/
+│   ├── acceso.html
+│   ├── biblioteca.html
+│   ├── carrito.html
+│   ├── catalogo.html
+│   ├── comunidad.html
+│   ├── ficha.html
+│   └── perfil-monedero.html
+├── scripts/
+│   ├── completar_metadatos.mjs
+│   ├── comprobar_flujos.mjs
+│   ├── consolidar_recursos.py
+│   ├── descargar_recursos.mjs
+│   ├── optimizar_recursos.py
+│   ├── preparar_contenido.py
+│   ├── preparar_etapa0.py
+│   ├── servidor.mjs
+│   ├── verificar_originales.mjs
+│   └── verificar_recursos.py
+├── INICIAR_GVOX.cmd
+├── README.md
+├── index.html
+└── package.json

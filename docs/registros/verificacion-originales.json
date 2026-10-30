@@ -1,0 +1,44 @@
+[
+  {
+    "origen": "C:\\Users\\cesar\\OneDrive\\Desktop\\GVOX_Paquete_01_Identidad_NUEVO",
+    "copia": "C:\\Users\\cesar\\OneDrive\\Desktop\\GVOX\\00_MATERIAL_ORIGINAL\\01_IDENTIDAD",
+    "archivos": 24,
+    "intactos": true,
+    "diferencias": []
+  },
+  {
+    "origen": "C:\\Users\\cesar\\OneDrive\\Desktop\\GVOX_02_PORTADA_AUTENTICACION",
+    "copia": "C:\\Users\\cesar\\OneDrive\\Desktop\\GVOX\\00_MATERIAL_ORIGINAL\\02_PORTADA_AUTENTICACION",
+    "archivos": 7,
+    "intactos": true,
+    "diferencias": []
+  },
+  {
+    "origen": "C:\\Users\\cesar\\OneDrive\\Desktop\\GVOX_03_CATALOGO",
+    "copia": "C:\\Users\\cesar\\OneDrive\\Desktop\\GVOX\\00_MATERIAL_ORIGINAL\\03_CATALOGO",
+    "archivos": 25,
+    "intactos": true,
+    "diferencias": []
+  },
+  {
+    "origen": "C:\\Users\\cesar\\OneDrive\\Desktop\\GVOX_04_GALERIAS_FICHAS",
+    "copia": "C:\\Users\\cesar\\OneDrive\\Desktop\\GVOX\\00_MATERIAL_ORIGINAL\\04_GALERIAS",
+    "archivos": 7,
+    "intactos": true,
+    "diferencias": []
+  },
+  {
+    "origen": "C:\\Users\\cesar\\OneDrive\\Desktop\\GVOX_05_COMUNIDAD_PERFILES",
+    "copia": "C:\\Users\\cesar\\OneDrive\\Desktop\\GVOX\\00_MATERIAL_ORIGINAL\\05_COMUNIDAD",
+    "archivos": 18,
+    "intactos": true,
+    "diferencias": []
+  },
+  {
+    "origen": "C:\\Users\\cesar\\OneDrive\\Desktop\\GVOX_06_WIREFRAMES_FINALES",
+    "copia": "C:\\Users\\cesar\\OneDrive\\Desktop\\GVOX\\00_MATERIAL_ORIGINAL\\06_WIREFRAMES",
+    "archivos": 38,
+    "intactos": true,
+    "diferencias": []
+  }
+]

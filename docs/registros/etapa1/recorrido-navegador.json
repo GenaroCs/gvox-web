@@ -1,0 +1,102 @@
+[
+  {
+    "comprobacion": "Correo inválido",
+    "resultado": "Rechazado",
+    "estado": "Verificado en interfaz"
+  },
+  {
+    "comprobacion": "Código abc",
+    "resultado": "Rechazado",
+    "estado": "Verificado en interfaz"
+  },
+  {
+    "comprobacion": "Código 0",
+    "resultado": "Acceso correcto",
+    "estado": "Verificado en interfaz"
+  },
+  {
+    "comprobacion": "Búsqueda SEGA",
+    "resultado": "3 resultados",
+    "estado": "Verificado en interfaz"
+  },
+  {
+    "comprobacion": "Búsqueda inexistente",
+    "resultado": "0 resultados",
+    "estado": "Verificado en interfaz"
+  },
+  {
+    "comprobacion": "Multijugador y ofertas",
+    "resultado": "2 resultados",
+    "estado": "Verificado en interfaz"
+  },
+  {
+    "comprobacion": "Favoritos tras navegar",
+    "resultado": "3 juegos",
+    "estado": "Verificado en interfaz"
+  },
+  {
+    "comprobacion": "Alquiler de Metaphor 48h",
+    "resultado": "S/ 17.90, activado con vencimiento exacto",
+    "estado": "Verificado en interfaz"
+  },
+  {
+    "comprobacion": "Conversión activa",
+    "resultado": "S/ 162.00; permanente sin temporizador",
+    "estado": "Verificado en interfaz"
+  },
+  {
+    "comprobacion": "Pago con saldo insuficiente",
+    "resultado": "Rechazado, sin licencia",
+    "estado": "Verificado en interfaz"
+  },
+  {
+    "comprobacion": "Reembolso convertido",
+    "resultado": "Saldo 60.10 → 240.00",
+    "estado": "Verificado en interfaz"
+  },
+  {
+    "comprobacion": "Recarga de 50 soles",
+    "resultado": "Saldo 240.00 → 290.00",
+    "estado": "Verificado en interfaz"
+  },
+  {
+    "comprobacion": "Colección",
+    "resultado": "Creada, asignada, renombrada y persistida tras recarga",
+    "estado": "Verificado en interfaz"
+  },
+  {
+    "comprobacion": "Reseña negativa",
+    "resultado": "Visible en ficha",
+    "estado": "Verificado en interfaz"
+  },
+  {
+    "comprobacion": "Privacidad solo amigos",
+    "resultado": "Visitante oculto, amigo visible y actividad oculta",
+    "estado": "Verificado en interfaz"
+  },
+  {
+    "comprobacion": "Aceptar Noa",
+    "resultado": "Añadido a amigos",
+    "estado": "Verificado en interfaz"
+  },
+  {
+    "comprobacion": "Bloquear Mika",
+    "resultado": "Publicaciones retiradas del feed",
+    "estado": "Verificado en interfaz"
+  },
+  {
+    "comprobacion": "Publicación de Elden Ring",
+    "resultado": "Visible con captura del juego",
+    "estado": "Verificado en interfaz"
+  },
+  {
+    "comprobacion": "Recuperación ficticia",
+    "resultado": "Paso numérico y biblioteca",
+    "estado": "Verificado en interfaz"
+  },
+  {
+    "comprobacion": "Restablecer",
+    "resultado": "Datos iniciales recuperados",
+    "estado": "Verificado en interfaz"
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "juego_id": "metaphor-refantazio",
+    "steam_appid": 2679460,
+    "capturas": [
+      "assets/img/galerias/metaphor-refantazio/captura_01.webp",
+      "assets/img/galerias/metaphor-refantazio/captura_02.webp",
+      "assets/img/galerias/metaphor-refantazio/captura_03.webp",
+      "assets/img/galerias/metaphor-refantazio/captura_04.webp",
+      "assets/img/galerias/metaphor-refantazio/captura_05.webp"
+    ],
+    "banner": "assets/img/galerias/metaphor-refantazio/banner.webp"
+  },
+  {
+    "juego_id": "persona-3-reload",
+    "steam_appid": 2161700,
+    "capturas": [
+      "assets/img/galerias/persona-3-reload/captura_01.webp",
+      "assets/img/galerias/persona-3-reload/captura_02.webp",
+      "assets/img/galerias/persona-3-reload/captura_03.webp",
+      "assets/img/galerias/persona-3-reload/captura_04.webp",
+      "assets/img/galerias/persona-3-reload/captura_05.webp"
+    ],
+    "banner": "assets/img/galerias/persona-3-reload/banner.webp"
+  },
+  {
+    "juego_id": "persona-5-royal",
+    "steam_appid": 1687950,
+    "capturas": [
+      "assets/img/galerias/persona-5-royal/captura_01.webp",
+      "assets/img/galerias/persona-5-royal/captura_02.webp",
+      "assets/img/galerias/persona-5-royal/captura_03.webp",
+      "assets/img/galerias/persona-5-royal/captura_04.webp",
+      "assets/img/galerias/persona-5-royal/captura_05.webp"
+    ],
+    "banner": "assets/img/galerias/persona-5-royal/banner.webp"
+  },
+  {
+    "juego_id": "tales-of-arise",
+    "steam_appid": 740130,
+    "capturas": [
+      "assets/img/galerias/tales-of-arise/captura_01.webp",
+      "assets/img/galerias/tales-of-arise/captura_02.webp",
+      "assets/img/galerias/tales-of-arise/captura_03.webp",
+      "assets/img/galerias/tales-of-arise/captura_04.webp",
+      "assets/img/galerias/tales-of-arise/captura_05.webp"
+    ],
+    "banner": "assets/img/galerias/tales-of-arise/banner.webp"
+  },
+  {
+    "juego_id": "scarlet-nexus",
+    "steam_appid": 775500,
+    "capturas": [
+      "assets/img/galerias/scarlet-nexus/captura_01.webp",
+      "assets/img/galerias/scarlet-nexus/captura_02.webp",
+      "assets/img/galerias/scarlet-nexus/captura_03.webp"
+    ],
+    "banner": null
+  },
+  {
+    "juego_id": "code-vein",
+    "steam_appid": 678960,
+    "capturas": [
+      "assets/img/galerias/code-vein/captura_01.webp",
+      "assets/img/galerias/code-vein/captura_02.webp",
+      "assets/img/galerias/code-vein/captura_03.webp"
+    ],
+    "banner": null
+  },
+  {
+    "juego_id": "nier-automata",
+    "steam_appid": 524220,
+    "capturas": [
+      "assets/img/galerias/nier-automata/captura_01.webp",
+      "assets/img/galerias/nier-automata/captura_02.webp",
+      "assets/img/galerias/nier-automata/captura_03.webp"
+    ],
+    "banner": null
+  },
+  {
+    "juego_id": "elden-ring",
+    "steam_appid": 1245620,
+    "capturas": [
+      "assets/img/galerias/elden-ring/captura_01.webp",
+      "assets/img/galerias/elden-ring/captura_02.webp",
+      "assets/img/galerias/elden-ring/captura_03.webp",
+      "assets/img/galerias/elden-ring/captura_04.webp",
+      "assets/img/galerias/elden-ring/captura_05.webp"
+    ],
+    "banner": "assets/img/galerias/elden-ring/banner.webp"
+  },
+  {
+    "juego_id": "hades-ii",
+    "steam_appid": 1145350,
+    "capturas": [
+      "assets/img/galerias/hades-ii/captura_01.webp",
+      "assets/img/galerias/hades-ii/captura_02.webp",
+      "assets/img/galerias/hades-ii/captura_03.webp",
+      "assets/img/galerias/hades-ii/captura_04.webp",
+      "assets/img/galerias/hades-ii/captura_05.webp"
+    ],
+    "banner": "assets/img/galerias/hades-ii/banner.webp"
+  },
+  {
+    "juego_id": "sekiro",
+    "steam_appid": 814380,
+    "capturas": [
+      "assets/img/galerias/sekiro/captura_01.webp",
+      "assets/img/galerias/sekiro/captura_02.webp",
+      "assets/img/galerias/sekiro/captura_03.webp"
+    ],
+    "banner": null
+  },
+  {
+    "juego_id": "cyberpunk-2077",
+    "steam_appid": 1091500,
+    "capturas": [
+      "assets/img/galerias/cyberpunk-2077/captura_01.webp",
+      "assets/img/galerias/cyberpunk-2077/captura_02.webp",
+      "assets/img/galerias/cyberpunk-2077/captura_03.webp",
+      "assets/img/galerias/cyberpunk-2077/captura_04.webp",
+      "assets/img/galerias/cyberpunk-2077/captura_05.webp"
+    ],
+    "banner": "assets/img/galerias/cyberpunk-2077/banner.webp"
+  },
+  {
+    "juego_id": "resident-evil-4",
+    "steam_appid": 2050650,
+    "capturas": [
+      "assets/img/galerias/resident-evil-4/captura_01.webp",
+      "assets/img/galerias/resident-evil-4/captura_02.webp",
+      "assets/img/galerias/resident-evil-4/captura_03.webp"
+    ],
+    "banner": null
+  },
+  {
+    "juego_id": "clair-obscur-expedition-33",
+    "steam_appid": 1903340,
+    "capturas": [
+      "assets/img/galerias/clair-obscur-expedition-33/captura_01.webp",
+      "assets/img/galerias/clair-obscur-expedition-33/captura_02.webp",
+      "assets/img/galerias/clair-obscur-expedition-33/captura_03.webp",
+      "assets/img/galerias/clair-obscur-expedition-33/captura_04.webp",
+      "assets/img/galerias/clair-obscur-expedition-33/captura_05.webp"
+    ],
+    "banner": "assets/img/galerias/clair-obscur-expedition-33/banner.webp"
+  },
+  {
+    "juego_id": "hollow-knight",
+    "steam_appid": 367520,
+    "capturas": [
+      "assets/img/galerias/hollow-knight/captura_01.webp",
+      "assets/img/galerias/hollow-knight/captura_02.webp",
+      "assets/img/galerias/hollow-knight/captura_03.webp"
+    ],
+    "banner": null
+  },
+  {
+    "juego_id": "hollow-knight-silksong",
+    "steam_appid": 1030300,
+    "capturas": [
+      "assets/img/galerias/hollow-knight-silksong/captura_01.webp",
+      "assets/img/galerias/hollow-knight-silksong/captura_02.webp",
+      "assets/img/galerias/hollow-knight-silksong/captura_03.webp"
+    ],
+    "banner": null
+  },
+  {
+    "juego_id": "ori-will-of-wisps",
+    "steam_appid": 1057090,
+    "capturas": [
+      "assets/img/galerias/ori-will-of-wisps/captura_01.webp",
+      "assets/img/galerias/ori-will-of-wisps/captura_02.webp",
+      "assets/img/galerias/ori-will-of-wisps/captura_03.webp"
+    ],
+    "banner": null
+  },
+  {
+    "juego_id": "stardew-valley",
+    "steam_appid": 413150,
+    "capturas": [
+      "assets/img/galerias/stardew-valley/captura_01.webp",
+      "assets/img/galerias/stardew-valley/captura_02.webp",
+      "assets/img/galerias/stardew-valley/captura_03.webp"
+    ],
+    "banner": null
+  },
+  {
+    "juego_id": "stray",
+    "steam_appid": 1332010,
+    "capturas": [
+      "assets/img/galerias/stray/captura_01.webp",
+      "assets/img/galerias/stray/captura_02.webp",
+      "assets/img/galerias/stray/captura_03.webp"
+    ],
+    "banner": null
+  },
+  {
+    "juego_id": "dave-the-diver",
+    "steam_appid": 1868140,
+    "capturas": [
+      "assets/img/galerias/dave-the-diver/captura_01.webp",
+      "assets/img/galerias/dave-the-diver/captura_02.webp",
+      "assets/img/galerias/dave-the-diver/captura_03.webp"
+    ],
+    "banner": null
+  },
+  {
+    "juego_id": "cult-of-the-lamb",
+    "steam_appid": 1313140,
+    "capturas": [
+      "assets/img/galerias/cult-of-the-lamb/captura_01.webp",
+      "assets/img/galerias/cult-of-the-lamb/captura_02.webp",
+      "assets/img/galerias/cult-of-the-lamb/captura_03.webp"
+    ],
+    "banner": null
+  }
+]

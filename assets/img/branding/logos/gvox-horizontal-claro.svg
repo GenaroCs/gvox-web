@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="365" height="108" viewBox="0 0 365 108" role="img" aria-label="Logo Gvox sobre fondo claro">
+<g transform="translate(2 4) scale(0.84)">
+ <path d="M93 28C81 16 67 13 51 17C27 23 15 40 16 62C17 85 34 101 57 102C78 103 92 90 95 71L65 71" fill="none" stroke="#D5FF51" stroke-width="13.5" stroke-linecap="square" stroke-linejoin="bevel"/>
+ <path d="M78 71L102 71L102 95" fill="none" stroke="#D5FF51" stroke-width="13.5" stroke-linecap="square"/>
+ <path d="M88 10L107 10L107 29Z" fill="#FF9C78"/>
+ </g><text x="116" y="87" font-family="Arial Black,Arial,sans-serif" font-size="77" font-weight="900" letter-spacing="-4" fill="#0B0E0E">GVOX</text><circle cx="348" cy="78" r="6" fill="#D5FF51"/>
+</svg>

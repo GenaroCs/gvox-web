@@ -1,0 +1,482 @@
+[
+  {
+    "juego": "Metaphor: ReFantazio",
+    "tipo": "portada_vertical",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/metaphor-refantazio/portada_vertical.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2679460/library_600x900.jpg",
+    "bytes": 85761
+  },
+  {
+    "juego": "Metaphor: ReFantazio",
+    "tipo": "cabecera",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/metaphor-refantazio/cabecera.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2679460/header.jpg",
+    "bytes": 49208
+  },
+  {
+    "juego": "Metaphor: ReFantazio",
+    "tipo": "tarjeta_horizontal",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/metaphor-refantazio/tarjeta_horizontal.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2679460/capsule_616x353.jpg",
+    "bytes": 98154
+  },
+  {
+    "juego": "Persona 3 Reload",
+    "tipo": "portada_vertical",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/persona-3-reload/portada_vertical.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2161700/library_600x900.jpg",
+    "bytes": 80788
+  },
+  {
+    "juego": "Persona 3 Reload",
+    "tipo": "cabecera",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/persona-3-reload/cabecera.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg",
+    "bytes": 62160
+  },
+  {
+    "juego": "Persona 3 Reload",
+    "tipo": "tarjeta_horizontal",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/persona-3-reload/tarjeta_horizontal.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2161700/capsule_616x353.jpg",
+    "bytes": 120439
+  },
+  {
+    "juego": "Persona 5 Royal",
+    "tipo": "portada_vertical",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/persona-5-royal/portada_vertical.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1687950/library_600x900.jpg",
+    "bytes": 72752
+  },
+  {
+    "juego": "Persona 5 Royal",
+    "tipo": "cabecera",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/persona-5-royal/cabecera.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg",
+    "bytes": 57228
+  },
+  {
+    "juego": "Persona 5 Royal",
+    "tipo": "tarjeta_horizontal",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/persona-5-royal/tarjeta_horizontal.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1687950/capsule_616x353.jpg",
+    "bytes": 107084
+  },
+  {
+    "juego": "Tales of ARISE",
+    "tipo": "portada_vertical",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/tales-of-arise/portada_vertical.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/740130/library_600x900.jpg",
+    "bytes": 67465
+  },
+  {
+    "juego": "Tales of ARISE",
+    "tipo": "cabecera",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/tales-of-arise/cabecera.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/740130/header.jpg",
+    "bytes": 46986
+  },
+  {
+    "juego": "Tales of ARISE",
+    "tipo": "tarjeta_horizontal",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/tales-of-arise/tarjeta_horizontal.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/740130/capsule_616x353.jpg",
+    "bytes": 102817
+  },
+  {
+    "juego": "SCARLET NEXUS",
+    "tipo": "portada_vertical",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/scarlet-nexus/portada_vertical.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/775500/library_600x900.jpg",
+    "bytes": 62540
+  },
+  {
+    "juego": "SCARLET NEXUS",
+    "tipo": "cabecera",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/scarlet-nexus/cabecera.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/775500/header.jpg",
+    "bytes": 56513
+  },
+  {
+    "juego": "SCARLET NEXUS",
+    "tipo": "tarjeta_horizontal",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/scarlet-nexus/tarjeta_horizontal.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/775500/capsule_616x353.jpg",
+    "bytes": 125166
+  },
+  {
+    "juego": "CODE VEIN",
+    "tipo": "portada_vertical",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/code-vein/portada_vertical.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/678960/library_600x900.jpg",
+    "bytes": 84090
+  },
+  {
+    "juego": "CODE VEIN",
+    "tipo": "cabecera",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/code-vein/cabecera.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/678960/header.jpg",
+    "bytes": 63383
+  },
+  {
+    "juego": "CODE VEIN",
+    "tipo": "tarjeta_horizontal",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/code-vein/tarjeta_horizontal.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/678960/capsule_616x353.jpg",
+    "bytes": 133664
+  },
+  {
+    "juego": "NieR:Automata",
+    "tipo": "portada_vertical",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/nier-automata/portada_vertical.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/524220/library_600x900.jpg",
+    "bytes": 61203
+  },
+  {
+    "juego": "NieR:Automata",
+    "tipo": "cabecera",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/nier-automata/cabecera.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/524220/header.jpg",
+    "bytes": 50937
+  },
+  {
+    "juego": "NieR:Automata",
+    "tipo": "tarjeta_horizontal",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/nier-automata/tarjeta_horizontal.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/524220/capsule_616x353.jpg",
+    "bytes": 109484
+  },
+  {
+    "juego": "ELDEN RING",
+    "tipo": "portada_vertical",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/elden-ring/portada_vertical.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1245620/library_600x900.jpg",
+    "bytes": 52021
+  },
+  {
+    "juego": "ELDEN RING",
+    "tipo": "cabecera",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/elden-ring/cabecera.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg",
+    "bytes": 32689
+  },
+  {
+    "juego": "ELDEN RING",
+    "tipo": "tarjeta_horizontal",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/elden-ring/tarjeta_horizontal.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1245620/capsule_616x353.jpg",
+    "bytes": 60437
+  },
+  {
+    "juego": "Hades II",
+    "tipo": "portada_vertical",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/hades-ii/portada_vertical.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1145350/library_600x900.jpg",
+    "bytes": 60402
+  },
+  {
+    "juego": "Hades II",
+    "tipo": "cabecera",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/hades-ii/cabecera.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1145350/header.jpg",
+    "bytes": 44786
+  },
+  {
+    "juego": "Hades II",
+    "tipo": "tarjeta_horizontal",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/hades-ii/tarjeta_horizontal.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1145350/capsule_616x353.jpg",
+    "bytes": 110095
+  },
+  {
+    "juego": "Sekiro: Shadows Die Twice",
+    "tipo": "portada_vertical",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/sekiro/portada_vertical.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/814380/library_600x900.jpg",
+    "bytes": 43115
+  },
+  {
+    "juego": "Sekiro: Shadows Die Twice",
+    "tipo": "cabecera",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/sekiro/cabecera.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg",
+    "bytes": 39009
+  },
+  {
+    "juego": "Sekiro: Shadows Die Twice",
+    "tipo": "tarjeta_horizontal",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/sekiro/tarjeta_horizontal.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/814380/capsule_616x353.jpg",
+    "bytes": 78320
+  },
+  {
+    "juego": "Cyberpunk 2077",
+    "tipo": "portada_vertical",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/cyberpunk-2077/portada_vertical.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/library_600x900.jpg",
+    "bytes": 54176
+  },
+  {
+    "juego": "Cyberpunk 2077",
+    "tipo": "cabecera",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/cyberpunk-2077/cabecera.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/header.jpg",
+    "bytes": 34342
+  },
+  {
+    "juego": "Cyberpunk 2077",
+    "tipo": "tarjeta_horizontal",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/cyberpunk-2077/tarjeta_horizontal.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/capsule_616x353.jpg",
+    "bytes": 58551
+  },
+  {
+    "juego": "Resident Evil 4",
+    "tipo": "portada_vertical",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/resident-evil-4/portada_vertical.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2050650/library_600x900.jpg",
+    "bytes": 34266
+  },
+  {
+    "juego": "Resident Evil 4",
+    "tipo": "cabecera",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/resident-evil-4/cabecera.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg",
+    "bytes": 28807
+  },
+  {
+    "juego": "Resident Evil 4",
+    "tipo": "tarjeta_horizontal",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/resident-evil-4/tarjeta_horizontal.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2050650/capsule_616x353.jpg",
+    "bytes": 58306
+  },
+  {
+    "juego": "Clair Obscur: Expedition 33",
+    "tipo": "portada_vertical",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/clair-obscur-expedition-33/portada_vertical.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1903340/library_600x900.jpg",
+    "bytes": 54953
+  },
+  {
+    "juego": "Clair Obscur: Expedition 33",
+    "tipo": "cabecera",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/clair-obscur-expedition-33/cabecera.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1903340/header.jpg",
+    "bytes": 40962
+  },
+  {
+    "juego": "Clair Obscur: Expedition 33",
+    "tipo": "tarjeta_horizontal",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/clair-obscur-expedition-33/tarjeta_horizontal.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1903340/capsule_616x353.jpg",
+    "bytes": 83191
+  },
+  {
+    "juego": "Hollow Knight",
+    "tipo": "portada_vertical",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/hollow-knight/portada_vertical.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/367520/library_600x900.jpg",
+    "bytes": 46633
+  },
+  {
+    "juego": "Hollow Knight",
+    "tipo": "cabecera",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/hollow-knight/cabecera.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/367520/header.jpg",
+    "bytes": 43840
+  },
+  {
+    "juego": "Hollow Knight",
+    "tipo": "tarjeta_horizontal",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/hollow-knight/tarjeta_horizontal.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/367520/capsule_616x353.jpg",
+    "bytes": 78876
+  },
+  {
+    "juego": "Hollow Knight: Silksong",
+    "tipo": "portada_vertical",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/hollow-knight-silksong/portada_vertical.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1030300/library_600x900.jpg",
+    "bytes": 56810
+  },
+  {
+    "juego": "Hollow Knight: Silksong",
+    "tipo": "cabecera",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/hollow-knight-silksong/cabecera.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1030300/header.jpg",
+    "bytes": 49146
+  },
+  {
+    "juego": "Hollow Knight: Silksong",
+    "tipo": "tarjeta_horizontal",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/hollow-knight-silksong/tarjeta_horizontal.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1030300/capsule_616x353.jpg",
+    "bytes": 92054
+  },
+  {
+    "juego": "Ori and the Will of the Wisps",
+    "tipo": "portada_vertical",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/ori-will-of-wisps/portada_vertical.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1057090/library_600x900.jpg",
+    "bytes": 68503
+  },
+  {
+    "juego": "Ori and the Will of the Wisps",
+    "tipo": "cabecera",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/ori-will-of-wisps/cabecera.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1057090/header.jpg",
+    "bytes": 53154
+  },
+  {
+    "juego": "Ori and the Will of the Wisps",
+    "tipo": "tarjeta_horizontal",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/ori-will-of-wisps/tarjeta_horizontal.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1057090/capsule_616x353.jpg",
+    "bytes": 96812
+  },
+  {
+    "juego": "Stardew Valley",
+    "tipo": "portada_vertical",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/stardew-valley/portada_vertical.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/library_600x900.jpg",
+    "bytes": 76943
+  },
+  {
+    "juego": "Stardew Valley",
+    "tipo": "cabecera",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/stardew-valley/cabecera.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg",
+    "bytes": 58853
+  },
+  {
+    "juego": "Stardew Valley",
+    "tipo": "tarjeta_horizontal",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/stardew-valley/tarjeta_horizontal.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/capsule_616x353.jpg",
+    "bytes": 142111
+  },
+  {
+    "juego": "Stray",
+    "tipo": "portada_vertical",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/stray/portada_vertical.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1332010/library_600x900.jpg",
+    "bytes": 12469
+  },
+  {
+    "juego": "Stray",
+    "tipo": "cabecera",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/stray/cabecera.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1332010/header.jpg",
+    "bytes": 33281
+  },
+  {
+    "juego": "Stray",
+    "tipo": "tarjeta_horizontal",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/stray/tarjeta_horizontal.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1332010/capsule_616x353.jpg",
+    "bytes": 52641
+  },
+  {
+    "juego": "DAVE THE DIVER",
+    "tipo": "portada_vertical",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/dave-the-diver/portada_vertical.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1868140/library_600x900.jpg",
+    "bytes": 35494
+  },
+  {
+    "juego": "DAVE THE DIVER",
+    "tipo": "cabecera",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/dave-the-diver/cabecera.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1868140/header.jpg",
+    "bytes": 28849
+  },
+  {
+    "juego": "DAVE THE DIVER",
+    "tipo": "tarjeta_horizontal",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/dave-the-diver/tarjeta_horizontal.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1868140/capsule_616x353.jpg",
+    "bytes": 69578
+  },
+  {
+    "juego": "Cult of the Lamb",
+    "tipo": "portada_vertical",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/cult-of-the-lamb/portada_vertical.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1313140/library_600x900.jpg",
+    "bytes": 94517
+  },
+  {
+    "juego": "Cult of the Lamb",
+    "tipo": "cabecera",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/cult-of-the-lamb/cabecera.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1313140/header.jpg",
+    "bytes": 57976
+  },
+  {
+    "juego": "Cult of the Lamb",
+    "tipo": "tarjeta_horizontal",
+    "estado": "OK",
+    "archivo": "imagenes/catalogo/cult-of-the-lamb/tarjeta_horizontal.jpg",
+    "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1313140/capsule_616x353.jpg",
+    "bytes": 113834
+  }
+]

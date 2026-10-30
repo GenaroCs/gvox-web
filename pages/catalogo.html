@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#090d0d">
+<meta name="description" content="Gvox: descubre videojuegos reales, explora tu biblioteca y prueba el alquiler de 48 o 72 horas en un prototipo académico.">
+<title>Catálogo · GVOX</title>
+<link rel="icon" href="../assets/img/branding/logos/gvox-favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../assets/css/global.css">
+<link rel="stylesheet" href="../assets/css/pages/catalogo.css">
+</head>
+<body data-pagina="catalogo">
+<header id="cabecera" class="cabecera">
+</header>
+<main class="contenedor">
+<div class="cabecera-pagina entre">
+<div>
+<span class="ceja">ELIGE TU PRÓXIMO MUNDO</span>
+<h1>Tu próximo juego está aquí<span class="lima">.</span>
+</h1>
+<p class="muted pequeno">Grandes historias, nuevas obsesiones. Encuentra la tuya.</p>
+</div>
+<a class="enlace-lima" href="biblioteca.html">MI BIBLIOTECA ↗</a>
+</div>
+<div class="catalogo-estructura">
+<aside class="filtros panel panel-interior">
+<div class="entre">
+<strong class="micro">FILTRAR</strong>
+<button type="button" class="enlace-texto" id="limpiar-filtros">Limpiar</button>
+</div>
+<div class="separador">
+</div>
+<form id="filtros" class="formulario">
+<label class="campo">GÉNERO<select name="genero" id="genero">
+<option value="">Todos los géneros</option>
+</select>
+</label>
+<label class="campo">COLECCIÓN<select name="coleccion" id="categoria">
+<option value="">Todas las colecciones</option>
+</select>
+</label>
+<label class="campo">PRECIO MÁXIMO <span id="precio-etiqueta">
+</span>
+<input name="precio" type="range" min="0" max="250" value="250" step="5" aria-label="Precio máximo en soles">
+</label>
+<label class="check-linea">
+<input name="ofertas" type="checkbox"> Solo ofertas</label>
+<label class="check-linea">
+<input name="favoritos" type="checkbox"> Mis favoritos</label>
+</form>
+<div class="filtros-nota">
+<span class="ceja">PRIMERO, JUÉGALO.</span>
+<strong>48 o 72 horas<br>para decidir.</strong>
+<p>Al comprar, descontamos el 100 % del alquiler activo.</p>
+</div>
+</aside>
+<section>
+<div class="catalogo-barra">
+<label class="buscador" id="busqueda-campo">
+<span class="solo-lectores">Buscar videojuego</span>
+<input class="entrada" id="busqueda" type="search" placeholder="Buscar tu próximo juego…">
+</label>
+<label class="campo ordenar">ORDENAR POR<select id="orden">
+<option value="destacados">Seleccionados por Gvox</option>
+<option value="menor">Menor precio</option>
+<option value="mayor">Mayor precio</option>
+<option value="nombre">Nombre A–Z</option>
+</select>
+</label>
+</div>
+<div class="catalogo-banner">
+<div>
+<span class="ceja">COMPRA O ALQUILA · TÚ ELIGES</span>
+<strong>LA AVENTURA TE ESPERA.</strong>
+</div>
+<span class="insignia">48 H / 72 H</span>
+</div>
+<div class="entre catalogo-conteo">
+<span id="resultados" class="micro muted" aria-live="polite">
+</span>
+<span class="micro muted">PRECIOS SIMULADOS · SOLES</span>
+</div>
+<div class="rejilla-juegos" id="juegos-catalogo">
+</div>
+</section>
+</div>
+</main>
+<footer id="pie" class="pie">
+</footer>
+<noscript>Activa JavaScript para explorar esta demostración de Gvox.</noscript>
+<script type="module" src="../assets/js/pages/catalogo.js">
+</script>
+</body>
+</html>

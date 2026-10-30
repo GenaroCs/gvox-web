@@ -1,0 +1,760 @@
+{
+  "assets/img/branding/logos/favicon.ico": {
+    "ancho": 64,
+    "alto": 64
+  },
+  "assets/img/branding/logos/gvox-apilado.svg": {},
+  "assets/img/branding/logos/gvox-favicon.webp": {
+    "ancho": 256,
+    "alto": 256
+  },
+  "assets/img/branding/logos/gvox-favicon.svg": {},
+  "assets/img/branding/logos/gvox-horizontal-claro.webp": {
+    "ancho": 730,
+    "alto": 216
+  },
+  "assets/img/branding/logos/gvox-horizontal-claro.svg": {},
+  "assets/img/branding/logos/gvox-horizontal-oscuro.webp": {
+    "ancho": 730,
+    "alto": 216
+  },
+  "assets/img/branding/logos/gvox-horizontal-oscuro.svg": {},
+  "assets/img/branding/logos/gvox-monocromo-blanco.svg": {},
+  "assets/img/branding/logos/gvox-monocromo-negro.svg": {},
+  "assets/img/branding/logos/gvox-simbolo.webp": {
+    "ancho": 248,
+    "alto": 248
+  },
+  "assets/img/branding/logos/gvox-simbolo.svg": {},
+  "assets/img/branding/fondos/marcas-esquinas.svg": {},
+  "assets/img/branding/fondos/trama-cuadricula.svg": {},
+  "assets/img/branding/fondos/trama-diagonal.svg": {},
+  "assets/img/branding/etiquetas/alquiler-48h.svg": {},
+  "assets/img/branding/etiquetas/alquiler-72h.svg": {},
+  "assets/img/branding/etiquetas/demo-academica.svg": {},
+  "assets/img/branding/etiquetas/descuento-100.svg": {},
+  "assets/img/videojuegos/metaphor-refantazio/portada_vertical.webp": {
+    "ancho": 300,
+    "alto": 450
+  },
+  "assets/img/videojuegos/metaphor-refantazio/cabecera.webp": {
+    "ancho": 460,
+    "alto": 215
+  },
+  "assets/img/videojuegos/metaphor-refantazio/tarjeta_horizontal.webp": {
+    "ancho": 616,
+    "alto": 353
+  },
+  "assets/img/videojuegos/persona-3-reload/portada_vertical.webp": {
+    "ancho": 300,
+    "alto": 450
+  },
+  "assets/img/videojuegos/persona-3-reload/cabecera.webp": {
+    "ancho": 460,
+    "alto": 215
+  },
+  "assets/img/videojuegos/persona-3-reload/tarjeta_horizontal.webp": {
+    "ancho": 616,
+    "alto": 353
+  },
+  "assets/img/videojuegos/persona-5-royal/portada_vertical.webp": {
+    "ancho": 300,
+    "alto": 450
+  },
+  "assets/img/videojuegos/persona-5-royal/cabecera.webp": {
+    "ancho": 460,
+    "alto": 215
+  },
+  "assets/img/videojuegos/persona-5-royal/tarjeta_horizontal.webp": {
+    "ancho": 616,
+    "alto": 353
+  },
+  "assets/img/videojuegos/tales-of-arise/portada_vertical.webp": {
+    "ancho": 300,
+    "alto": 450
+  },
+  "assets/img/videojuegos/tales-of-arise/cabecera.webp": {
+    "ancho": 460,
+    "alto": 215
+  },
+  "assets/img/videojuegos/tales-of-arise/tarjeta_horizontal.webp": {
+    "ancho": 616,
+    "alto": 353
+  },
+  "assets/img/videojuegos/scarlet-nexus/portada_vertical.webp": {
+    "ancho": 300,
+    "alto": 450
+  },
+  "assets/img/videojuegos/scarlet-nexus/cabecera.webp": {
+    "ancho": 460,
+    "alto": 215
+  },
+  "assets/img/videojuegos/scarlet-nexus/tarjeta_horizontal.webp": {
+    "ancho": 616,
+    "alto": 353
+  },
+  "assets/img/videojuegos/code-vein/portada_vertical.webp": {
+    "ancho": 300,
+    "alto": 450
+  },
+  "assets/img/videojuegos/code-vein/cabecera.webp": {
+    "ancho": 460,
+    "alto": 215
+  },
+  "assets/img/videojuegos/code-vein/tarjeta_horizontal.webp": {
+    "ancho": 616,
+    "alto": 353
+  },
+  "assets/img/videojuegos/nier-automata/portada_vertical.webp": {
+    "ancho": 300,
+    "alto": 450
+  },
+  "assets/img/videojuegos/nier-automata/cabecera.webp": {
+    "ancho": 460,
+    "alto": 215
+  },
+  "assets/img/videojuegos/nier-automata/tarjeta_horizontal.webp": {
+    "ancho": 616,
+    "alto": 353
+  },
+  "assets/img/videojuegos/elden-ring/portada_vertical.webp": {
+    "ancho": 300,
+    "alto": 450
+  },
+  "assets/img/videojuegos/elden-ring/cabecera.webp": {
+    "ancho": 460,
+    "alto": 215
+  },
+  "assets/img/videojuegos/elden-ring/tarjeta_horizontal.webp": {
+    "ancho": 616,
+    "alto": 353
+  },
+  "assets/img/videojuegos/hades-ii/portada_vertical.webp": {
+    "ancho": 300,
+    "alto": 450
+  },
+  "assets/img/videojuegos/hades-ii/cabecera.webp": {
+    "ancho": 460,
+    "alto": 215
+  },
+  "assets/img/videojuegos/hades-ii/tarjeta_horizontal.webp": {
+    "ancho": 616,
+    "alto": 353
+  },
+  "assets/img/videojuegos/sekiro/portada_vertical.webp": {
+    "ancho": 300,
+    "alto": 450
+  },
+  "assets/img/videojuegos/sekiro/cabecera.webp": {
+    "ancho": 460,
+    "alto": 215
+  },
+  "assets/img/videojuegos/sekiro/tarjeta_horizontal.webp": {
+    "ancho": 616,
+    "alto": 353
+  },
+  "assets/img/videojuegos/cyberpunk-2077/portada_vertical.webp": {
+    "ancho": 300,
+    "alto": 450
+  },
+  "assets/img/videojuegos/cyberpunk-2077/cabecera.webp": {
+    "ancho": 460,
+    "alto": 215
+  },
+  "assets/img/videojuegos/cyberpunk-2077/tarjeta_horizontal.webp": {
+    "ancho": 616,
+    "alto": 353
+  },
+  "assets/img/videojuegos/resident-evil-4/portada_vertical.webp": {
+    "ancho": 300,
+    "alto": 450
+  },
+  "assets/img/videojuegos/resident-evil-4/cabecera.webp": {
+    "ancho": 460,
+    "alto": 215
+  },
+  "assets/img/videojuegos/resident-evil-4/tarjeta_horizontal.webp": {
+    "ancho": 616,
+    "alto": 353
+  },
+  "assets/img/videojuegos/clair-obscur-expedition-33/portada_vertical.webp": {
+    "ancho": 300,
+    "alto": 450
+  },
+  "assets/img/videojuegos/clair-obscur-expedition-33/cabecera.webp": {
+    "ancho": 460,
+    "alto": 215
+  },
+  "assets/img/videojuegos/clair-obscur-expedition-33/tarjeta_horizontal.webp": {
+    "ancho": 616,
+    "alto": 353
+  },
+  "assets/img/videojuegos/hollow-knight/portada_vertical.webp": {
+    "ancho": 300,
+    "alto": 450
+  },
+  "assets/img/videojuegos/hollow-knight/cabecera.webp": {
+    "ancho": 460,
+    "alto": 215
+  },
+  "assets/img/videojuegos/hollow-knight/tarjeta_horizontal.webp": {
+    "ancho": 616,
+    "alto": 353
+  },
+  "assets/img/videojuegos/hollow-knight-silksong/portada_vertical.webp": {
+    "ancho": 300,
+    "alto": 450
+  },
+  "assets/img/videojuegos/hollow-knight-silksong/cabecera.webp": {
+    "ancho": 460,
+    "alto": 215
+  },
+  "assets/img/videojuegos/hollow-knight-silksong/tarjeta_horizontal.webp": {
+    "ancho": 616,
+    "alto": 353
+  },
+  "assets/img/videojuegos/ori-will-of-wisps/portada_vertical.webp": {
+    "ancho": 300,
+    "alto": 450
+  },
+  "assets/img/videojuegos/ori-will-of-wisps/cabecera.webp": {
+    "ancho": 460,
+    "alto": 215
+  },
+  "assets/img/videojuegos/ori-will-of-wisps/tarjeta_horizontal.webp": {
+    "ancho": 616,
+    "alto": 353
+  },
+  "assets/img/videojuegos/stardew-valley/portada_vertical.webp": {
+    "ancho": 300,
+    "alto": 450
+  },
+  "assets/img/videojuegos/stardew-valley/cabecera.webp": {
+    "ancho": 460,
+    "alto": 215
+  },
+  "assets/img/videojuegos/stardew-valley/tarjeta_horizontal.webp": {
+    "ancho": 616,
+    "alto": 353
+  },
+  "assets/img/videojuegos/stray/portada_vertical.webp": {
+    "ancho": 300,
+    "alto": 450
+  },
+  "assets/img/videojuegos/stray/cabecera.webp": {
+    "ancho": 460,
+    "alto": 215
+  },
+  "assets/img/videojuegos/stray/tarjeta_horizontal.webp": {
+    "ancho": 616,
+    "alto": 353
+  },
+  "assets/img/videojuegos/dave-the-diver/portada_vertical.webp": {
+    "ancho": 300,
+    "alto": 450
+  },
+  "assets/img/videojuegos/dave-the-diver/cabecera.webp": {
+    "ancho": 460,
+    "alto": 215
+  },
+  "assets/img/videojuegos/dave-the-diver/tarjeta_horizontal.webp": {
+    "ancho": 616,
+    "alto": 353
+  },
+  "assets/img/videojuegos/cult-of-the-lamb/portada_vertical.webp": {
+    "ancho": 300,
+    "alto": 450
+  },
+  "assets/img/videojuegos/cult-of-the-lamb/cabecera.webp": {
+    "ancho": 460,
+    "alto": 215
+  },
+  "assets/img/videojuegos/cult-of-the-lamb/tarjeta_horizontal.webp": {
+    "ancho": 616,
+    "alto": 353
+  },
+  "assets/img/portada/metaphor-refantazio/hero-principal-metaphor.webp": {
+    "ancho": 1600,
+    "alto": 517
+  },
+  "assets/img/portada/elden-ring/hero-alternativo-elden-ring.webp": {
+    "ancho": 1600,
+    "alto": 517
+  },
+  "assets/img/portada/hades-ii/hero-alternativo-hades-ii.webp": {
+    "ancho": 1600,
+    "alto": 517
+  },
+  "assets/img/portada/persona-3-reload/hero-alternativo-persona3.webp": {
+    "ancho": 1600,
+    "alto": 517
+  },
+  "assets/img/galerias/metaphor-refantazio/captura_01.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/metaphor-refantazio/captura_02.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/metaphor-refantazio/captura_03.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/metaphor-refantazio/captura_04.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/metaphor-refantazio/captura_05.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/metaphor-refantazio/banner.webp": {
+    "ancho": 1438,
+    "alto": 810
+  },
+  "assets/img/galerias/persona-3-reload/captura_01.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/persona-3-reload/captura_02.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/persona-3-reload/captura_03.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/persona-3-reload/captura_04.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/persona-3-reload/captura_05.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/persona-3-reload/banner.webp": {
+    "ancho": 1438,
+    "alto": 810
+  },
+  "assets/img/galerias/persona-5-royal/captura_01.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/persona-5-royal/captura_02.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/persona-5-royal/captura_03.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/persona-5-royal/captura_04.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/persona-5-royal/captura_05.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/persona-5-royal/banner.webp": {
+    "ancho": 1438,
+    "alto": 810
+  },
+  "assets/img/galerias/tales-of-arise/captura_01.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/tales-of-arise/captura_02.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/tales-of-arise/captura_03.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/tales-of-arise/captura_04.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/tales-of-arise/captura_05.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/tales-of-arise/banner.webp": {
+    "ancho": 1438,
+    "alto": 810
+  },
+  "assets/img/galerias/scarlet-nexus/captura_01.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/scarlet-nexus/captura_02.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/scarlet-nexus/captura_03.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/code-vein/captura_01.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/code-vein/captura_02.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/code-vein/captura_03.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/nier-automata/captura_01.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/nier-automata/captura_02.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/nier-automata/captura_03.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/elden-ring/captura_01.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/elden-ring/captura_02.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/elden-ring/captura_03.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/elden-ring/captura_04.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/elden-ring/captura_05.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/elden-ring/banner.webp": {
+    "ancho": 1438,
+    "alto": 810
+  },
+  "assets/img/galerias/hades-ii/captura_01.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/hades-ii/captura_02.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/hades-ii/captura_03.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/hades-ii/captura_04.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/hades-ii/captura_05.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/hades-ii/banner.webp": {
+    "ancho": 1438,
+    "alto": 810
+  },
+  "assets/img/galerias/sekiro/captura_01.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/sekiro/captura_02.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/sekiro/captura_03.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/cyberpunk-2077/captura_01.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/cyberpunk-2077/captura_02.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/cyberpunk-2077/captura_03.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/cyberpunk-2077/captura_04.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/cyberpunk-2077/captura_05.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/cyberpunk-2077/banner.webp": {
+    "ancho": 1438,
+    "alto": 810
+  },
+  "assets/img/galerias/resident-evil-4/captura_01.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/resident-evil-4/captura_02.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/resident-evil-4/captura_03.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/clair-obscur-expedition-33/captura_01.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/clair-obscur-expedition-33/captura_02.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/clair-obscur-expedition-33/captura_03.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/clair-obscur-expedition-33/captura_04.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/clair-obscur-expedition-33/captura_05.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/clair-obscur-expedition-33/banner.webp": {
+    "ancho": 1438,
+    "alto": 810
+  },
+  "assets/img/galerias/hollow-knight/captura_01.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/hollow-knight/captura_02.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/hollow-knight/captura_03.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/hollow-knight-silksong/captura_01.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/hollow-knight-silksong/captura_02.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/hollow-knight-silksong/captura_03.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/ori-will-of-wisps/captura_01.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/ori-will-of-wisps/captura_02.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/ori-will-of-wisps/captura_03.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/stardew-valley/captura_01.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/stardew-valley/captura_02.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/stardew-valley/captura_03.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/stray/captura_01.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/stray/captura_02.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/stray/captura_03.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/dave-the-diver/captura_01.webp": {
+    "ancho": 1280,
+    "alto": 720
+  },
+  "assets/img/galerias/dave-the-diver/captura_02.webp": {
+    "ancho": 1280,
+    "alto": 720
+  },
+  "assets/img/galerias/dave-the-diver/captura_03.webp": {
+    "ancho": 1280,
+    "alto": 720
+  },
+  "assets/img/galerias/cult-of-the-lamb/captura_01.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/cult-of-the-lamb/captura_02.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/galerias/cult-of-the-lamb/captura_03.webp": {
+    "ancho": 1600,
+    "alto": 900
+  },
+  "assets/img/comunidad/avatares/persona-3-reload--avatar_kairo.webp": {
+    "ancho": 184,
+    "alto": 69
+  },
+  "assets/img/comunidad/avatares/metaphor-refantazio--avatar_mika.webp": {
+    "ancho": 184,
+    "alto": 69
+  },
+  "assets/img/comunidad/avatares/persona-5-royal--avatar_ren.webp": {
+    "ancho": 184,
+    "alto": 69
+  },
+  "assets/img/comunidad/avatares/tales-of-arise--avatar_sora.webp": {
+    "ancho": 184,
+    "alto": 69
+  },
+  "assets/img/comunidad/avatares/scarlet-nexus--avatar_noa.webp": {
+    "ancho": 184,
+    "alto": 69
+  },
+  "assets/img/comunidad/avatares/code-vein--avatar_akari.webp": {
+    "ancho": 184,
+    "alto": 69
+  },
+  "assets/img/comunidad/avatares/nier-automata--avatar_nero.webp": {
+    "ancho": 184,
+    "alto": 69
+  },
+  "assets/img/comunidad/avatares/hades-ii--avatar_lyra.webp": {
+    "ancho": 184,
+    "alto": 69
+  },
+  "assets/img/comunidad/banners/persona-3-reload--banner_perfil.webp": {
+    "ancho": 1438,
+    "alto": 810
+  },
+  "assets/img/comunidad/banners/metaphor-refantazio--banner_comunidad.webp": {
+    "ancho": 1438,
+    "alto": 810
+  },
+  "assets/img/comunidad/banners/hades-ii--banner_evento.webp": {
+    "ancho": 1438,
+    "alto": 810
+  },
+  "assets/img/comunidad/banners/cyberpunk-2077--banner_grupo.webp": {
+    "ancho": 1438,
+    "alto": 810
+  },
+  "assets/img/comunidad/publicaciones/metaphor-refantazio--post_01.webp": {
+    "ancho": 1200,
+    "alto": 675
+  },
+  "assets/img/comunidad/publicaciones/persona-3-reload--post_02.webp": {
+    "ancho": 1200,
+    "alto": 675
+  },
+  "assets/img/comunidad/publicaciones/hades-ii--post_03.webp": {
+    "ancho": 1200,
+    "alto": 675
+  },
+  "assets/img/comunidad/publicaciones/elden-ring--post_04.webp": {
+    "ancho": 1200,
+    "alto": 675
+  },
+  "assets/img/comunidad/publicaciones/tales-of-arise--post_05.webp": {
+    "ancho": 1200,
+    "alto": 675
+  },
+  "assets/img/comunidad/actividad/metaphor-refantazio--actividad_01.webp": {
+    "ancho": 320,
+    "alto": 150
+  },
+  "assets/img/comunidad/actividad/hades-ii--actividad_02.webp": {
+    "ancho": 320,
+    "alto": 150
+  },
+  "assets/img/comunidad/actividad/persona-3-reload--actividad_03.webp": {
+    "ancho": 320,
+    "alto": 150
+  },
+  "assets/img/comunidad/actividad/nier-automata--actividad_04.webp": {
+    "ancho": 320,
+    "alto": 150
+  },
+  "assets/img/comunidad/avatares/cartoon/chico-1.webp": {
+    "ancho": 224,
+    "alto": 224
+  },
+  "assets/img/comunidad/avatares/cartoon/chico-2.webp": {
+    "ancho": 224,
+    "alto": 224
+  },
+  "assets/img/comunidad/avatares/cartoon/chica-1.webp": {
+    "ancho": 224,
+    "alto": 224
+  },
+  "assets/img/comunidad/avatares/cartoon/chica-2.webp": {
+    "ancho": 224,
+    "alto": 224
+  },
+  "assets/img/comunidad/avatares/cartoon/gato.webp": {
+    "ancho": 224,
+    "alto": 224
+  },
+  "assets/img/comunidad/avatares/cartoon/perro.webp": {
+    "ancho": 224,
+    "alto": 224
+  },
+  "assets/img/comunidad/avatares/cartoon/robot.webp": {
+    "ancho": 224,
+    "alto": 224
+  },
+  "assets/img/comunidad/avatares/cartoon/criatura.webp": {
+    "ancho": 224,
+    "alto": 224
+  },
+  "assets/img/comunidad/avatares/cartoon/caballero.webp": {
+    "ancho": 224,
+    "alto": 224
+  },
+  "assets/img/comunidad/avatares/cartoon/goku.webp": {
+    "ancho": 224,
+    "alto": 224
+  },
+  "assets/img/ilustraciones/inicio-aventura.webp": {
+    "ancho": 1672,
+    "alto": 941
+  },
+  "assets/img/ilustraciones/acceso-aventurera.webp": {
+    "ancho": 1086,
+    "alto": 1448
+  }
+}

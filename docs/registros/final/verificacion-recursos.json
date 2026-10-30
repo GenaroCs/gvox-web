@@ -1,0 +1,12 @@
+{
+  "estado": "CORRECTO",
+  "referencias_logicas": 208,
+  "archivos_unicos": 200,
+  "rutas_y_huellas_correctas": true,
+  "duplicados_binarios": 0,
+  "webp_decodificados": 185,
+  "originales_verificados": true,
+  "juegos_consistentes": 20,
+  "pantallas_desarrolladas": 8,
+  "entradas_de_pagina": 8
+}

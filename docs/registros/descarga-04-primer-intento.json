@@ -1,0 +1,822 @@
+[
+  {
+    "juego": "Metaphor: ReFantazio",
+    "tipo": "captura",
+    "numero": 1,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/metaphor-refantazio/captura_01.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/ss_9809b4bfb257dc3e4f39f3f54fad1768234c03ad.1920x1080.jpg?t=1764776325",
+    "bytes": 1040008,
+    "reutilizado": false
+  },
+  {
+    "juego": "Metaphor: ReFantazio",
+    "tipo": "captura",
+    "numero": 2,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/metaphor-refantazio/captura_02.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/ss_ec0825cd3ecfa6c74e3041c5842bcb3453e7cb45.1920x1080.jpg?t=1764776325",
+    "bytes": 1056485,
+    "reutilizado": false
+  },
+  {
+    "juego": "Metaphor: ReFantazio",
+    "tipo": "captura",
+    "numero": 3,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/metaphor-refantazio/captura_03.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/ss_292f6c637e0c0e81b225aa055c4a348f821cbd48.1920x1080.jpg?t=1764776325",
+    "bytes": 787786,
+    "reutilizado": false
+  },
+  {
+    "juego": "Metaphor: ReFantazio",
+    "tipo": "captura",
+    "numero": 4,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/metaphor-refantazio/captura_04.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/ss_de16693b88cfb65a20157ddd41925b3ce80e96f1.1920x1080.jpg?t=1764776325",
+    "bytes": 651719,
+    "reutilizado": false
+  },
+  {
+    "juego": "Metaphor: ReFantazio",
+    "tipo": "captura",
+    "numero": 5,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/metaphor-refantazio/captura_05.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/ss_dea9ff5f1572b5d4efb4d33b4d1d3decb1e8ce48.1920x1080.jpg?t=1764776325",
+    "bytes": 683132,
+    "reutilizado": false
+  },
+  {
+    "juego": "Metaphor: ReFantazio",
+    "tipo": "banner",
+    "estado": "ERROR",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/page_bg_raw.jpg?t=1764776325",
+    "detalle": "Firma binaria inconsistente"
+  },
+  {
+    "juego": "Persona 3 Reload",
+    "tipo": "captura",
+    "numero": 1,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/persona-3-reload/captura_01.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/ss_7017244fb8319ba927a0ef414959b95a6164356f.1920x1080.jpg?t=1764776430",
+    "bytes": 389556,
+    "reutilizado": false
+  },
+  {
+    "juego": "Persona 3 Reload",
+    "tipo": "captura",
+    "numero": 2,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/persona-3-reload/captura_02.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/ss_cfe4b9124ea5e815e7981e3ac29a72a02fd48239.1920x1080.jpg?t=1764776430",
+    "bytes": 483615,
+    "reutilizado": false
+  },
+  {
+    "juego": "Persona 3 Reload",
+    "tipo": "captura",
+    "numero": 3,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/persona-3-reload/captura_03.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/ss_c123d3e9360f030e6600db27311586d033f65ff7.1920x1080.jpg?t=1764776430",
+    "bytes": 734061,
+    "reutilizado": false
+  },
+  {
+    "juego": "Persona 3 Reload",
+    "tipo": "captura",
+    "numero": 4,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/persona-3-reload/captura_04.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/ss_f51fc26c627816bbd87011ca278b1fbbda2d6bc8.1920x1080.jpg?t=1764776430",
+    "bytes": 514410,
+    "reutilizado": false
+  },
+  {
+    "juego": "Persona 3 Reload",
+    "tipo": "captura",
+    "numero": 5,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/persona-3-reload/captura_05.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/ss_b60f1f21f4794f0ba90bbc55c41aab4637b4103a.1920x1080.jpg?t=1764776430",
+    "bytes": 233209,
+    "reutilizado": false
+  },
+  {
+    "juego": "Persona 3 Reload",
+    "tipo": "banner",
+    "estado": "ERROR",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/page_bg_raw.jpg?t=1764776430",
+    "detalle": "Firma binaria inconsistente"
+  },
+  {
+    "juego": "Persona 5 Royal",
+    "tipo": "captura",
+    "numero": 1,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/persona-5-royal/captura_01.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/ss_663171dc3afce8fe987e57e8659f91b69faa39bc.1920x1080.jpg?t=1783356822",
+    "bytes": 401434,
+    "reutilizado": false
+  },
+  {
+    "juego": "Persona 5 Royal",
+    "tipo": "captura",
+    "numero": 2,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/persona-5-royal/captura_02.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/ss_a3258aba84ae2f2ff13a02a160f7495bfc152adb.1920x1080.jpg?t=1783356822",
+    "bytes": 283928,
+    "reutilizado": false
+  },
+  {
+    "juego": "Persona 5 Royal",
+    "tipo": "captura",
+    "numero": 3,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/persona-5-royal/captura_03.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/ss_ddcc016b8e5c434ccbd1a89c0157ce73acf905ae.1920x1080.jpg?t=1783356822",
+    "bytes": 349243,
+    "reutilizado": false
+  },
+  {
+    "juego": "Persona 5 Royal",
+    "tipo": "captura",
+    "numero": 4,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/persona-5-royal/captura_04.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/ss_c665872b4c5cb3a4e4fd3a4abde97ee60fe51e33.1920x1080.jpg?t=1783356822",
+    "bytes": 408834,
+    "reutilizado": false
+  },
+  {
+    "juego": "Persona 5 Royal",
+    "tipo": "captura",
+    "numero": 5,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/persona-5-royal/captura_05.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/ss_63d2164bf39a43905e9602381f43a9ad4ab46dea.1920x1080.jpg?t=1783356822",
+    "bytes": 750159,
+    "reutilizado": false
+  },
+  {
+    "juego": "Persona 5 Royal",
+    "tipo": "banner",
+    "estado": "ERROR",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/page_bg_raw.jpg?t=1783356822",
+    "detalle": "Firma binaria inconsistente"
+  },
+  {
+    "juego": "Tales of ARISE",
+    "tipo": "captura",
+    "numero": 1,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/tales-of-arise/captura_01.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/740130/ss_ff3e713e134572734fdc55adcb6043e2652f0506.1920x1080.jpg?t=1783413316",
+    "bytes": 738641,
+    "reutilizado": false
+  },
+  {
+    "juego": "Tales of ARISE",
+    "tipo": "captura",
+    "numero": 2,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/tales-of-arise/captura_02.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/740130/ss_3ca8447106ddb23b14e4e30db0b24cbb359e2a5f.1920x1080.jpg?t=1783413316",
+    "bytes": 733047,
+    "reutilizado": false
+  },
+  {
+    "juego": "Tales of ARISE",
+    "tipo": "captura",
+    "numero": 3,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/tales-of-arise/captura_03.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/740130/ss_7f7362042aff89d16cdf36c58b8c5674deb71d63.1920x1080.jpg?t=1783413316",
+    "bytes": 472606,
+    "reutilizado": false
+  },
+  {
+    "juego": "Tales of ARISE",
+    "tipo": "captura",
+    "numero": 4,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/tales-of-arise/captura_04.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/740130/ss_f14d3e50d12061fee9afa2f46718bc0e0538d286.1920x1080.jpg?t=1783413316",
+    "bytes": 401422,
+    "reutilizado": false
+  },
+  {
+    "juego": "Tales of ARISE",
+    "tipo": "captura",
+    "numero": 5,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/tales-of-arise/captura_05.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/740130/ss_d3f44bb87db552da6f17bb31ba4144639b24ed2f.1920x1080.jpg?t=1783413316",
+    "bytes": 471870,
+    "reutilizado": false
+  },
+  {
+    "juego": "Tales of ARISE",
+    "tipo": "banner",
+    "estado": "OK",
+    "archivo": "imagenes/galerias/tales-of-arise/banner.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/740130/14b9c1d87776e2a905a44d666033bbc9c7721446/page_bg_raw.jpg?t=1783413316",
+    "bytes": 127981,
+    "reutilizado": false
+  },
+  {
+    "juego": "SCARLET NEXUS",
+    "tipo": "captura",
+    "numero": 1,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/scarlet-nexus/captura_01.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/775500/ss_19a0a0a12d89ce5156aab7a748af036c6083fd49.1920x1080.jpg?t=1703662938",
+    "bytes": 138401,
+    "reutilizado": false
+  },
+  {
+    "juego": "SCARLET NEXUS",
+    "tipo": "captura",
+    "numero": 2,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/scarlet-nexus/captura_02.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/775500/ss_1120f94885d497869ad027f248b57eb8d277ccc1.1920x1080.jpg?t=1703662938",
+    "bytes": 203413,
+    "reutilizado": false
+  },
+  {
+    "juego": "SCARLET NEXUS",
+    "tipo": "captura",
+    "numero": 3,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/scarlet-nexus/captura_03.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/775500/ss_16d428525362bcd1c4d3900ecad83e043b67cea8.1920x1080.jpg?t=1703662938",
+    "bytes": 274655,
+    "reutilizado": false
+  },
+  {
+    "juego": "CODE VEIN",
+    "tipo": "captura",
+    "numero": 1,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/code-vein/captura_01.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/678960/ss_8872f9fd79ef968f3a3023f17811c9f9133f7d64.1920x1080.jpg?t=1766015412",
+    "bytes": 691582,
+    "reutilizado": false
+  },
+  {
+    "juego": "CODE VEIN",
+    "tipo": "captura",
+    "numero": 2,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/code-vein/captura_02.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/678960/ss_2c00b08bf8a854b43757198e178be27ac46f50aa.1920x1080.jpg?t=1766015412",
+    "bytes": 626590,
+    "reutilizado": false
+  },
+  {
+    "juego": "CODE VEIN",
+    "tipo": "captura",
+    "numero": 3,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/code-vein/captura_03.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/678960/ss_4f2662706d87964e979c223f0264622574f151bc.1920x1080.jpg?t=1766015412",
+    "bytes": 781746,
+    "reutilizado": false
+  },
+  {
+    "juego": "NieR:Automata",
+    "tipo": "captura",
+    "numero": 1,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/nier-automata/captura_01.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524220/ss_d0314b4c134329a483b5e43af951f60274abc66b.1920x1080.jpg?t=1785182957",
+    "bytes": 453953,
+    "reutilizado": false
+  },
+  {
+    "juego": "NieR:Automata",
+    "tipo": "captura",
+    "numero": 2,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/nier-automata/captura_02.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524220/ss_8b29f7e1ce9a8b9313dc3eb50dbe76a4cf94eef9.1920x1080.jpg?t=1785182957",
+    "bytes": 544731,
+    "reutilizado": false
+  },
+  {
+    "juego": "NieR:Automata",
+    "tipo": "captura",
+    "numero": 3,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/nier-automata/captura_03.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524220/ss_2c265df38c3d2d393d74ee8e74d79bdafa16b143.1920x1080.jpg?t=1785182957",
+    "bytes": 186383,
+    "reutilizado": false
+  },
+  {
+    "juego": "ELDEN RING",
+    "tipo": "captura",
+    "numero": 1,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/elden-ring/captura_01.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_943bf6fe62352757d9070c1d33e50b92fe8539f1.1920x1080.jpg?t=1790290043",
+    "bytes": 573366,
+    "reutilizado": false
+  },
+  {
+    "juego": "ELDEN RING",
+    "tipo": "captura",
+    "numero": 2,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/elden-ring/captura_02.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_dcdac9e4b26ac0ee5248bfd2967d764fd00cdb42.1920x1080.jpg?t=1790290043",
+    "bytes": 462996,
+    "reutilizado": false
+  },
+  {
+    "juego": "ELDEN RING",
+    "tipo": "captura",
+    "numero": 3,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/elden-ring/captura_03.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_3c41384a24d86dddd58a8f61db77f9dc0bfda8b5.1920x1080.jpg?t=1790290043",
+    "bytes": 591001,
+    "reutilizado": false
+  },
+  {
+    "juego": "ELDEN RING",
+    "tipo": "captura",
+    "numero": 4,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/elden-ring/captura_04.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_e0316c76f8197405c1312d072b84331dd735d60b.1920x1080.jpg?t=1790290043",
+    "bytes": 870173,
+    "reutilizado": false
+  },
+  {
+    "juego": "ELDEN RING",
+    "tipo": "captura",
+    "numero": 5,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/elden-ring/captura_05.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_ef61b771ee6b269b1f0cb484233e07a0bfb5f81b.1920x1080.jpg?t=1790290043",
+    "bytes": 682987,
+    "reutilizado": false
+  },
+  {
+    "juego": "ELDEN RING",
+    "tipo": "banner",
+    "estado": "ERROR",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/page_bg_raw.jpg?t=1790290043",
+    "detalle": "Firma binaria inconsistente"
+  },
+  {
+    "juego": "Hades II",
+    "tipo": "captura",
+    "numero": 1,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/hades-ii/captura_01.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/ss_ef0f63061d0a0a9a7e46f3b84f125d25330e8f19.1920x1080.jpg?t=1779901265",
+    "bytes": 527902,
+    "reutilizado": false
+  },
+  {
+    "juego": "Hades II",
+    "tipo": "captura",
+    "numero": 2,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/hades-ii/captura_02.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/ss_3a1ee482fad79d2c475c9cddc40524b267e02861.1920x1080.jpg?t=1779901265",
+    "bytes": 502333,
+    "reutilizado": false
+  },
+  {
+    "juego": "Hades II",
+    "tipo": "captura",
+    "numero": 3,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/hades-ii/captura_03.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/ss_b88cb7b48a86f07a7288bf37141f6558279f9bfc.1920x1080.jpg?t=1779901265",
+    "bytes": 780240,
+    "reutilizado": false
+  },
+  {
+    "juego": "Hades II",
+    "tipo": "captura",
+    "numero": 4,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/hades-ii/captura_04.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/ss_c8d2b18451a2cc4d5b4fdd78ed84a5e64e051eac.1920x1080.jpg?t=1779901265",
+    "bytes": 585116,
+    "reutilizado": false
+  },
+  {
+    "juego": "Hades II",
+    "tipo": "captura",
+    "numero": 5,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/hades-ii/captura_05.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/ss_f366f20f4fb699f6735581e04c7c45a1ef7bd1b8.1920x1080.jpg?t=1779901265",
+    "bytes": 540242,
+    "reutilizado": false
+  },
+  {
+    "juego": "Hades II",
+    "tipo": "banner",
+    "estado": "ERROR",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/page_bg_raw.jpg?t=1779901265",
+    "detalle": "Firma binaria inconsistente"
+  },
+  {
+    "juego": "Sekiro: Shadows Die Twice",
+    "tipo": "captura",
+    "numero": 1,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/sekiro/captura_01.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/ss_0f7b0f8ed9ffc49aba26f9328caa9a1d59ad60f0.1920x1080.jpg?t=1762888662",
+    "bytes": 734395,
+    "reutilizado": false
+  },
+  {
+    "juego": "Sekiro: Shadows Die Twice",
+    "tipo": "captura",
+    "numero": 2,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/sekiro/captura_02.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/ss_2685dd844a2a523b6c7ec207d46a538db6a908cd.1920x1080.jpg?t=1762888662",
+    "bytes": 936973,
+    "reutilizado": false
+  },
+  {
+    "juego": "Sekiro: Shadows Die Twice",
+    "tipo": "captura",
+    "numero": 3,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/sekiro/captura_03.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/ss_15f0e9982621aed44900215ad283811af0779b1d.1920x1080.jpg?t=1762888662",
+    "bytes": 1057083,
+    "reutilizado": false
+  },
+  {
+    "juego": "Cyberpunk 2077",
+    "tipo": "captura",
+    "numero": 1,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/cyberpunk-2077/captura_01.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_2f649b68d579bf87011487d29bc4ccbfdd97d34f.1920x1080.jpg?t=1792682505",
+    "bytes": 349046,
+    "reutilizado": false
+  },
+  {
+    "juego": "Cyberpunk 2077",
+    "tipo": "captura",
+    "numero": 2,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/cyberpunk-2077/captura_02.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/900f9bda156599fcd235f08ffb64667f9baa1afe/ss_900f9bda156599fcd235f08ffb64667f9baa1afe.1920x1080.jpg?t=1792682505",
+    "bytes": 589631,
+    "reutilizado": false
+  },
+  {
+    "juego": "Cyberpunk 2077",
+    "tipo": "captura",
+    "numero": 3,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/cyberpunk-2077/captura_03.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/f678ed77c2fe7060ac9c64e32e1472e3ec3ab7dc/ss_f678ed77c2fe7060ac9c64e32e1472e3ec3ab7dc.1920x1080.jpg?t=1792682505",
+    "bytes": 355236,
+    "reutilizado": false
+  },
+  {
+    "juego": "Cyberpunk 2077",
+    "tipo": "captura",
+    "numero": 4,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/cyberpunk-2077/captura_04.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/0ed9487e305983d60646ba163a3d8970efb6b347/ss_0ed9487e305983d60646ba163a3d8970efb6b347.1920x1080.jpg?t=1792682505",
+    "bytes": 359048,
+    "reutilizado": false
+  },
+  {
+    "juego": "Cyberpunk 2077",
+    "tipo": "captura",
+    "numero": 5,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/cyberpunk-2077/captura_05.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_0e64170751e1ae20ff8fdb7001a8892fd48260e7.1920x1080.jpg?t=1792682505",
+    "bytes": 429587,
+    "reutilizado": false
+  },
+  {
+    "juego": "Cyberpunk 2077",
+    "tipo": "banner",
+    "estado": "ERROR",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/644eb087007768417a847e52c38eeaf34b57fd12/page_bg_raw.jpg?t=1792682505",
+    "detalle": "Firma binaria inconsistente"
+  },
+  {
+    "juego": "Resident Evil 4",
+    "tipo": "captura",
+    "numero": 1,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/resident-evil-4/captura_01.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/ss_59d1b19964cc532213df92c8287b75a0bffeb33c.1920x1080.jpg?t=1772502922",
+    "bytes": 371746,
+    "reutilizado": false
+  },
+  {
+    "juego": "Resident Evil 4",
+    "tipo": "captura",
+    "numero": 2,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/resident-evil-4/captura_02.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/ss_ab807f8ad9e968a620777caf483cb6020367b9ee.1920x1080.jpg?t=1772502922",
+    "bytes": 494772,
+    "reutilizado": false
+  },
+  {
+    "juego": "Resident Evil 4",
+    "tipo": "captura",
+    "numero": 3,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/resident-evil-4/captura_03.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/ss_0442f7fb4327d79802c2db8ea8d23d228a28d896.1920x1080.jpg?t=1772502922",
+    "bytes": 259337,
+    "reutilizado": false
+  },
+  {
+    "juego": "Clair Obscur: Expedition 33",
+    "tipo": "captura",
+    "numero": 1,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/clair-obscur-expedition-33/captura_01.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/ss_483a27df5072beb3a4650634a764bda750fbcb82.1920x1080.jpg?t=1782830877",
+    "bytes": 816747,
+    "reutilizado": false
+  },
+  {
+    "juego": "Clair Obscur: Expedition 33",
+    "tipo": "captura",
+    "numero": 2,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/clair-obscur-expedition-33/captura_02.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/ss_e49800e906e8a0f00707458c836567c933603bac.1920x1080.jpg?t=1782830877",
+    "bytes": 409930,
+    "reutilizado": false
+  },
+  {
+    "juego": "Clair Obscur: Expedition 33",
+    "tipo": "captura",
+    "numero": 3,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/clair-obscur-expedition-33/captura_03.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/ss_b8089016095e6a16e324a59c45b2f24a439bd0b3.1920x1080.jpg?t=1782830877",
+    "bytes": 308197,
+    "reutilizado": false
+  },
+  {
+    "juego": "Clair Obscur: Expedition 33",
+    "tipo": "captura",
+    "numero": 4,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/clair-obscur-expedition-33/captura_04.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/ss_8439c07d7b1f2fcfc6449db5f051f8d0867f4785.1920x1080.jpg?t=1782830877",
+    "bytes": 626859,
+    "reutilizado": false
+  },
+  {
+    "juego": "Clair Obscur: Expedition 33",
+    "tipo": "captura",
+    "numero": 5,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/clair-obscur-expedition-33/captura_05.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/ss_9e050e6a61a4d9f4fe54bc62c8c73da38e9a63b0.1920x1080.jpg?t=1782830877",
+    "bytes": 469467,
+    "reutilizado": false
+  },
+  {
+    "juego": "Clair Obscur: Expedition 33",
+    "tipo": "banner",
+    "estado": "OK",
+    "archivo": "imagenes/galerias/clair-obscur-expedition-33/banner.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/page_bg_raw.jpg?t=1782830877",
+    "bytes": 763092,
+    "reutilizado": false
+  },
+  {
+    "juego": "Hollow Knight",
+    "tipo": "captura",
+    "numero": 1,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/hollow-knight/captura_01.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/ss_5384f9f8b96a0b9934b2bc35a4058376211636d2.1920x1080.jpg?t=1776125684",
+    "bytes": 658060,
+    "reutilizado": false
+  },
+  {
+    "juego": "Hollow Knight",
+    "tipo": "captura",
+    "numero": 2,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/hollow-knight/captura_02.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/ss_d5b6edd94e77ba6db31c44d8a3c09d807ab27751.1920x1080.jpg?t=1776125684",
+    "bytes": 1367132,
+    "reutilizado": false
+  },
+  {
+    "juego": "Hollow Knight",
+    "tipo": "captura",
+    "numero": 3,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/hollow-knight/captura_03.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/ss_a81e4231cc8d55f58b51a4a938898af46503cae5.1920x1080.jpg?t=1776125684",
+    "bytes": 965528,
+    "reutilizado": false
+  },
+  {
+    "juego": "Hollow Knight: Silksong",
+    "tipo": "captura",
+    "numero": 1,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/hollow-knight-silksong/captura_01.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/26950369fe4b03c2268620eb9815c8a246aa0b06/ss_26950369fe4b03c2268620eb9815c8a246aa0b06.1920x1080.jpg?t=1776125736",
+    "bytes": 477817,
+    "reutilizado": false
+  },
+  {
+    "juego": "Hollow Knight: Silksong",
+    "tipo": "captura",
+    "numero": 2,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/hollow-knight-silksong/captura_02.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/09ccaa6c16f158f9df8298feb5d196098506a028/ss_09ccaa6c16f158f9df8298feb5d196098506a028.1920x1080.jpg?t=1776125736",
+    "bytes": 401772,
+    "reutilizado": false
+  },
+  {
+    "juego": "Hollow Knight: Silksong",
+    "tipo": "captura",
+    "numero": 3,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/hollow-knight-silksong/captura_03.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/d1a893ec6357b347a55ed929833ba793b57a79d2/ss_d1a893ec6357b347a55ed929833ba793b57a79d2.1920x1080.jpg?t=1776125736",
+    "bytes": 254445,
+    "reutilizado": false
+  },
+  {
+    "juego": "Ori and the Will of the Wisps",
+    "tipo": "captura",
+    "numero": 1,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/ori-will-of-wisps/captura_01.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/ss_0cf0ec6681ae5771173790dbc99ddb3bf3b886ad.1920x1080.jpg?t=1759530749",
+    "bytes": 364184,
+    "reutilizado": false
+  },
+  {
+    "juego": "Ori and the Will of the Wisps",
+    "tipo": "captura",
+    "numero": 2,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/ori-will-of-wisps/captura_02.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/ss_f8ac174b7949e89fe1939a7bd2c471785dee55f0.1920x1080.jpg?t=1759530749",
+    "bytes": 345598,
+    "reutilizado": false
+  },
+  {
+    "juego": "Ori and the Will of the Wisps",
+    "tipo": "captura",
+    "numero": 3,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/ori-will-of-wisps/captura_03.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/ss_3ae04b208aaff3869f69617c47449ec1d7a06513.1920x1080.jpg?t=1759530749",
+    "bytes": 226074,
+    "reutilizado": false
+  },
+  {
+    "juego": "Stardew Valley",
+    "tipo": "captura",
+    "numero": 1,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/stardew-valley/captura_01.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_b887651a93b0525739049eb4194f633de2df75be.1920x1080.jpg?t=1786554168",
+    "bytes": 989827,
+    "reutilizado": false
+  },
+  {
+    "juego": "Stardew Valley",
+    "tipo": "captura",
+    "numero": 2,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/stardew-valley/captura_02.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_9ac899fe2cda15d48b0549bba77ef8c4a090a71c.1920x1080.jpg?t=1786554168",
+    "bytes": 330276,
+    "reutilizado": false
+  },
+  {
+    "juego": "Stardew Valley",
+    "tipo": "captura",
+    "numero": 3,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/stardew-valley/captura_03.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_4fa0866709ede3753fdf2745349b528d5e8c4054.1920x1080.jpg?t=1786554168",
+    "bytes": 752925,
+    "reutilizado": false
+  },
+  {
+    "juego": "Stray",
+    "tipo": "captura",
+    "numero": 1,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/stray/captura_01.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/ss_88e209a90c2039fa76bca6fa08c641365be38d50.1920x1080.jpg?t=1785424330",
+    "bytes": 681395,
+    "reutilizado": false
+  },
+  {
+    "juego": "Stray",
+    "tipo": "captura",
+    "numero": 2,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/stray/captura_02.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/ss_e8f0cbd5efdba352e89c4cfcee3fe991a1e1be8a.1920x1080.jpg?t=1785424330",
+    "bytes": 384073,
+    "reutilizado": false
+  },
+  {
+    "juego": "Stray",
+    "tipo": "captura",
+    "numero": 3,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/stray/captura_03.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/ss_2221af260c64362fdc835a9dca65f6f1d1192b25.1920x1080.jpg?t=1785424330",
+    "bytes": 604528,
+    "reutilizado": false
+  },
+  {
+    "juego": "DAVE THE DIVER",
+    "tipo": "captura",
+    "numero": 1,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/dave-the-diver/captura_01.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/ss_7c86a17d545b6260ecdcfdd62622e49dcc9011bd.1920x1080.jpg?t=1791478061",
+    "bytes": 208374,
+    "reutilizado": false
+  },
+  {
+    "juego": "DAVE THE DIVER",
+    "tipo": "captura",
+    "numero": 2,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/dave-the-diver/captura_02.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/ss_783e1f6c2d4c358fb494d055c47c0e888922abd5.1920x1080.jpg?t=1791478061",
+    "bytes": 253718,
+    "reutilizado": false
+  },
+  {
+    "juego": "DAVE THE DIVER",
+    "tipo": "captura",
+    "numero": 3,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/dave-the-diver/captura_03.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/ss_6eac5a3b59e181d1ffa26757b041be521bfe1779.1920x1080.jpg?t=1791478061",
+    "bytes": 208848,
+    "reutilizado": false
+  },
+  {
+    "juego": "Cult of the Lamb",
+    "tipo": "captura",
+    "numero": 1,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/cult-of-the-lamb/captura_01.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1313140/ss_3bda2c2e740660fcde8c42eafab4cb7574ab54e6.1920x1080.jpg?t=1786554901",
+    "bytes": 437605,
+    "reutilizado": false
+  },
+  {
+    "juego": "Cult of the Lamb",
+    "tipo": "captura",
+    "numero": 2,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/cult-of-the-lamb/captura_02.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1313140/ss_805babf3c8dec217798c836daea48a63b47c192b.1920x1080.jpg?t=1786554901",
+    "bytes": 403290,
+    "reutilizado": false
+  },
+  {
+    "juego": "Cult of the Lamb",
+    "tipo": "captura",
+    "numero": 3,
+    "estado": "OK",
+    "archivo": "imagenes/galerias/cult-of-the-lamb/captura_03.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1313140/ss_b26625d6f64a739ed1ddf832a5d26b665ab0619f.1920x1080.jpg?t=1786554901",
+    "bytes": 652009,
+    "reutilizado": false
+  }
+]

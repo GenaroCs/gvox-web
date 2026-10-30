@@ -1,0 +1,166 @@
+.comunidad-columnas {
+  display:grid;
+  grid-template-columns:minmax(0,1.65fr) minmax(280px,1fr);
+  gap:24px
+}
+.comunidad-bienvenida {
+  background:linear-gradient(110deg,#1b291c,#182319);
+  border:1px solid #334a30;
+  border-radius:8px;
+  padding:24px
+}
+.comunidad-bienvenida .ceja {
+  font-size:11px
+}
+.comunidad-bienvenida h2 {
+  font-size:24px
+}
+.comunidad-bienvenida p {
+  font-size:11px;
+  color:var(--muted);
+  margin-top:10px
+}
+.publicacion {
+  padding:20px;
+  margin-top:20px
+}
+.publicacion-cabecera {
+  display:flex;
+  align-items:center;
+  gap:10px
+}
+.publicacion-cabecera strong {
+  font-size:14px
+}
+.publicacion-cabecera small {
+  font-size:11px;
+  color:var(--muted);
+  display:block;
+  margin-top:3px
+}
+.publicacion-cabecera .avatar {
+  width:44px;
+  height:44px
+}
+.publicacion-cabecera .insignia {
+  margin-left:auto;
+  font-size:11px;
+  max-width:160px
+}
+.publicacion>p {
+  font-size:14px;
+  color:#bacabd;
+  margin:18px 0
+}
+.publicacion-imagen {
+  display:block;
+  aspect-ratio:16/8;
+  overflow:hidden;
+  border-radius:5px
+}
+.publicacion-imagen img {
+  width:100%;
+  height:100%;
+  object-fit:cover
+}
+.publicacion-pie {
+  display:flex;
+  align-items:center;
+  gap:18px;
+  padding-top:17px
+}
+.publicacion-pie>.micro {
+  margin-left:auto;
+  font-size:11px;
+  letter-spacing:.4px
+}
+.publicacion-pie .enlace-lima {
+  font-size:11px
+}
+.reaccion {
+  display:flex;
+  align-items:center;
+  gap:7px;
+  background:none;
+  border:0;
+  padding:0;
+  color:var(--muted);
+  font-size:11px
+}
+.reaccion .icono {
+  width:15px;
+  height:15px
+}
+.reaccion.activa {
+  color:var(--lima)
+}
+.reaccion.activa .icono {
+  fill:#d5ff5122
+}
+.amigo-fila {
+  display:flex;
+  align-items:center;
+  gap:9px;
+  margin-top:20px;
+  min-width:0
+}
+.amigo-fila .avatar {
+  width:40px;
+  height:40px
+}
+.amigo-fila>div>strong {
+  display:block;
+  font-size:11px
+}
+.amigo-fila>div>small {
+  display:block;
+  font-size:11px;
+  color:var(--muted);
+  margin-top:4px
+}
+.amigo-acciones {
+  margin-left:auto;
+  display:flex;
+  align-items:end;
+  flex-direction:column;
+  gap:6px
+}
+.amigo-acciones .boton {
+  font-size:11px;
+  padding:8px 10px
+}
+.amigo-acciones .enlace-texto {
+  font-size:11px
+}
+.amigo-acciones .pequeno {
+  font-size:11px
+}
+.comunidad-columnas>aside .panel-interior {
+  padding:21px
+}
+.comunidad-columnas>aside .ceja {
+  font-size:11px;
+  letter-spacing:1.7px;
+  margin-bottom:5px
+}
+.comunidad-columnas>aside .contador {
+  font-size:11px
+}
+.sin-borde {
+  border:0;
+  background:transparent
+}
+.comunidad-columnas .resena .avatar {
+  width:36px;
+  height:36px
+}
+.comunidad-columnas .resena .insignia {
+  font-size:11px
+}
+.comunidad-columnas .resena .enlace-lima {
+  font-size:11px
+}
+.comunidad-columnas #resena-comunidad {
+  font-size:11px;
+  white-space:nowrap
+}

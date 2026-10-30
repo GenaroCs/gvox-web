@@ -1,0 +1,66 @@
+{
+  "originales_utilizados_unicos": 180,
+  "originales_utilizados_bytes": 55687383,
+  "archivos_optimizados_unicos": 188,
+  "optimizados_bytes": 21133249,
+  "ahorro_bytes": 34554134,
+  "ahorro_porcentaje": 62.05,
+  "formatos_finales": {
+    ".ico": 1,
+    ".svg": 14,
+    ".webp": 173
+  },
+  "nuevos_originales_archivados": 161,
+  "perfiles_maximos": {
+    "branding": [
+      800,
+      400
+    ],
+    "portada": [
+      600,
+      900
+    ],
+    "cabecera": [
+      920,
+      430
+    ],
+    "tarjeta": [
+      800,
+      460
+    ],
+    "hero": [
+      1600,
+      900
+    ],
+    "login": [
+      900,
+      1200
+    ],
+    "galeria": [
+      1600,
+      1000
+    ],
+    "banner": [
+      1600,
+      900
+    ],
+    "avatar": [
+      256,
+      256
+    ],
+    "publicacion": [
+      1200,
+      800
+    ],
+    "actividad": [
+      320,
+      180
+    ]
+  },
+  "calidad_webp": 88,
+  "branding_raster_lossless": true,
+  "sin_ampliacion": true,
+  "imagenes_originales_no_usadas": "Capturas de maquetas, vista previa y arte conceptual; no cuentan en el ahorro.",
+  "portada_imagenes_bytes": 510846,
+  "portada_con_reserva_bytes": 1110846
+}

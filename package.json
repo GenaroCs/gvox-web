@@ -1,0 +1,16 @@
+{
+  "name": "gvox-web",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Prototipo académico de videojuegos con ocho pantallas y operaciones locales de demostración.",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node scripts/servidor.mjs",
+    "verificar:originales": "node scripts/verificar_originales.mjs",
+    "descargar:recursos": "node scripts/descargar_recursos.mjs",
+    "comprobar:flujos": "node scripts/comprobar_flujos.mjs"
+  }
+}

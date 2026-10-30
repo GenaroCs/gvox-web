@@ -1,0 +1,117 @@
+.acceso-main {
+  max-width:var(--ancho);
+  margin:auto
+}
+.acceso-escena {
+  display:grid;
+  grid-template-columns:52% 48%;
+  min-height:calc(100vh - 172px)
+}
+.acceso-arte {
+  position:relative;
+  overflow:hidden;
+  min-height:720px;
+  background:#12201a
+}
+.acceso-arte>img {
+  position:absolute;
+  inset:0;
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  object-position:center 25%
+}
+.acceso-sombra {
+  position:absolute;
+  inset:0;
+  background:linear-gradient(0deg,#09110df2,transparent 46%)
+}
+.acceso-texto {
+  position:absolute;
+  bottom:42px;
+  left:44px;
+  right:40px
+}
+.acceso-texto .ceja {
+  font-size:11px
+}
+.acceso-texto h1 {
+  font-size:clamp(36px,3vw,48px);
+  font-weight:900;
+  letter-spacing:-2px;
+  line-height:1.06
+}
+.acceso-texto p {
+  font-size:14px;
+  color:#bac9bf;
+  max-width:400px;
+  margin:24px 0
+}
+.acceso-texto .insignia {
+  font-size:11px
+}
+.acceso-formulario {
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  padding:50px;
+  background:#111716
+}
+.acceso-caja {
+  width:100%;
+  max-width:410px
+}
+.acceso-caja h2 {
+  font-size:40px;
+  margin-bottom:15px;
+  letter-spacing:-2px
+}
+.acceso-caja>.pequeno {
+  font-size:14px
+}
+.acceso-caja .pestanas {
+  margin-top:24px
+}
+.acceso-caja .campo input {
+  height:52px
+}
+.recuperar {
+  font-size:11px;
+  display:block;
+  margin:21px auto;
+  text-decoration:none;
+  color:var(--lima)
+}
+.acceso-caja .nota-simulacion {
+  padding:18px;
+  background:#152119;
+  border:1px solid #2d412c;
+  border-radius:6px;
+  line-height:1.8;
+  font-size:11px
+}
+.cuenta-prueba {
+  margin-top:14px;
+  font-size:11px
+}
+.codigo-nota {
+  border:1px solid #506739;
+  background:#1a291a;
+  padding:19px;
+  border-radius:6px
+}
+.codigo-nota p {
+  font-size:11px;
+  color:#b5c6ad;
+  margin-top:12px
+}
+.codigo-nota .insignia {
+  font-size:11px
+}
+#codigo {
+  font-size:24px;
+  letter-spacing:5px
+}
+#form-codigo .enlace-texto {
+  font-size:11px
+}

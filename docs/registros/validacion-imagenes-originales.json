@@ -1,0 +1,415 @@
+[
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/etiquetas/alquiler-48h.svg",
+    "formato": "SVG",
+    "extension": ".svg",
+    "validacion": "XML SVG sin scripts",
+    "solo_referencia": false
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/etiquetas/alquiler-72h.svg",
+    "formato": "SVG",
+    "extension": ".svg",
+    "validacion": "XML SVG sin scripts",
+    "solo_referencia": false
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/etiquetas/demo-academica.svg",
+    "formato": "SVG",
+    "extension": ".svg",
+    "validacion": "XML SVG sin scripts",
+    "solo_referencia": false
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/etiquetas/descuento-100.svg",
+    "formato": "SVG",
+    "extension": ".svg",
+    "validacion": "XML SVG sin scripts",
+    "solo_referencia": false
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/fondos/marcas-esquinas.svg",
+    "formato": "SVG",
+    "extension": ".svg",
+    "validacion": "XML SVG sin scripts",
+    "solo_referencia": false
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/fondos/trama-cuadricula.svg",
+    "formato": "SVG",
+    "extension": ".svg",
+    "validacion": "XML SVG sin scripts",
+    "solo_referencia": false
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/fondos/trama-diagonal.svg",
+    "formato": "SVG",
+    "extension": ".svg",
+    "validacion": "XML SVG sin scripts",
+    "solo_referencia": false
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/logos/favicon.ico",
+    "formato": "ICO",
+    "extension": ".ico",
+    "ancho": 64,
+    "alto": 64,
+    "validacion": "Pillow: verify y decodificación completa",
+    "solo_referencia": false
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/logos/gvox-apilado.svg",
+    "formato": "SVG",
+    "extension": ".svg",
+    "validacion": "XML SVG sin scripts",
+    "solo_referencia": false
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/logos/gvox-favicon.png",
+    "formato": "PNG",
+    "extension": ".png",
+    "ancho": 256,
+    "alto": 256,
+    "validacion": "Pillow: verify y decodificación completa",
+    "solo_referencia": false
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/logos/gvox-favicon.svg",
+    "formato": "SVG",
+    "extension": ".svg",
+    "validacion": "XML SVG sin scripts",
+    "solo_referencia": false
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/logos/gvox-horizontal-claro.png",
+    "formato": "PNG",
+    "extension": ".png",
+    "ancho": 730,
+    "alto": 216,
+    "validacion": "Pillow: verify y decodificación completa",
+    "solo_referencia": false
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/logos/gvox-horizontal-claro.svg",
+    "formato": "SVG",
+    "extension": ".svg",
+    "validacion": "XML SVG sin scripts",
+    "solo_referencia": false
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/logos/gvox-horizontal-oscuro.png",
+    "formato": "PNG",
+    "extension": ".png",
+    "ancho": 730,
+    "alto": 216,
+    "validacion": "Pillow: verify y decodificación completa",
+    "solo_referencia": false
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/logos/gvox-horizontal-oscuro.svg",
+    "formato": "SVG",
+    "extension": ".svg",
+    "validacion": "XML SVG sin scripts",
+    "solo_referencia": false
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/logos/gvox-monocromo-blanco.svg",
+    "formato": "SVG",
+    "extension": ".svg",
+    "validacion": "XML SVG sin scripts",
+    "solo_referencia": false
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/logos/gvox-monocromo-negro.svg",
+    "formato": "SVG",
+    "extension": ".svg",
+    "validacion": "XML SVG sin scripts",
+    "solo_referencia": false
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/logos/gvox-simbolo.png",
+    "formato": "PNG",
+    "extension": ".png",
+    "ancho": 248,
+    "alto": 248,
+    "validacion": "Pillow: verify y decodificación completa",
+    "solo_referencia": false
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/logos/gvox-simbolo.svg",
+    "formato": "SVG",
+    "extension": ".svg",
+    "validacion": "XML SVG sin scripts",
+    "solo_referencia": false
+  },
+  {
+    "ruta": "01_IDENTIDAD/GVOX_01_IDENTIDAD/vista_previa/preview.png",
+    "formato": "PNG",
+    "extension": ".png",
+    "ancho": 1440,
+    "alto": 880,
+    "validacion": "Pillow: verify y decodificación completa",
+    "solo_referencia": false
+  },
+  {
+    "ruta": "05_COMUNIDAD/GVOX_05_COMUNIDAD_PERFILES/capturas/01_comunidad.png",
+    "formato": "PNG",
+    "extension": ".png",
+    "ancho": 1440,
+    "alto": 1865,
+    "validacion": "Pillow: verify y decodificación completa",
+    "solo_referencia": true
+  },
+  {
+    "ruta": "05_COMUNIDAD/GVOX_05_COMUNIDAD_PERFILES/capturas/01_comunidad_mini.png",
+    "formato": "PNG",
+    "extension": ".png",
+    "ancho": 425,
+    "alto": 550,
+    "validacion": "Pillow: verify y decodificación completa",
+    "solo_referencia": true
+  },
+  {
+    "ruta": "05_COMUNIDAD/GVOX_05_COMUNIDAD_PERFILES/capturas/02_perfil_monedero.png",
+    "formato": "PNG",
+    "extension": ".png",
+    "ancho": 1440,
+    "alto": 1310,
+    "validacion": "Pillow: verify y decodificación completa",
+    "solo_referencia": true
+  },
+  {
+    "ruta": "05_COMUNIDAD/GVOX_05_COMUNIDAD_PERFILES/capturas/02_perfil_monedero_mini.png",
+    "formato": "PNG",
+    "extension": ".png",
+    "ancho": 605,
+    "alto": 550,
+    "validacion": "Pillow: verify y decodificación completa",
+    "solo_referencia": true
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/assets/aetherfall.webp",
+    "formato": "WEBP",
+    "extension": ".webp",
+    "ancho": 680,
+    "alto": 440,
+    "validacion": "Pillow: verify y decodificación completa",
+    "solo_referencia": true
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/assets/hero.webp",
+    "formato": "WEBP",
+    "extension": ".webp",
+    "ancho": 1500,
+    "alto": 615,
+    "validacion": "Pillow: verify y decodificación completa",
+    "solo_referencia": true
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/assets/logo-gvox.png",
+    "formato": "PNG",
+    "extension": ".png",
+    "ancho": 730,
+    "alto": 216,
+    "validacion": "Pillow: verify y decodificación completa",
+    "solo_referencia": true
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/assets/lumina.webp",
+    "formato": "WEBP",
+    "extension": ".webp",
+    "ancho": 680,
+    "alto": 440,
+    "validacion": "Pillow: verify y decodificación completa",
+    "solo_referencia": true
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/assets/neon-drift.webp",
+    "formato": "WEBP",
+    "extension": ".webp",
+    "ancho": 680,
+    "alto": 440,
+    "validacion": "Pillow: verify y decodificación completa",
+    "solo_referencia": true
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/assets/portrait.webp",
+    "formato": "WEBP",
+    "extension": ".webp",
+    "ancho": 440,
+    "alto": 576,
+    "validacion": "Pillow: verify y decodificación completa",
+    "solo_referencia": true
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/assets/promo1.webp",
+    "formato": "WEBP",
+    "extension": ".webp",
+    "ancho": 500,
+    "alto": 328,
+    "validacion": "Pillow: verify y decodificación completa",
+    "solo_referencia": true
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/assets/promo2.webp",
+    "formato": "WEBP",
+    "extension": ".webp",
+    "ancho": 500,
+    "alto": 328,
+    "validacion": "Pillow: verify y decodificación completa",
+    "solo_referencia": true
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/assets/promo3.webp",
+    "formato": "WEBP",
+    "extension": ".webp",
+    "ancho": 500,
+    "alto": 328,
+    "validacion": "Pillow: verify y decodificación completa",
+    "solo_referencia": true
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/assets/promo4.webp",
+    "formato": "WEBP",
+    "extension": ".webp",
+    "ancho": 500,
+    "alto": 328,
+    "validacion": "Pillow: verify y decodificación completa",
+    "solo_referencia": true
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/assets/rust-zone.webp",
+    "formato": "WEBP",
+    "extension": ".webp",
+    "ancho": 680,
+    "alto": 440,
+    "validacion": "Pillow: verify y decodificación completa",
+    "solo_referencia": true
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/assets/scene.webp",
+    "formato": "WEBP",
+    "extension": ".webp",
+    "ancho": 1400,
+    "alto": 554,
+    "validacion": "Pillow: verify y decodificación completa",
+    "solo_referencia": true
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/assets/shadow-reign.webp",
+    "formato": "WEBP",
+    "extension": ".webp",
+    "ancho": 680,
+    "alto": 440,
+    "validacion": "Pillow: verify y decodificación completa",
+    "solo_referencia": true
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/assets/solaris.webp",
+    "formato": "WEBP",
+    "extension": ".webp",
+    "ancho": 680,
+    "alto": 440,
+    "validacion": "Pillow: verify y decodificación completa",
+    "solo_referencia": true
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/assets/void-echo.webp",
+    "formato": "WEBP",
+    "extension": ".webp",
+    "ancho": 680,
+    "alto": 440,
+    "validacion": "Pillow: verify y decodificación completa",
+    "solo_referencia": true
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/assets/wildbound.webp",
+    "formato": "WEBP",
+    "extension": ".webp",
+    "ancho": 680,
+    "alto": 440,
+    "validacion": "Pillow: verify y decodificación completa",
+    "solo_referencia": true
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/capturas/00_vista_general.png",
+    "formato": "PNG",
+    "extension": ".png",
+    "ancho": 1400,
+    "alto": 1020,
+    "validacion": "Pillow: verify y decodificación completa",
+    "solo_referencia": true
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/capturas/01_inicio.png",
+    "formato": "PNG",
+    "extension": ".png",
+    "ancho": 1440,
+    "alto": 1164,
+    "validacion": "Pillow: verify y decodificación completa",
+    "solo_referencia": true
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/capturas/02_catalogo.png",
+    "formato": "PNG",
+    "extension": ".png",
+    "ancho": 1440,
+    "alto": 1225,
+    "validacion": "Pillow: verify y decodificación completa",
+    "solo_referencia": true
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/capturas/03_ficha.png",
+    "formato": "PNG",
+    "extension": ".png",
+    "ancho": 1440,
+    "alto": 1204,
+    "validacion": "Pillow: verify y decodificación completa",
+    "solo_referencia": true
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/capturas/04_carrito.png",
+    "formato": "PNG",
+    "extension": ".png",
+    "ancho": 1440,
+    "alto": 1040,
+    "validacion": "Pillow: verify y decodificación completa",
+    "solo_referencia": true
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/capturas/05_acceso.png",
+    "formato": "PNG",
+    "extension": ".png",
+    "ancho": 1440,
+    "alto": 900,
+    "validacion": "Pillow: verify y decodificación completa",
+    "solo_referencia": true
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/capturas/06_biblioteca.png",
+    "formato": "PNG",
+    "extension": ".png",
+    "ancho": 1440,
+    "alto": 1060,
+    "validacion": "Pillow: verify y decodificación completa",
+    "solo_referencia": true
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/capturas/07_comunidad.png",
+    "formato": "PNG",
+    "extension": ".png",
+    "ancho": 1440,
+    "alto": 1068,
+    "validacion": "Pillow: verify y decodificación completa",
+    "solo_referencia": true
+  },
+  {
+    "ruta": "06_WIREFRAMES/GVOX_06_WIREFRAMES_FINALES/capturas/08_perfil_monedero.png",
+    "formato": "PNG",
+    "extension": ".png",
+    "ancho": 1440,
+    "alto": 1203,
+    "validacion": "Pillow: verify y decodificación completa",
+    "solo_referencia": true
+  }
+]

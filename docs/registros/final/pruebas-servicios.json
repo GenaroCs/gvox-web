@@ -1,0 +1,109 @@
+{
+  "fecha": "2026-10-29T21:48:36.434Z",
+  "resultados": [
+    {
+      "prueba": "HU11: carrito vacío no procesa pago",
+      "estado": "Correcto"
+    },
+    {
+      "prueba": "HU21–HU22: alquiler de 48 horas activado exactamente al pagar",
+      "estado": "Correcto"
+    },
+    {
+      "prueba": "HU20: sin licencia no se puede publicar una reseña",
+      "estado": "Correcto"
+    },
+    {
+      "prueba": "HU20: recomendación binaria persistida con licencia",
+      "estado": "Correcto"
+    },
+    {
+      "prueba": "HU25: descuento del 100 % del alquiler activo",
+      "estado": "Correcto"
+    },
+    {
+      "prueba": "HU25: conversión sustituye la licencia temporal sin duplicarla",
+      "estado": "Correcto"
+    },
+    {
+      "prueba": "HU14: reembolso convertido devuelve el total efectivamente pagado",
+      "estado": "Correcto"
+    },
+    {
+      "prueba": "HU12–HU22: pago fallido no cambia saldo, carrito, licencias ni recibos",
+      "estado": "Correcto"
+    },
+    {
+      "prueba": "HU12: tarjeta ficticia aprueba sin descontar el monedero",
+      "estado": "Correcto"
+    },
+    {
+      "prueba": "HU12–HU22: pago móvil activa alquiler de 72 horas",
+      "estado": "Correcto"
+    },
+    {
+      "prueba": "HU24–HU25: conversión vencida se rechaza sin cobrar ni conceder licencia",
+      "estado": "Correcto"
+    },
+    {
+      "prueba": "HU17–HU24: vencimiento bloquea ejecución y reseñas",
+      "estado": "Correcto"
+    },
+    {
+      "prueba": "HU24: compra normal tras vencimiento no aplica descuento",
+      "estado": "Correcto"
+    },
+    {
+      "prueba": "HU14: límites estrictos de 14 días y 120 minutos",
+      "estado": "Correcto"
+    },
+    {
+      "prueba": "HU18: crear, editar y asignar múltiples juegos",
+      "estado": "Correcto"
+    },
+    {
+      "prueba": "HU18: eliminar colección conserva las licencias",
+      "estado": "Correcto"
+    },
+    {
+      "prueba": "HU19: amistad, rechazo, solicitud y bloqueo coherentes",
+      "estado": "Correcto"
+    },
+    {
+      "prueba": "HU15: recarga actualiza el saldo y rechaza importes fuera de rango",
+      "estado": "Correcto"
+    },
+    {
+      "prueba": "HU05: tres niveles válidos de privacidad y validación",
+      "estado": "Correcto"
+    },
+    {
+      "prueba": "HU10–HU16: cuentas de demo separan biblioteca, saldo y favoritos",
+      "estado": "Correcto"
+    },
+    {
+      "prueba": "HU10: volver a una cuenta recupera sus favoritos y saldo",
+      "estado": "Correcto"
+    },
+    {
+      "prueba": "HU02–HU05: nuevo acceso sin nombre conserva el perfil guardado",
+      "estado": "Correcto"
+    },
+    {
+      "prueba": "HU12–HU13: Visa conserva identidad y no carga al saldo local",
+      "estado": "Correcto"
+    },
+    {
+      "prueba": "HU12–HU13: Mastercard conserva identidad y no carga al saldo local",
+      "estado": "Correcto"
+    },
+    {
+      "prueba": "HU12–HU13: Yape conserva identidad y no carga al saldo local",
+      "estado": "Correcto"
+    },
+    {
+      "prueba": "HU11: total cero no procesa pagos",
+      "estado": "Correcto"
+    }
+  ]
+}

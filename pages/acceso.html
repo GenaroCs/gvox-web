@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#090d0d">
+<meta name="description" content="Gvox: descubre videojuegos reales, explora tu biblioteca y prueba el alquiler de 48 o 72 horas en un prototipo académico.">
+<title>Acceso y registro · GVOX</title>
+<link rel="icon" href="../assets/img/branding/logos/gvox-favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../assets/css/global.css">
+<link rel="stylesheet" href="../assets/css/pages/acceso.css">
+</head>
+<body data-pagina="acceso">
+<header id="cabecera" class="cabecera">
+</header>
+<main class="acceso-main">
+<section class="acceso-escena">
+<div class="acceso-arte">
+<img src="../assets/img/ilustraciones/acceso-aventurera.webp" width="1086" height="1448" alt="Aventurera de estilo cartoon ante un castillo flotante al atardecer" fetchpriority="high">
+<div class="acceso-sombra">
+</div>
+<div class="acceso-texto">
+<span class="ceja">TU PRÓXIMA HISTORIA EMPIEZA AQUÍ</span>
+<h1>Una nueva aventura<br><span class="lima">te espera.</span>
+</h1>
+<p>Descubre, juega y comparte. Tu biblioteca, tus amigos y tu próxima aventura en un solo lugar.</p>
+
+</div>
+</div>
+<div class="acceso-formulario">
+<div class="acceso-caja">
+<span class="ceja">BIENVENIDO A GVOX</span>
+<h2>Entra al juego<span class="lima">.</span>
+</h2>
+<p class="muted pequeno" id="acceso-ayuda">Tu biblioteca, tus amigos y una nueva historia te esperan.</p>
+<div class="pestanas" role="tablist" aria-label="Tipo de acceso">
+<button type="button" role="tab" aria-selected="true" data-modo="login">Iniciar sesión</button>
+<button type="button" role="tab" aria-selected="false" data-modo="registro">Crear cuenta</button>
+</div>
+<form id="form-acceso" class="formulario">
+<label class="campo oculto" id="campo-nombre">TU NOMBRE<input id="nombre" maxlength="30" autocomplete="nickname" placeholder="¿Cómo te llamamos?">
+</label>
+<label class="campo">CORREO ELECTRÓNICO<input id="correo" type="email" required maxlength="120" autocomplete="email" placeholder="nombre@correo.com">
+</label>
+<button class="boton primario bloque" type="submit" id="continuar-acceso">CONTINUAR ↗</button>
+</form>
+<button class="enlace-texto recuperar" id="recuperar" type="button">¿Necesitas recuperar tu acceso?</button>
+<form id="form-codigo" class="formulario oculto">
+<div class="codigo-nota">
+<span class="insignia">VERIFICACIÓN DE DEMOSTRACIÓN</span>
+<p id="codigo-ayuda">No enviamos correos. Escribe cualquier código numérico para continuar.</p>
+</div>
+<label class="campo">TU CÓDIGO<input id="codigo" type="text" inputmode="numeric" pattern="[0-9]+" required autocomplete="one-time-code" placeholder="Por ejemplo, 123456" maxlength="30">
+</label>
+<button class="boton primario bloque" type="submit">ENTRAR A MI BIBLIOTECA ↗</button>
+<button class="enlace-texto" id="cambiar-correo" type="button">Usar otro correo</button>
+</form>
+<div class="nota-simulacion" id="nota-acceso">◇ Demo académica. Cualquier correo válido y código numérico sirven. No se solicitan contraseñas.</div>
+<button type="button" class="boton secundario bloque cuenta-prueba" id="cuenta-prueba">USAR CORREO DE PRUEBA</button>
+</div>
+</div>
+</section>
+</main>
+<footer id="pie" class="pie">
+</footer>
+<noscript>Activa JavaScript para explorar esta demostración de Gvox.</noscript>
+<script type="module" src="../assets/js/pages/acceso.js">
+</script>
+</body>
+</html>

@@ -1,0 +1,228 @@
+.inicio {
+  padding-top:30px
+}
+.hero {
+  min-height:570px;
+  position:relative;
+  isolation:isolate;
+  overflow:hidden;
+  border:1px solid #354033;
+  border-radius:12px 12px 0 0;
+  background:#121915
+}
+.hero-imagen {
+  position:absolute;
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  object-position:center;
+  z-index:-3
+}
+.hero-sombra {
+  position:absolute;
+  inset:0;
+  background:linear-gradient(90deg,#0b1519b3 0%,#0b151970 34%,transparent 65%),linear-gradient(0deg,#09110b66,transparent 40%);
+  z-index:-2
+}
+.hero-contenido {
+  padding:58px 0 48px 46px;
+  width:55%
+}
+.hero-contenido .ceja {
+  font-size:11px
+}
+.hero h1 {
+  font-size:clamp(54px,4.5vw,72px);
+  line-height:1.02;
+  font-weight:900;
+  letter-spacing:-3.5px;
+  margin:25px 0 23px
+}
+.hero h1 span {
+  color:var(--lima)
+}
+.hero p {
+  max-width:410px;
+  font-size:15px;
+  color:#c8d0c7;
+  line-height:1.8
+}
+.hero p strong {
+  color:var(--texto)
+}
+.hero .acciones-en-linea {
+  margin-top:27px
+}
+.hero-pie {
+  font-size:11px;
+  letter-spacing:1.5px;
+  color:#c5cdbd;
+  margin-top:30px
+}
+.hero-juego {
+  position:absolute;
+  right:30px;
+  top:25px;
+  background:#0c160da8;
+  backdrop-filter:blur(8px);
+  padding:13px 18px;
+  border-left:2px solid var(--lima);
+  min-width:210px
+}
+.hero-juego span {
+  font-size:11px;
+  letter-spacing:1.5px;
+  color:var(--lima);
+  display:block
+}
+.hero-juego strong {
+  display:block;
+  font-size:15px;
+  margin:6px 0
+}
+.hero-juego small {
+  font-size:11px;
+  color:#c4cdbd
+}
+.hero-horas {
+  position:absolute;
+  right:34px;
+  bottom:34px;
+  border:1px solid #b5de55;
+  background:#0b130de0;
+  padding:20px 26px;
+  transform:rotate(-2deg)
+}
+.hero-horas>span,.hero-horas small {
+  display:block;
+  font-size:11px;
+  letter-spacing:1.4px;
+  color:#b9c8a8
+}
+.hero-horas strong {
+  display:block;
+  color:var(--lima);
+  font-size:42px;
+  letter-spacing:-2px;
+  line-height:1.35
+}
+.hero-horas i {
+  font-size:28px;
+  color:#6b8345;
+  font-style:normal
+}
+.franja-valor {
+  display:grid;
+  grid-template-columns:repeat(3,1fr) .95fr;
+  background:#111a19;
+  border-bottom:1px solid #405131
+}
+.franja-valor>div {
+  display:flex;
+  align-items:center;
+  gap:16px;
+  padding:22px;
+  border-right:1px solid #303c2d
+}
+.franja-valor b {
+  font-size:24px;
+  color:var(--lima);
+  font-weight:400;
+  letter-spacing:-1px
+}
+.franja-valor span {
+  font-size:11px;
+  font-weight:700;
+  letter-spacing:.4px
+}
+.franja-valor small {
+  display:block;
+  color:#8f9e88;
+  font-weight:400;
+  font-size:11px;
+  margin-top:5px;
+  letter-spacing:0
+}
+.franja-valor .franja-demo strong {
+  font-size:34px;
+  color:var(--lima);
+  letter-spacing:-2px;
+  white-space:nowrap;
+  flex-shrink:0
+}
+.franja-demo span {
+  font-size:11px;
+  line-height:1.8
+}
+.franja-valor .franja-demo { gap:12px }
+.franja-valor .franja-demo span { font-size:10px }
+.radar {
+  margin-top:52px
+}
+.promociones {
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:22px
+}
+.promo-editorial {
+  position:relative;
+  height:226px;
+  overflow:hidden;
+  border:1px solid var(--borde);
+  border-radius:8px
+}
+.promo-editorial>img {
+  width:100%;
+  height:100%;
+  transition:transform .4s
+}
+.promo-editorial:hover>img {
+  transform:scale(1.05)
+}
+.promo-degradado {
+  position:absolute;
+  inset:0;
+  background:linear-gradient(0deg,#07100cf5,transparent 110%)
+}
+.promo-contenido {
+  position:absolute;
+  inset:auto 22px 20px
+}
+.promo-contenido h3 {
+  font-size:23px;
+  margin:12px 0
+}
+.promo-contenido .entre {
+  font-size:11px;
+  color:#aebdaa
+}
+.promo-contenido .entre strong {
+  font-size:16px;
+  color:var(--lima)
+}
+.llamada-final {
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  border-top:1px solid #344333;
+  margin-top:50px;
+  padding:38px 0 0
+}
+.llamada-final h2 {
+  font-size:34px;
+  line-height:1.2
+}
+@media(min-width:1700px) {
+  .hero {
+    min-height:640px
+  }
+  .hero-contenido {
+    padding-top:63px
+  }
+  .hero h1 {
+    font-size:76px
+  }
+  .hero p {
+    font-size:16px
+  }
+}

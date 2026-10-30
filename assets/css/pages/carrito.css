@@ -1,0 +1,167 @@
+.checkout-columnas {
+  display:grid;
+  grid-template-columns:minmax(0,1.6fr) minmax(330px,1fr);
+  gap:30px
+}
+.carrito-articulo {
+  display:grid;
+  grid-template-columns:128px minmax(0,1fr) auto;
+  gap:20px;
+  align-items:center;
+  padding:22px;
+  border-top:1px solid var(--borde)
+}
+.carrito-articulo>img {
+  width:128px;
+  height:82px;
+  border-radius:6px
+}
+.articulo-titulo {
+  display:block;
+  font-size:14px;
+  font-weight:700;
+  margin-bottom:10px
+}
+.carrito-articulo select {
+  padding:7px 10px;
+  font-size:11px;
+  max-width:220px
+}
+.carrito-articulo small {
+  font-size:11px;
+  display:block;
+  margin-top:8px
+}
+.articulo-importe {
+  display:flex;
+  flex-direction:column;
+  gap:15px;
+  align-items:end
+}
+.articulo-importe strong {
+  font-size:17px
+}
+.articulo-importe .boton-icono {
+  width:28px;
+  height:28px
+}
+.articulo-importe .icono {
+  width:14px
+}
+.metodos-panel {
+  margin-top:25px
+}
+.metodos-panel h3 {
+  font-size:22px
+}
+.metodos {
+  display:grid;
+  grid-template-columns:repeat(2,1fr);
+  gap:12px;
+  margin-top:22px
+}
+.metodo {
+  display:grid;
+  grid-template-columns:1fr auto;
+  align-items:center;
+  border:1px solid #3b4a3a;
+  padding:16px;
+  border-radius:7px;
+  cursor:pointer;
+  background:#19251c
+}
+.metodo>input {
+  grid-column:2;
+  grid-row:1;
+  width:13px
+}
+.metodo>.icono {
+  grid-column:1;
+  grid-row:1;
+  color:var(--lima)
+}
+.metodo strong {
+  font-size:14px;
+  margin-top:15px;
+  grid-column:1/-1
+}
+.metodo small {
+  font-size:11px;
+  color:var(--muted);
+  margin-top:6px;
+  grid-column:1/-1
+}
+.metodo.seleccionado {
+  border-color:var(--lima);
+  background:#26321e
+}
+.pago-marca {
+  grid-column:1;
+  grid-row:1;
+  display:flex;
+  align-items:center;
+  height:28px;
+  font-weight:900;
+  font-size:22px;
+  line-height:1
+}
+.pago-marca.visa { color:#adc7ff; font-style:italic; letter-spacing:-1px }
+.pago-marca.yape { color:#e2b4ff; font-size:21px }
+.pago-marca.mastercard i { width:27px; height:27px; border-radius:50%; background:#eb4035 }
+.pago-marca.mastercard i+i { background:#f7a52e; margin-left:-10px; opacity:.92 }
+.resumen-pago {
+  background:linear-gradient(145deg,#1c2b1b,#141d16)
+}
+.resumen-pago>.ceja {
+  font-size:11px;
+  margin-bottom:30px
+}
+.resumen-fila {
+  display:flex;
+  justify-content:space-between;
+  gap:16px;
+  font-size:14px;
+  margin:16px 0
+}
+.resumen-fila strong {
+  white-space:nowrap
+}
+.resumen-fila.total {
+  font-size:15px;
+  font-weight:800;
+  margin:22px 0
+}
+.resumen-fila.total strong {
+  font-size:29px;
+  color:var(--lima);
+  letter-spacing:-1px
+}
+.resumen-pago .boton {
+  font-size:11px
+}
+.resumen-pago>p {
+  margin-top:17px;
+  font-size:11px
+}
+.regla-alquiler {
+  margin-top:24px
+}
+.regla-alquiler .ceja {
+  font-size:11px;
+  color:var(--calido)
+}
+.regla-alquiler p {
+  font-size:14px;
+  color:var(--muted);
+  margin:15px 0 20px
+}
+.regla-alquiler strong {
+  color:var(--calido)
+}
+.seguir-explorando {
+  margin-top:24px
+}
+.carrito-vacio-pie {
+  text-align:center;
+  margin:28px
+}

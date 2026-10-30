@@ -1,0 +1,2286 @@
+
+=== PÁGINA 1 ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Universidad Peruana de Ciencias Aplicadas 
+Ingeniería de Software 
+1ASI0720 Diseño y Patrones de Software 
+202620 
+NRC: 7135 
+Profesor: Jorge Luis Delgado Vite 
+Trabajo Final 
+Nombre del Producto: Gvox 
+Integrantes: 
+Alumno Código 
+César Caleb Genaro Antezana u20221C831 
+Fabrizzio André Zegarra Gutierrez u202115109 
+Leonardo Andre Flores Taipe u202414776 
+Leo Giovanny Yañez Santos u202218061 
+ 
+
+
+=== PÁGINA 2 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 2 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+ 
+ 
+Versiones 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Entregable Fecha Participantes Observaciones 
+TB1 04/09/26 ● César Caleb Genaro Antezana 
+● Fabrizzio André Zegarra Gutierrez 
+● Leonardo Andre Flores Taipe 
+● Leo Giovanny Yañez Santos 
+Ninguna observación 
+TB2 27/09/26 ● César Caleb Genaro Antezana 
+● Fabrizzio André Zegarra Gutierrez 
+● Leonardo Andre Flores Taipe 
+● Leo Giovanny Yañez Santos 
+Ninguna observación 
+TP 07/10/26 ● César Caleb Genaro Antezana 
+● Fabrizzio André Zegarra Gutierrez 
+● Leonardo Andre Flores Taipe 
+● Leo Giovanny Yañez Santos 
+Ninguna Observación 
+ 
+TB3    
+TB4    
+TF    
+
+=== PÁGINA 3 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 3 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tabla de Contenidos 
+ 
+1. Información del Proyecto 5 
+Startup Profile 6 
+Solution Profile 7 
+Lean UX Canvas 8 
+2. Introducción 9 
+Propósito 9 
+Alcance 9 
+Siglas 10 
+3. Objetivos del Proyecto 10 
+Objetivo General 10 
+Objetivos Específicos 11 
+4. Requisitos Funcionales y no Funcionales 12 
+Escenario AS- IS / TO BE 12 
+Requisitos Funcionales 14 
+Requisitos No Funcionales 17 
+Product Backlog 18 
+Sprint Backlog 19 
+Application Wireframes 23 
+5. Diagramas 29 
+Diagrama de Clases 30 
+Diagrama de Objetos 30 
+Diagrama de actividades 31 
+Diagrama de secuencia: 32 
+Diagrama de estados: 33 
+6. Historias de Usuario 34 
+7. Conclusiones y Recomendaciones 48 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PÁGINA 4 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 4 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Student Outcome ABET:  
+ 
+
+=== PÁGINA 5 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 5 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+Criterio específico  Acciones realizadas  Conclusiones  
+1.c1. Identifica problemas complejos 
+de ingeniería de software.  
+César Caleb Genaro Antezana 
+TB1 
+*Análisis del modelo de negocio de Steam, 
+elaboración del Lean UX Canvas y mapeo de 
+escenarios AS-IS / TO-BE. 
+Fabrizzio André Zegarra Gutierrez 
+TB1 
+*Redacción de la sección de Introducción, 
+delimitando el propósito, el alcance del 
+sistema y la tabla de siglas técnicos. 
+TB2 
+Elaboración del Product Backlog, Sprint 
+Backlogs  
+TP 
+Se incorporó la característica diferenciadora 
+de Alquiler Digital con 3 nuevos requisitos  
+Leo Giovanny Yañez Santos 
+TB1 
+ Definición y sustentación de los Requisitos 
+No Funcionales (RNF): rendimiento (<2s), 
+seguridad (Bcrypt/HTTPS) e i18n. 
+TB2 
+Requisitos funcionales, Requisitos no 
+funcionales, Escenarios AsIs-ToBe, Product 
+Backlog, Wireframes, Users Stories 
+TP 
+Correcciones del TB1 y TB2, se añadieron 
+requisitos funcionales y no funcionales, se 
+corrigieron wireframes e historias de usuario. 
+Identificamos y sustentamos las 
+deficiencias del modelo actual de 
+distribución digital (gestión manual 
+de licencias DRM, demoras en 
+devoluciones y altas comisiones), 
+justificando la necesidad de una 
+arquitectura escalable orientada a 
+servicios. Asimismo, establecimos 
+las restricciones normativas y 
+técnicas clave para el sistema.  
+1.c2. Formula problemas complejos de 
+ingeniería de software aplicando 
+ciencias, matemáticas e ingeniería  
+Fabrizzio André Zegarra Gutierrez 
+TB1 
+ Especificación y estructuración de los 
+Requisitos Funcionales para los módulos core 
+de Tienda y Transacciones (Carrito/Pagos). 
+Leonardo Andre Flores Taipe 
+TB1 
+ Definición de los Objetivos General y 
+Específicos del proyecto, y redacción de 
+Requisitos Funcionales para Biblioteca y 
+Comunidad. 
+Leo Giovanny Yañez Santos 
+TB1 
+ Redacción de los Requisitos Funcionales 
+correspondientes al módulo de Autenticación 
+y Gestión de Usuarios. 
+ 
+Formulamos la solución técnica 
+traduciendo los problemas del 
+usuario final en una matriz formal de 
+20 Requisitos Funcionales (RFU-001 
+al RFU-020). Esto nos permite 
+desacoplar la lógica del sistema en 
+dominios claros (Autenticación, 
+Tienda, Transacciones, 
+Biblioteca/DRM y Comunidad) 
+garantizando su continuidad.  
+
+=== PÁGINA 6 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 6 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+ 
+ 
+ 
+ 
+ 
+Especificaciones Funcionales 
+ 
+1. Información del Proyecto 
+El alcance de este proyecto consiste en elaborar un documento de especificaciones 
+técnicas y funcionales que permita documentar una solución de software a nivel 
+arquitectónico y de diseño. Para ello, se abordará el modelo de negocio de Steam, 
+diseñando los artefactos que soportan su infraestructura de distribución digital de 
+videojuegos, gestión de licencias y comunidad social. La solución planteará un diseño 
+escalable basado en servicios web (API), documentando las decisiones tecnológicas, 
+patrones de diseño aplicados y el modelado de sus principales dominios. 
+ 
+Startup Profile 
+Descripción de la Startup 
+Nuestra startup, Gvox, es una organización tecnológica conformada por estudiantes de 
+Ingeniería de Sistemas de Software enfocada en el diseño de arquitecturas de software 
+de alta disponibilidad. Nos especializamos en analizar, modelar y construir ecosistemas 
+digitales escalables que resuelven problemas complejos de concurrencia y gestión de 
+transacciones masivas, aplicando buenas prácticas de ingeniería, patrones de diseño y 
+metodologías ágiles.  
+ 
+1.c3. Resuelve problemas complejos 
+de ingeniería de software aplicando 
+ciencias, matemáticas e ingeniería  
+César Caleb Genaro Antezana 
+TB1 
+ Modelado de reglas de negocio para la 
+automatización del proceso de reembolso y 
+validación de licencias de productos. 
+Leonardo Andre Flores Taipe 
+TB1 
+Estructuración del alcance del software para 
+garantizar la integración entre el backend 
+Stateless RESTful y el cliente Frontend. 
+Leo Giovanny Yañez Santos 
+TB1 
+Consolidación de los requisitos de calidad del 
+sistema para sustentar el diseño del prototipo 
+y la arquitectura del producto. 
+Consolidamos los requisitos técnicos 
+y de negocio definiendo la 
+arquitectura orientada a servicios 
+web RESTful. Esto sienta las bases 
+para implementar un producto 
+escalable con procesos 
+transaccionales autónomos (como las 
+devoluciones automáticas) y soporte 
+multilingüe (español e inglés).  
+
+=== PÁGINA 7 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 7 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+Perfiles de integrantes del equipo 
+ 
+Fabrizzio Andre Zegarra Gutierez
+ 
+ 
+Carrera:Ingeniería de Software 
+Código:U202115109 
+Acerca de mí: Poseo habilidades de 
+resolución de problemas que resultaran 
+claves para el desarrollo del proyecto. 
+César Caleb Genaro Antezana 
+ 
+Carrera:Ingeniería de Software 
+Código:U20221C831 
+Acerca de mí: Me enfoco en encontrar 
+soluciones prácticas y rápidas a cualquier 
+problema que surja en el proyecto.  
+Leonardo Andre Flores Taipe 
+ 
+Carrera:Ingeniería de Software 
+Código:U202414776 
+Acerca de mí: Me enfoco en el análisis de 
+requerimientos y el diseño lógico del 
+software, buscando estructurar soluciones 
+eficientes y bien documentadas para el 
+proyecto.  
+
+
+=== PÁGINA 8 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 8 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+Leo Giovanny Yañez Santos Descripción 
+ 
+u202218061 - Ingeniería de Software 
+Me encuentro estudiando la carrera de 
+Ingeniería de Software en la 
+Universidad Peruana de Ciencias 
+Aplicadas (UPC). Me considero una 
+persona colaboradora, responsable y 
+creativa.  Me gusta mucho investigar y 
+considero que juntos a mis compañeros 
+lograremos realizar un buen trabajo y 
+cumplir con las metas trazadas. 
+ 
+ 
+Solution Profile 
+Descripción del Producto 
+Plataforma web inspirada en Steam que permite a los usuarios buscar, comprar, alquilar 
+temporalmente  y gestionar videojuegos digitales desde un solo lugar. La solución integra una 
+tienda virtual interactiva con opciones de compra definitiva y pases de alquiler por 48 o 72 
+horas, una biblioteca personal para organizar los juegos adquiridos con validación de licencias 
+y un espacio social para interactuar con amigos y dejar reseñas. 
+Propuesta de Valor 
+Ofrece a los jugadores una forma rápida, clara y económicamente accesible de disfrutar sus 
+videojuegos  favoritos y disfrutar de su colección digital sin complicaciones. A diferencia de 
+las tiendas tradicionales que exigen pagar el precio completo por adelantado, Gvox introduce 
+un modelo de Alquiler Digital flexible permitiendo probar juegos completos por un periodo 
+definido a una fracción del costo, con la ventaja de poder descontar el monto del alquiler si el 
+usuario decide adquirir la versión permanente. Todo respaldado por transacciones seguras, 
+perfiles personalizables y una navegación intuitiva tanto en español como en inglés.  
+Funcionalidades Clave 
+1. Tienda, Carrito y Alquiler Digital: Catálogo de juegos con ofertas destacadas, 
+buscador con filtros multicriterio, compra definitiva y modalidad de alquiler temporal 
+por horas (48h/72h) mediante carrito unificado.  
+2. Biblioteca y Colecciones: Control de juegos comprados y en alquiler, temporizadores 
+de vigencia de licencias temporales, validación instantánea para jugar y organización 
+en colecciones personalizadas.  
+3. Comunidad y Reseñas Verificadas: Lista de amigos, solicitudes de contacto y 
+
+
+=== PÁGINA 9 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 9 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+calificaciones comunitarias (pulgar arriba/abajo) restringidas exclusivamente a 
+poseedores acreditados del título.  
+4. Seguridad y Finanzas: Inicio de sesión seguro con códigos al correo, monedero 
+virtual recargable, política automatizada de reembolsos (< 2 horas de uso / < 14 días) 
+y conversión de alquiler a compra con descuento.  
+ 
+Nombre del producto 
+         Gvox será una plataforma de distribución digital de videojuegos y redes sociales. 
+ 
+Lean UX Canvas 
+ 
+ 
+ 
+link: https://miro.com/app/board/uXjVHoZVDuA=/?share_link_id=735700699848 
+ 
+2. Introducción 
+La presente sección expone los fundamentos del proyecto, definiendo claramente qué se busca 
+lograr con el análisis de la plataforma Steam, hasta dónde llegará la implementación técnica 
+durante el ciclo académico y los términos clave necesarios para comprender la documentación 
+arquitectónica.  
+Propósito 
+El propósito de este documento es establecer las especificaciones funcionales, no 
+
+
+=== PÁGINA 10 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 10 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+funcionales y arquitectónicas para el diseño de un subconjunto de características críticas 
+de una plataforma de distribución de videojuegos basada en el modelo de Steam, 
+incorporando un innovador esquema de Alquiler Digital temporal. A nivel académico, el 
+objetivo principal es generar todos los artefactos de diseño requeridos para documentar 
+formalmente la solución de software y lograr una implementación básica a nivel de 
+interfaz de usuario (Frontend web) y servicios backend (Web Services RESTful), 
+evidenciando la aplicación de patrones de diseño, principios de ingeniería y modelado de 
+datos.  
+Alcance 
+El alcance del proyecto abarca el modelado, diseño arquitectónico y la implementación 
+parcial de una solución de software orientada a servicios para la plataforma Steam. Se 
+detallan los siguientes límites:  
+Incluido en el alcance:  
+- Diseño y Documentación:  Elaboración de diagramas UML estáticos y dinámicos 
+(incluyendo el modelado detallado de requisitos de hardware, categorías, colecciones y 
+licencias de alquiler en el Diagrama de Clases), modelado arquitectónico utilizando el 
+Modelo C4 y aplicación de principios de Domain-Driven Design (DDD) estratégico. 
+- Implementación de Backend:  Desarrollo parcial de Web Services bajo el estilo 
+arquitectónico RESTful, enfocados en los módulos de Tienda, Gestión de Licencias de 
+Compra y Alquiler (DRM), Biblioteca de juegos y Comunidad.  
+- Implementación de Frontend: Desarrollo de una interfaz de usuario web que consuma 
+los servicios creados, permitiendo la selección de modalidades de compra/alquiler y la 
+visualización del tiempo restante de licencias.  
+- Estándares de Calidad:  Implementación de internacionalización (i18n) en inglés y 
+español, y documentación estandarizada de los endpoints mediante OpenAPI 
+Specification (Swagger).  
+Siglas 
+ 
+ 
+Sigla Significado Descripción en el contexto del proyecto 
+API Application Programming 
+Interface 
+Interfaz que permite la comunicación entre el 
+frontend de Steam y sus servidores backend. 
+C4 Context, Containers, Modelo de estandarización utilizado para 
+
+=== PÁGINA 11 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 11 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+Components, Code representar gráficamente la arquitectura de 
+software del proyecto. 
+DDD Domain-Driven Design Enfoque de diseño de software centrado en 
+modelar el negocio (dominio), separando 
+lógicas complejas. 
+DRM Digital Rights Management Sistema de gestión de derechos digitales que 
+valida qué usuario posee la licencia de un 
+videojuego. 
+i18n Internationalization Proceso de diseño de la aplicación para que 
+soporte múltiples idiomas (ej. Inglés y 
+Español). 
+REST Representational State 
+Transfer 
+Estilo arquitectónico bajo el cual se construirán 
+los servicios web (Web Services) del proyecto. 
+UI/UX User Interface / User 
+Experience 
+Interfaz de Usuario y Experiencia de Usuario, 
+enfocadas en el diseño visual y la usabilidad de 
+la plataforma. 
+UML Unified Modeling 
+Language 
+Lenguaje estándar utilizado para documentar el 
+código y las interrelaciones del sistema 
+(diagramas de clase, secuencia, etc.). 
+ 
+ 
+ 
+3. Objetivos del Proyecto 
+Objetivo General 
+Elaborar un conjunto integral de artefactos entregables de diseño de software y especificación 
+arquitectónica para documentar formalmente una solución de software basada en el modelo 
+de negocio de Steam (distribución digital de videojuegos, gestión de licencias DRM y 
+comunidad social), complementado con el diseño inicial de una interfaz de usuario 
+(Frontend) y la implementación parcial de servicios backend (Web Services RESTful) que 
+evidencien la aplicación de patrones de diseño, buenas prácticas de ingeniería y la 
+satisfacción de requisitos del sistema. 
+Objetivos Específicos 
+1.     Generar los artefactos de análisis de negocio y requisitos: 
+Desarrollar y documentar los artefactos iniciales de descubrimiento y alcance 
+mediante el Lean UX Canvas, el mapeo de escenarios As-Is / To-Be y la matriz de 
+especificación formal de Requisitos Funcionales y No Funcionales. 
+
+=== PÁGINA 12 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 12 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+2. Modelar la arquitectura del sistema mediante C4 Model y DDD 
+Diseñar los artefactos arquitectónicos estructurados utilizando C4 Model (Diagramas 
+de Contexto, Contenedores y Componentes) y los principios de Domain-Driven 
+Design (DDD) Estratégico (mapeo de Bounded Contexts, agregados, entidades y 
+domain services) para delimitar claramente los dominios de Tienda, DRM y 
+Comunidad. 
+3. Elaborar las especificaciones de diseño estático, dinámico y metodológico: 
+Generar los diagramas estandarizados de UML (Diagrama de Actividades, Diagrama 
+de Clases, Diagrama de Objetos, Diagrama de Secuencia y Diagrama de Estados), así 
+como el desglose metodológico del Product Backlog, Sprint Backlogs e Historias de 
+Usuario con criterios de aceptación detallados. 
+4. Diseñar el prototipo inicial de Frontend (UI/UX): 
+Crear los artefactos visuales correspondientes a los Application Wireframes y 
+prototipos navegables de interfaz de usuario para los flujos esenciales (autenticación, 
+exploración del catálogo, gestión de carrito y visualización de biblioteca), 
+incorporando soporte inicial para internacionalización (i18n en inglés y español). 
+5. Implementar de forma parcial los servicios Backend: 
+Desarrollar un subconjunto ejecutable de servicios web bajo el estilo arquitectónico 
+RESTful API (stateless), cubriendo la lógica crítica de gestión de usuarios, catálogo 
+de tienda y validación de licencias de juegos (DRM). 
+6. Estandarizar la documentación técnica de endpoints y verificar su calidad: 
+Documentar los endpoints construidos utilizando OpenAPI Specification (Swagger) 
+para facilitar la interacción y pruebas de la API, y ejecutar las Pruebas Unitarias 
+iniciales del código desarrollado para validar el cumplimiento de las reglas de negocio 
+y procesos core. 
+ 
+4. Requisitos Funcionales y no Funcionales 
+ 
+Escenario AS- IS / TO BE 
+ 
+AS-IS 
+ 
+Phases Jugador / Comprador Desarrollador / 
+Publisher 
+Gestión de 
+Comunidad y Soporte 
+
+=== PÁGINA 13 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 13 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+Doing Compro un juego 
+buscando ahorrar, pero 
+al intentar canjear el 
+código el sistema me 
+arroja el error "Esta 
+clave ya ha sido 
+utilizada" o "No 
+disponible en tu región". 
+Al acudir a atención al 
+cliente para reclamar, me 
+responden que por 
+políticas de la tienda no 
+se hacen devoluciones si 
+el código ya fue 
+visualizado, perdiendo 
+mi dinero sin obtener el 
+juego. 
+Analizo las distintas 
+plataformas de 
+distribución digital 
+disponibles para publicar 
+mi juego independiente: 
+las tiendas líderes del 
+mercado exigen tarifas 
+de registro y retienen 
+comisiones abusivas de 
+hasta un 30% de cada 
+venta; las plataformas 
+alternativas con menores 
+comisiones cuentan con 
+muy pocos compradores 
+activos; y los servicios 
+por suscripción manejan 
+acuerdos cerrados a los 
+que un estudio pequeño 
+no tiene acceso para 
+postular. 
+En nuestra tienda digital 
+procesamos los reclamos 
+y devoluciones de 
+manera manual a través 
+de tickets de soporte por 
+correo. Mi equipo tiene 
+que verificar 
+manualmente cada 
+recibo, intentar calcular 
+cuánto tiempo jugó el 
+cliente antes de pedir el 
+reembolso y lidiar con 
+discusiones 
+interminables. Además, 
+cualquiera puede crearse 
+una cuenta falsa y 
+publicar reseñas 
+destructivas o spam 
+sobre juegos que ni 
+siquiera ha comprado. 
+Thinking "Me siento 
+completamente estafado. 
+Pagué por un producto 
+legítimo y me dieron una 
+clave inservible. Es 
+inaceptable que no exista 
+una garantía ni una 
+política de reembolso 
+inmediata que me 
+devuelva el dinero 
+cuando una compra 
+falla." 
+"Si publico en la 
+plataforma dominante, el 
+30% de comisión más 
+los impuestos me dejan 
+un margen de ganancia 
+mínimo que apenas 
+cubre los costos de 
+desarrollo. Si elijo otra 
+tienda con mejor 
+comisión, casi nadie verá 
+mi juego. Es un dilema 
+donde siempre salgo 
+perdiendo." 
+"Perdemos horas 
+revisando comprobantes 
+a mano para decidir si 
+aprobamos un reembolso 
+o no. Sin un sistema 
+automatizado que mida 
+el tiempo de juego 
+exacto y valide la orden, 
+el soporte al cliente 
+colapsa y estamos 
+expuestos a engaños y 
+quejas públicas 
+constantes." 
+Feeling Estafado, frustrado y 
+desconfiado, con miedo 
+de volver a gastar dinero 
+en plataformas que no 
+ofrecen garantías reales 
+sobre compras digitales. 
+Presionado, desmotivado 
+y frustrado al ver que el 
+modelo de comisiones 
+de las grandes 
+plataformas absorbe gran 
+parte de su esfuerzo y 
+limita el crecimiento de 
+su estudio.2 
+Sobrecargado, estresado 
+y saturado por la carga 
+operativa que genera la 
+resolución manual de 
+disputas y la falta de 
+control sobre las 
+opiniones en la tienda. 
+ 
+TO-BE 
+ 
+
+=== PÁGINA 14 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 14 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+Phases Jugador / Comprador Desarrollador / 
+Publisher 
+Gestión de 
+Comunidad y Soporte 
+Doing Ingreso a la plataforma 
+de Gvox, selecciono el 
+juego que deseo y elijo 
+entre comprar la versión 
+permanente o alquilarlo 
+por 48 horas a un precio 
+reducido (S/ 5.00). Pago 
+directamente con mi 
+saldo virtual o tarjeta. El 
+juego se vincula al 
+instante a mi biblioteca 
+con un temporizador que 
+indica el tiempo restante. 
+Si el juego me encanta, 
+utilizo la opción de 
+compra definitiva 
+descontando lo que ya 
+pagué por el alquiler; y 
+si no me convence, 
+simplemente dejo que 
+expire sin haber 
+arriesgado el precio 
+completo del título.  
+Publico mi videojuego 
+en Gvox bajo un 
+esquema de comisiones 
+justas y transparentes. 
+Además de la venta 
+tradicional, habilito la 
+opción de alquiler digital 
+para atraer a jugadores 
+indecisos, generando 
+ingresos adicionales por 
+pruebas temporales que 
+luego se convierten en 
+compras definitivas. 
+Tengo un panel de 
+control donde gestiono 
+mi catálogo, precios y 
+recibo liquidaciones 
+directas.  
+Administro la tienda con 
+un sistema de reglas de 
+negocio 100% 
+automatizado en el 
+backend. El motor de 
+licencias gestiona de 
+forma autónoma los 
+vencimientos de los 
+alquileres digitales, 
+revocando el acceso al 
+expirar las 48 horas sin 
+requerir intervención 
+manual. Asimismo, las 
+solicitudes de reembolso 
+para compras definitivas 
+se procesan solas en 
+segundos (< 2 horas de 
+uso y < 14 días de 
+compra) y las reseñas 
+quedan protegidas contra 
+cuentas no verificadas. 
+Thinking "Ahora tengo la libertad 
+de probar juegos 
+completos durante el fin 
+de semana sin tener que 
+pagar 60 dólares a 
+ciegas. Si el juego vale 
+la pena, lo compro 
+descontando mi alquiler; 
+y si no, no perdí casi 
+nada de dinero. Es un 
+modelo mucho más justo 
+que el de Steam."  
+"El modelo de alquiler 
+me permite monetizar a 
+usuarios que antes 
+recurrían a la piratería o 
+que no se animaban a 
+comprar mi juego por el 
+precio completo. Es una 
+vía de entrada accesible 
+que amplía mi base de 
+jugadores."  
+"La plataforma opera de 
+manera desatendida y 
+escalable. Las licencias 
+permanentes, los 
+alquileres con caducidad 
+automática y las 
+políticas de devolución 
+son controladas por 
+servicios web y estados 
+en la base de datos, 
+manteniendo los costos 
+de soporte al mínimo."  
+Feeling Seguro, empoderado y 
+satisfecho al tener 
+opciones de consumo 
+flexibles y adaptadas a 
+su presupuesto sin temor 
+a perder su inversión.  
+Optimista, motivado y 
+respaldado con 
+herramientas de 
+distribución modernas 
+que aumentan la 
+conversión de jugadores.  
+Eficiente, en control y 
+con operaciones 
+ordenadas, soportadas en 
+una arquitectura limpia y 
+trazabilidad de eventos.  
+ 
+
+=== PÁGINA 15 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 15 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+Requisitos Funcionales 
+ 
+ 
+Código Título Requisito 
+Módulo de Autenticación y Gestión de Usuarios 
+RFU-001 Registro de Usuario  
+El sistema debe proporcionar una interfaz y un servicio backend 
+que permita a un nuevo usuario registrarse en la plataforma 
+ingresando sus datos principales, tales como correo electrónico, 
+nombre de usuario, contraseña cifrada y fecha de nacimiento, 
+asegurando la unicidad de las credenciales en la base de datos. 
+RFU-002 Inicio de Sesión  
+El sistema debe validar las credenciales ingresadas por el usuario 
+(nombre de usuario/correo y contraseña) contra el almacenamiento 
+central, permitiendo o denegando el acceso a la sesión y generando 
+un token de autenticación para las peticiones posteriores. 
+RFU-003 
+Autenticación de 
+Dos Factores (Steam 
+Guard) 
+El sistema debe implementar un mecanismo de seguridad adicional 
+que envíe un código temporal de verificación al correo electrónico 
+del usuario cada vez que se detecte un intento de acceso desde un 
+dispositivo o IP no reconocido previamente. 
+RFU-004 Recuperación de 
+Contraseña 
+El sistema debe permitir a los usuarios recuperar el acceso a su 
+cuenta mediante el envío de un enlace con un token de tiempo de 
+expiración limitado a su correo electrónico registrado, facilitando 
+el cambio seguro de su contraseña. 
+RFU-005 Gestión de Perfil de 
+Usuario 
+El sistema debe permitir a los usuarios modificar la información 
+visible de su perfil personal, incluyendo la actualización de su 
+avatar gráfico, descripción biográfica y la configuración de los 
+niveles de privacidad (Público, Solo Amigos, Privado).  
+Módulo de Tienda 
+RFU-006 Visualización del 
+Catálogo Principal  
+El sistema debe renderizar una página principal en la tienda que 
+muestre dinámicamente los videojuegos destacados, ofertas de 
+temporada, títulos populares y banners promocionales con su 
+respectiva información de precios y descuentos. 
+RFU-007 Búsqueda de 
+Productos 
+El sistema debe incluir un motor de búsqueda por texto que permita 
+a los usuarios localizar rápidamente videojuegos dentro del 
+catálogo ingresando palabras clave relacionadas con el título, la 
+desarrolladora o el publisher. 
+RFU-008 Filtrado Avanzado 
+de Catálogo 
+El sistema debe ofrecer opciones de filtrado multicriterio que 
+permitan acotar la búsqueda de juegos según categorías de género 
+(Acción, RPG, Estrategia, etc.), rangos de precios, etiquetas de 
+características y soporte multijugador. 
+
+=== PÁGINA 16 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 16 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+Código Título Requisito 
+RFU-009 
+Visualización de 
+Detalles del 
+Producto 
+El sistema debe proveer una vista detallada para cada videojuego 
+del catálogo, la cual debe integrar una descripción completa del 
+producto, galerías de imágenes y videos, requisitos técnicos del 
+sistema y el agregado de reseñas comunitarias  
+RFU-010 Gestión de Lista de 
+Deseados (Wishlist) 
+El sistema debe permitir a los usuarios guardar y organizar juegos 
+en una lista de deseados personal, facilitando el seguimiento de 
+futuros lanzamientos o alertas de ofertas y descuentos sobre dichos 
+títulos. 
+Módulo de Transacciones y Carrito de Compras 
+RFU-011 Gestión de Carrito 
+de Compras 
+El sistema debe permitir a los usuarios agregar, visualizar, 
+modificar y eliminar elementos (videojuegos o DLCs) 
+seleccionados en un carrito de compras temporal antes de proceder 
+con el proceso de pago.  
+RFU-012 Simulación de 
+Pasarela de Pago 
+El sistema debe procesar las transacciones comerciales simulando 
+la selección de múltiples métodos de pago (tarjeta de crédito, 
+billeteras virtuales o saldo de la cartera digital), validando el monto 
+total de la compra. 
+RFU-013 
+Emisión de 
+Comprobantes 
+Digitales 
+El sistema debe generar y almacenar automáticamente un recibo de 
+compra detallado tras cada transacción exitosa, enviando un 
+comprobante digital al correo del usuario y asociándolo al historial 
+de compras. 
+RFU-014 
+Solicitud de 
+Reembolso de 
+Productos 
+El sistema debe permitir a los usuarios solicitar la devolución de su 
+dinero bajo condiciones políticas específicas, validando 
+automáticamente que el tiempo transcurrido desde la compra sea 
+menor a 14 días y el tiempo de ejecución del juego sea inferior a 2 
+horas.  
+RFU-015 Recarga de Saldo en 
+Cartera (Wallet)  
+El sistema debe permitir a los usuarios ingresar fondos virtuales a 
+su cuenta personal mediante montos preestablecidos, acumulando 
+un saldo digital disponible para futuras compras directas sin re-
+ingresar datos bancarios.  
+Módulo de Biblioteca 
+RFU-016 
+Visualización de 
+Biblioteca de 
+Usuario 
+El sistema debe mostrar de forma organizada todos los videojuegos 
+y licencias digitales que posee el usuario en su propiedad, 
+permitiendo visualizarlos en formato de lista o cuadrícula con 
+accesos directos. 
+
+=== PÁGINA 17 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 17 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+Código Título Requisito 
+RFU-017 Validación de 
+Licencias (DRM)  
+El sistema debe verificar en la base de datos que el usuario cuenta 
+con una licencia activa y válida sobre el producto antes de habilitar 
+el lanzador o permitir la descarga del software correspondiente. 
+RFU-018 
+Categorización 
+Personalizada de 
+Biblioteca 
+El sistema debe permitir a los usuarios crear colecciones o carpetas 
+personalizadas para organizar y ordenar los títulos de su biblioteca 
+según sus preferencias personales. 
+Módulo de Comunidad y Social  
+RFU-019 Gestión de Red de 
+Amigos 
+El sistema debe proporcionar herramientas sociales que permitan 
+enviar, aceptar, rechazar solicitudes de amistad entre usuarios, así 
+como visualizar su estado de conexión y bloquear contactos no 
+deseados. 
+RFU-020 
+Publicación y 
+Calificación de 
+Reseñas  
+El sistema debe permitir a los usuarios que acrediten la propiedad 
+de un videojuego redactar una reseña escrita y emitir una 
+calificación de recomendación positiva o negativa sobre dicho 
+producto. 
+Módulo de Alquiler de Juegos 
+RFU-021 
+Selección de 
+Modalidad de 
+Alquiler Digital 
+El sistema debe permitir al usuario, desde la ficha técnica del 
+juego, elegir entre la compra permanente o el alquiler temporal por 
+48 o 72 horas a un precio fraccionado, agregando dicha modalidad 
+al carrito de compras. 
+RFU-022 
+Control de Vigencia 
+y Expiración de 
+Alquiler 
+El sistema debe calcular automáticamente la fecha y hora exacta de 
+expiración de la licencia de alquiler tras el pago, mostrar un 
+temporizador de horas restantes en la biblioteca y revocar el acceso 
+a ejecutar el juego al finalizar el plazo. 
+RFU-023 
+Conversión de 
+Alquiler a Compra 
+(Rent-to-Own)  
+El sistema debe permitir al usuario que mantiene un alquiler activo 
+comprar la versión permanente del juego descontando el 100% de 
+lo pagado por el alquiler sobre el precio total de venta. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PÁGINA 18 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 18 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+Requisitos No Funcionales 
+ 
+Código Requerimiento Tipo 
+RNF-001 El backend debe responder a las peticiones del 
+catálogo y carrito de compras en un tiempo inferior 
+a 2 segundos (2000 ms), incluso simulando 
+escenarios de alta concurrencia como las rebajas de 
+temporada.  
+Rendimiento y 
+Escalabilidad 
+RNF-002 Las contraseñas de los usuarios deben almacenarse 
+de forma encriptada utilizando algoritmos de 
+hashing seguro (ej. Bcrypt). Toda comunicación 
+cliente-servidor debe transitar sobre el protocolo 
+HTTPS. 
+Seguridad y Privacidad  
+RNF-003 Tal como exige el alcance del proyecto, la 
+plataforma (interfaz y respuestas del Web Service) 
+debe estar preparada para soportar múltiples 
+idiomas, implementando obligatoriamente las 
+configuraciones base para Inglés y Español 
+Latinoamericano. 
+Internacionalización 
+(i18n)  
+RNF-004 El desarrollo del backend debe regirse 
+estrictamente bajo el estilo arquitectónico RESTful 
+API, garantizando operaciones de tipo stateless (sin 
+estado) e identificadores de recursos 
+estandarizados. 
+Estándares de 
+Arquitectura  
+RNF-005 Los servicios web implementados deben 
+documentarse de manera interactiva y 
+estandarizada utilizando OpenAPI Specification a 
+través de la herramienta Swagger. 
+Documentación Técnica 
+de la API 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product Backlog 
+ 
+
+=== PÁGINA 19 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 19 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+Id  Título Descripción Estado Prioridad Story Point 
+HU01  Registro de 
+usuario 
+nuevo  
+Como usuario nuevo, 
+quiero crear una cuenta con 
+mi correo y contraseña para 
+acceder a la plataforma 
+Gvox  
+Pendiente Alta  5 
+HU02  Inicio de 
+sesión de 
+usuario  
+Como usuario registrado, 
+quiero iniciar sesión con 
+mis credenciales para 
+acceder a mi cuenta y ver 
+mis compras.  
+Pendiente Alta  3 
+HU03  Gestión de 
+perfil de 
+usuario  
+Como usuario, quiero editar 
+mi avatar, nombre público y 
+biografía para personalizar 
+mi presencia en la 
+plataforma.  
+Pendiente Baja 3 
+HU04  Exploración 
+del catálogo 
+y ofertas  
+Como comprador, quiero 
+ver juegos destacados y 
+ofertas con descuento en el 
+Home para descubrir títulos 
+de interés.  
+Pendiente Alta  5 
+HU05  Búsqueda y 
+filtrado de 
+juegos  
+Como comprador, quiero 
+buscar por texto y filtrar por 
+género o precio para 
+encontrar juegos 
+rápidamente.  
+Pendiente Alta  5 
+HU06  Ficha técnica 
+y detalles del 
+juego  
+Como comprador, quiero 
+ver capturas, descripción y 
+requisitos técnicos de un 
+juego para decidir si 
+comprarlo.  
+Pendiente Media  5 
+ 
+HU07  
+Gestión de 
+carrito de 
+compras  
+Como comprador, quiero 
+agregar juegos al carrito (ya 
+sea para compra o alquiler) 
+y ver el total a pagar para 
+realizar un pedido conjunto.  
+Pendiente Media  3 
+HU08  Pago y recibo 
+de compra  
+Como comprador, quiero 
+pagar mi orden mediante un 
+método simulado y ver mi 
+comprobante digital para 
+confirmar mi transacción.  
+Pendiente Alta  5 
+
+=== PÁGINA 20 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 20 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+ 
+Sprint Backlog 
+ 
+Sprint 1: Autenticación y Gestión de Cuentas 
+User Story Task 
+Id Título Descripción Id Título Estimaci
+ón 
+Asignado 
+a: 
+Estado 
+HU01  Registro 
+de usuario  
+Diseñar en 
+HTML y CSS 
+las pantallas de 
+registro e 
+inicio de sesión 
+con sus cajas 
+de texto y 
+botones.  
+T01  Diseño de la 
+página de 
+Registro y 
+Login  4 César 
+Antezana  Pendiente 
+HU01  Registro Programar la T02 Lógica de 5 Fabrizzio Pendiente 
+HU09  Alquiler 
+digital de 
+videojuegos  
+Como comprador, quiero 
+alquilar un videojuego por 
+48 horas a un precio 
+reducido para probar el 
+juego completo durante el 
+fin de semana sin pagar el 
+costo total.  
+Pendiente Alta  8 
+HU10  Biblioteca 
+digital de 
+juegos  
+Como jugador, quiero ver 
+en una cuadrícula todos mis 
+juegos comprados con un 
+botón de "Jugar" para 
+acceder a ellos.  
+Pendiente Alta  5 
+HU11  Solicitud de 
+reembolso  
+Como comprador, quiero 
+pedir la devolución de un 
+juego desde mi historial si 
+cumple con las condiciones 
+permitidas.  
+Pendiente Alta  3 
+HU12  Publicación 
+de reseñas  
+Como poseedor de un 
+juego, quiero dejar una 
+calificación 
+positiva/negativa y un 
+comentario para opinar 
+sobre el título.  
+Pendiente Media  5 
+
+=== PÁGINA 21 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 21 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+de usuario  función del 
+servidor para 
+guardar los 
+datos del 
+nuevo usuario 
+y verificar que 
+el correo no 
+esté repetido.  
+registro en 
+base de datos  
+Zegarra  
+HU02  Inicio de 
+sesión  
+Programar la 
+comprobación 
+de correo y 
+contraseña para 
+permitir o 
+rechazar el 
+acceso del 
+usuario a la 
+página web.  
+T03 Validación 
+de ingreso al 
+sistema  
+5 Leo Yañez  Pendiente 
+HU03  Perfil de 
+usuario  
+Probar que los 
+formularios 
+muestren 
+mensajes de 
+error 
+adecuados si se 
+dejan campos 
+vacíos o 
+contraseñas 
+incorrectas.  
+T04 Pruebas de 
+formularios 
+de cuenta  
+3 Leonardo 
+Flores  Pendiente 
+ 
+Sprint 2: Tienda, Búsqueda, Ficha de Producto y Wishlist 
+User Story Task 
+Id Título Descripción Id Título Estimaci
+ón 
+Asignado 
+a: 
+Estado 
+HU04  Catálogo y 
+ofertas  
+Diseñar la 
+página 
+principal con 
+las tarjetas de 
+los juegos en 
+oferta, 
+mostrando 
+portada, título, 
+precio y 
+descuento.  
+T05  Maquetación 
+del Home de 
+la tienda  
+5 Leo Yañez  Pendiente 
+
+=== PÁGINA 22 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 22 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+HU05  Búsqueda 
+y filtrado  
+Crear la 
+función para 
+que el usuario 
+escriba en una 
+barra de 
+búsqueda y 
+pueda filtrar 
+juegos por 
+categoría o 
+precio.  
+T06 Programació
+n del 
+buscador y 
+filtros  
+5 Fabrizzio 
+Zegarra  Pendiente 
+HU06 Ficha 
+técnica y 
+requisitos  
+Crear la tabla y 
+la lógica para 
+guardar y 
+mostrar los 
+requisitos 
+mínimos y 
+recomendados 
+de hardware de 
+cada juego.  
+T07 Base de datos 
+de requisitos 
+técnicos  
+5 Leonardo 
+Flores  Pendiente 
+HU06 Ficha 
+técnica del 
+juego  
+Verificar que 
+al hacer clic en 
+un juego se 
+abra su página 
+de detalles con 
+imágenes, 
+descripción y 
+requisitos para 
+jugar.  
+T08 Pruebas de 
+navegación 
+en la tienda  
+4 César 
+Antezana  Pendiente 
+ 
+Sprint 3: Carrito de Compras, Alquiler Digital y Checkout Transaccional 
+User Story Task 
+Id Título Descripción Id Título Estimaci
+ón 
+Asignado 
+a: 
+Estado 
+HU07  Carrito de 
+compras  
+Diseñar la 
+interfaz del 
+carrito donde 
+se listen los 
+juegos 
+seleccionados, 
+opción para 
+quitarlos y el 
+precio total.  
+T09  Diseño de la 
+página del 
+carrito web  
+4 Leonardo 
+Flores  Pendiente 
+
+=== PÁGINA 23 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 23 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+HU08  Pago y 
+recibo  
+Programar la 
+lógica del 
+servidor para 
+procesar el 
+pago de la 
+orden y asociar 
+los juegos 
+adquiridos al 
+usuario.  
+T10 Función de 
+compra y 
+cobro 
+simulado  
+6 César 
+Antezana  Pendiente 
+HU08 Pago y 
+recibo  
+Programar la 
+opción para 
+registrar una 
+licencia 
+temporal de 
+alquiler y 
+calcular su 
+fecha y hora de 
+vencimiento.  
+T11 Lógica de 
+alquiler 
+temporal de 
+48h  
+4 Fabrizzio 
+Zegarra  Pendiente 
+HU09  Alquiler 
+digital  
+Programar la 
+opción para 
+registrar una 
+licencia 
+temporal de 
+alquiler y 
+calcular su 
+fecha y hora de 
+vencimiento.  
+T12 Pantalla de 
+confirmación 
+y recibo  
+4 Leo Yañez  Pendiente 
+ 
+Sprint 4: Biblioteca, Reembolsos y Reseñas de Comunidad 
+User Story Task 
+Id Título Descripción Id Título Estimaci
+ón 
+Asignado 
+a: 
+Estado 
+HU0
+9  
+Biblioteca 
+digital  
+Programar la 
+función que 
+bloquea el 
+botón "Jugar" 
+cuando el 
+tiempo de 
+alquiler (48h) 
+llega a cero en 
+la base de 
+datos.  
+T13 Control de 
+vencimiento 
+de alquileres  
+4 César 
+Antezana  Pendiente 
+
+=== PÁGINA 24 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 24 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+HU10  Biblioteca 
+digital  
+Diseñar la 
+sección web de 
+la biblioteca 
+mostrando 
+juegos 
+comprados, 
+colecciones 
+creadas y el 
+badge de horas 
+restantes de 
+alquiler.  
+T14 Diseño de 
+"Mis Juegos" 
+y 
+Colecciones  
+4 Leonardo 
+Flores  Pendiente 
+HU11  Reembols
+o  
+Programar la 
+condición que 
+permite 
+devolver un 
+juego si tiene 
+menos de 2 
+horas de juego 
+y menos de 14 
+días de 
+comprado.  
+T15 Lógica para 
+solicitar 
+reembolsos  
+6 Leo Yañez  Pendiente 
+HU12  Reseñas  Verificar que 
+solo los dueños 
+del juego 
+puedan dejar 
+comentarios en 
+la web y 
+documentar los 
+enlaces del 
+sistema con 
+Swagger.  
+T16 Pruebas de 
+reseñas y 
+documentaci
+ón  
+4 Fabrizzio 
+Zegarra  Pendiente 
+ 
+Application Wireframes 
+ 
+1. Inicio de sesión 
+Registro e inicio de sesión con recuperación de contraseña (RFU-001, RFU-002, RFU-004). 
+
+=== PÁGINA 25 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 25 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+ 
+ 
+2. Tienda 
+Tienda con búsqueda, filtros, ofertas de temporada y precios de alquiler (RFU-006, RFU-007, 
+RFU-008). 
+
+
+=== PÁGINA 26 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 26 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+ 
+3. Ficha del juego 
+Ficha del juego con selección de modalidad: compra permanente o alquiler de 48 y 72 horas 
+(RFU-009, RFU-010, RFU-021). 
+
+
+=== PÁGINA 27 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 27 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+ 
+4. Carrito 
+Carrito de compras con conversión de alquiler a compra, Rent -to-Own (RFU-011, RFU-012, 
+RFU-023). 
+
+
+=== PÁGINA 28 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 28 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+ 
+5. Cartera 
+Cartera virtual con recarga de saldo (RFU-015). 
+ 
+ 
+6. Biblioteca con alquiler 
+
+
+=== PÁGINA 29 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 29 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+Biblioteca con alquiler activo, temporizador de tiempo restante y opción de compra (RFU-016, 
+RFU-017, RFU-022). 
+ 
+7. Biblioteca con reembolso 
+Solicitud de reembolso con validación de 14 días y 2 horas de juego (RFU-014). 
+ 
+8. Comunidad 
+
+
+=== PÁGINA 30 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 30 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+Comunidad: lista de amigos, solicitudes y bloqueados (RFU-019). 
+ 
+ 
+Diagramas 
+ 
+
+
+=== PÁGINA 31 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 31 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+Diagrama de Clases 
+ 
+  https://drive.gooGVOX1.pnggle.com/file/d/1fu2fbYsrc0V7QErPYW1-Xpf0eTcHHy-
+c/view?usp=sharing 
+
+
+=== PÁGINA 32 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 32 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+Diagrama de Objetos 
+https://drive.google.com/file/d/1uBhGTEPpMX7-eP0_oIhglH_QmUWgcHG0/view?usp=sharing 
+
+
+=== PÁGINA 33 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 33 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+Diagrama de actividades 
+ 
+ 
+ 
+
+
+=== PÁGINA 34 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 34 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+Diagrama de secuencia: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== PÁGINA 35 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 35 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+ 
+ 
+Diagrama de estados: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== PÁGINA 36 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 36 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+ 
+ 
+6. Historias de Usuario 
+ 
+Historia de Usuario 
+Número: HU01 Usuario: Usuario Nuevo  
+Nombre HU: Registro de Usuario 
+Prioridad en el negocio: Alta Riesgo en desarrollo: Medio  
+Horas estimadas:  5 Iteración asignada: Sprint 1 
+Programador responsable: César Antezana  
+Actividades claves del usuario: Ingresar correo, usuario, contraseña y fecha de 
+nacimiento; confirmar creación de cuenta. 
+Descripción: Como usuario nuevo, quiero registrarme en la plataforma 
+ingresando mis datos personales para crear una cuenta en 
+Gvox. 
+Criterios de aceptación:  El sistema debe asegurar la unicidad del correo 
+electrónico y nombre de usuario en la base de datos. 
+La contraseña debe almacenarse de forma encriptada 
+(algoritmo Bcrypt). 
+Mostrar mensaje de error si el usuario intenta registrar un 
+correo ya existente. 
+ 
+Historia de Usuario 
+Número: HU02  Usuario: Usuario Registrado  
+Nombre HU: Inicio de Sesión  
+Prioridad en el negocio: Alta  Riesgo en desarrollo: Alto  
+Horas estimadas:  3 Iteración asignada: Sprint 1 
+Programador responsable: Fabrizzio Zegarra  
+
+=== PÁGINA 37 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 37 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+Actividades claves del usuario: Ingresar credenciales (correo/usuario y contraseña), 
+acceder a la sesión. 
+Descripción: Como usuario registrado, quiero iniciar sesión con mis 
+credenciales para acceder a mi cuenta y utilizar la 
+plataforma. 
+Criterios de aceptación:  Validar nombre de usuario/correo y contraseña contra la 
+base de datos central. 
+Generar un token de autenticación para las peticiones 
+posteriores tras un acceso exitoso. 
+Denegar el acceso y mostrar un error adecuado ante 
+credenciales incorrectas. 
+ 
+Historia de Usuario 
+Número: HU03  Usuario: Usuario Registrado  
+Nombre HU: Autenticación de Dos Factores (Steam Guard) 
+Prioridad en el negocio: Alta  Riesgo en desarrollo: Alto  
+Horas estimadas:  5 Iteración asignada: Sprint 1 
+Programador responsable: Leo Yañez  
+Actividades claves del usuario: Recibir código temporal en el correo, ingresar código en 
+el sistema, confirmar acceso.  
+Descripción: Como usuario registrado, quiero recibir un código de 
+seguridad en mi correo al ingresar desde un dispositivo 
+nuevo para proteger mi cuenta de accesos no 
+autorizados. 
+Criterios de aceptación:  Detectar intentos de acceso desde IPs o dispositivos no 
+reconocidos previamente.  
+Enviar automáticamente un código temporal de 
+verificación al correo del usuario. 
+Bloquear el acceso a la cuenta hasta que el usuario 
+ingrese el código correcto. 
+ 
+Historia de Usuario 
+
+=== PÁGINA 38 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 38 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+Número: HU04  Usuario: Usuario Registrado  
+Nombre HU: Recuperación de Contraseña  
+Prioridad en el negocio: Media  Riesgo en desarrollo: Medio  
+Horas estimadas:  4 Iteración asignada: Sprint 1 
+Programador responsable: Leonardo Flores  
+Actividades claves del usuario: Solicitar restablecimiento, hacer clic en el enlace del 
+correo, crear nueva contraseña. 
+Descripción: Como usuario registrado, quiero solicitar un enlace de 
+recuperación a mi correo para poder restablecer mi 
+contraseña en caso de olvido. 
+Criterios de aceptación:  El sistema debe enviar un enlace con un token de tiempo 
+de expiración limitado al correo registrado.  
+El enlace debe dirigir a un formulario seguro para el 
+cambio de contraseña. 
+La nueva contraseña debe cifrarse antes de guardarse en 
+la base de datos. 
+ 
+Historia de Usuario 
+Número: HU05  Usuario: Usuario Registrado  
+Nombre HU: Gestión de Perfil de Usuario  
+Prioridad en el negocio: Baja  Riesgo en desarrollo: Bajo  
+Horas estimadas:  3 Iteración asignada: Sprint 1 
+Programador responsable: Leonardo Flores  
+Actividades claves del usuario: Modificar avatar, editar biografía, ajustar privacidad. 
+Descripción: Como usuario, quiero editar la información visible de 
+mi perfil personal (avatar, biografía y privacidad) para 
+personalizar mi presencia en la plataforma.  
+Criterios de aceptación:  Permitir la actualización del avatar gráfico y la 
+descripción biográfica. 
+
+=== PÁGINA 39 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 39 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+Permitir configurar niveles de privacidad en el perfil: 
+Público, Solo Amigos, Privado. 
+Los cambios deben reflejarse inmediatamente al 
+guardar. 
+ 
+Historia de Usuario 
+Número: HU06  Usuario: Comprador  
+Nombre HU: Visualización del Catálogo Principal  
+Prioridad en el negocio: Alta  Riesgo en desarrollo: Medio  
+Horas estimadas:  5 Iteración asignada: Sprint 2 
+Programador responsable: Leo Yañez  
+Actividades claves del usuario: Explorar juegos destacados, revisar ofertas y banners.  
+Descripción: Como comprador, quiero visualizar la página principal 
+de la tienda con juegos destacados y ofertas de 
+temporada para descubrir títulos de interés. 
+Criterios de aceptación:  Renderizar dinámicamente títulos populares, banners 
+promocionales y ofertas. 
+Mostrar en cada tarjeta de juego su respectiva 
+información de precio y descuento. 
+El catálogo debe responder en un tiempo inferior a 2 
+segundos (RNF-001). 
+ 
+Historia de Usuario 
+Número: HU07  Usuario: Comprador  
+Nombre HU: Búsqueda de Productos  
+Prioridad en el negocio: Alta  Riesgo en desarrollo: Medio  
+Horas estimadas:  5 Iteración asignada: Sprint 2 
+Programador responsable: Fabrizzio Zegarra  
+
+=== PÁGINA 40 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 40 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+Actividades claves del usuario: Ingresar texto en el buscador, revisar resultados 
+relacionados.  
+Descripción: Como comprador, quiero buscar videojuegos ingresando 
+texto libre para localizar rápidamente títulos, 
+desarrolladoras o publishers específicos. 
+Criterios de aceptación:  Incluir un motor de búsqueda por texto en la barra 
+superior. 
+Retornar resultados coincidentes por título de juego, 
+desarrolladora o publisher. 
+Actualizar la vista de resultados sin errores si no se 
+encuentran coincidencias. 
+ 
+Historia de Usuario 
+Número: HU08 Usuario: Comprador  
+Nombre HU: Filtrado Avanzado de Catálogo  
+Prioridad en el negocio: Media  Riesgo en desarrollo: Medio  
+Horas estimadas:  4 Iteración asignada: Sprint 2 
+Programador responsable: Fabrizzio Zegarra  
+Actividades claves del usuario: Seleccionar filtros de género, ajustar rango de precios, 
+aplicar etiquetas. 
+Descripción: Como comprador, quiero utilizar opciones de filtrado 
+multicriterio para acotar mi búsqueda según género, 
+precio y características técnicas. 
+Criterios de aceptación:  Permitir filtrar el catálogo según categorías de género 
+(Acción, RPG, etc.). 
+Permitir acotar búsquedas por rangos de precio y 
+etiquetas de soporte (ej. multijugador). 
+Los filtros deben poder combinarse entre sí de manera 
+acumulativa. 
+ 
+Historia de Usuario 
+
+=== PÁGINA 41 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 41 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+Número: HU09 Usuario: Comprador  
+Nombre HU: Visualización de Detalles del Producto  
+Prioridad en el negocio: Media  Riesgo en desarrollo: Bajo  
+Horas estimadas:  4 Iteración asignada: Sprint 2 
+Programador responsable: César Antezana  
+Actividades claves del usuario: Seleccionar un juego, revisar descripción, ver galería 
+multimedia, consultar requisitos. 
+Descripción: Como comprador, quiero acceder a la vista detallada de 
+un juego para ver su descripción, capturas y requisitos 
+técnicos antes de decidir comprarlo. 
+Criterios de aceptación:  Mostrar descripción completa, galería de imágenes y 
+videos del juego seleccionado. 
+Listar detalladamente los requisitos técnicos mínimos y 
+recomendados del sistema. 
+Integrar un apartado visible de las reseñas comunitarias 
+publicadas sobre el juego. 
+ 
+Historia de Usuario 
+Número: HU10 Usuario: Comprador 
+Nombre HU: Gestión de Lista de Deseados (Wishlist) 
+Prioridad en el negocio: Media Riesgo en desarrollo: Bajo 
+Horas estimadas:  3 Iteración asignada: Sprint 2 
+Programador responsable: Leonardo Flores 
+Actividades claves del usuario: Marcar juego con el botón "Añadir a deseados", 
+visualizar lista personal. 
+Descripción: Como comprador, quiero guardar juegos en una lista de 
+deseados personal para darles seguimiento y recibir 
+alertas de futuras ofertas. 
+Criterios de aceptación:  Habilitar un botón en la ficha del producto para añadir o 
+quitar un juego de la Wishlist. 
+
+=== PÁGINA 42 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 42 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+Almacenar la lista de deseados vinculada 
+exclusivamente a la cuenta del usuario. 
+Disponer de una vista dedicada donde el usuario pueda 
+organizar los juegos agregados. 
+ 
+Historia de Usuario 
+Número: HU11  Usuario: Comprador  
+Nombre HU: Gestión de Carrito de Compras 
+Prioridad en el negocio: Alta Riesgo en desarrollo: Alto 
+Horas estimadas:  8 Iteración asignada: Sprint 3 
+Programador responsable: Leonardo Flores 
+Actividades claves del usuario: Agregar juegos/DLCs, modificar selección, revisar 
+cálculo total. 
+Descripción: Como comprador, quiero agregar juegos al carrito 
+temporal para visualizar y gestionar mis selecciones 
+conjuntas antes de realizar el pago. 
+Criterios de aceptación:  Permitir agregar, visualizar y eliminar videojuegos o 
+DLCs del carrito temporal. 
+Calcular y mostrar correctamente la sumatoria total del 
+precio, descontando las ofertas vigentes. 
+Evitar que se procesen compras si el carrito está vacío o 
+el total es cero. 
+ 
+Historia de Usuario 
+Número: HU12  Usuario: Comprador  
+Nombre HU: Simulación de Pasarela de Pago 
+Prioridad en el negocio: Alta  Riesgo en desarrollo: Alto  
+Horas estimadas:  5 Iteración asignada: Sprint 3 
+Programador responsable: César Antezana  
+
+=== PÁGINA 43 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 43 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+Actividades claves del usuario: Seleccionar método de pago, autorizar transacción, 
+simular cobro.  
+Descripción: Como comprador, quiero procesar mi orden 
+seleccionando un método de pago simulado para 
+completar la adquisición de los juegos del carrito. 
+Criterios de aceptación:  Permitir seleccionar entre múltiples métodos de pago: 
+tarjeta, billetera virtual o saldo en cartera. 
+Validar que el usuario posea fondos suficientes antes de 
+aprobar el cobro del monto total. 
+Actualizar el estado de la transacción a "Pagado" y 
+asociar los juegos a la cuenta tras el éxito. 
+ 
+Historia de Usuario 
+Número: HU13  Usuario: Comprador  
+Nombre HU: Emisión de Comprobantes Digitales  
+Prioridad en el negocio: Alta  Riesgo en desarrollo: Medio  
+Horas estimadas:  4 Iteración asignada: Sprint 3 
+Programador responsable: Leo Yañez 
+Actividades claves del usuario: Revisar comprobante en pantalla, recibir confirmación 
+en el correo. 
+Descripción: Como comprador, quiero recibir un comprobante digital 
+detallado tras mi compra para tener un respaldo de la 
+transacción en mi historial y correo. 
+Criterios de aceptación:  Generar automáticamente un recibo detallado al 
+confirmar una transacción exitosa. 
+Enviar el comprobante digital al correo electrónico 
+registrado del usuario. 
+Asociar permanentemente el recibo al historial de 
+compras visible en el perfil del usuario. 
+ 
+Historia de Usuario 
+
+=== PÁGINA 44 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 44 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+Número: HU14 Usuario: Comprador  
+Nombre HU: Solicitud de Reembolso de Productos 
+Prioridad en el negocio: Media  Riesgo en desarrollo: Alto  
+Horas estimadas:  6 Iteración asignada: Sprint 4 
+Programador responsable: Leo Yañez  
+Actividades claves del usuario: Ingresar al historial, solicitar devolución, recibir 
+reembolso. 
+Descripción: Como comprador, quiero solicitar la devolución de un 
+juego desde mi historial si cumple con las condiciones 
+permitidas para recuperar mi dinero. 
+Criterios de aceptación:  El sistema backend debe validar de forma automatizada 
+que el tiempo desde la compra sea < 14 días. 
+Validar que el tiempo total de ejecución del juego sea 
+inferior a 2 horas. 
+Procesar y aprobar el reembolso devolviendo el saldo si 
+se cumplen ambas reglas.  
+ 
+Historia de Usuario 
+Número: HU15  Usuario: Comprador  
+Nombre HU: Recarga de Saldo en Cartera (Wallet)  
+Prioridad en el negocio: Media  Riesgo en desarrollo: Medio  
+Horas estimadas:  4  Iteración asignada: Sprint 3 
+Programador responsable: Fabrizzio Zegarra 
+Actividades claves del usuario: Seleccionar monto a recargar, ejecutar pago, verificar 
+nuevo saldo.  
+Descripción: Como comprador, quiero ingresar fondos virtuales a mi 
+cuenta mediante montos preestablecidos para acumular 
+un saldo utilizable en compras futuras. 
+Criterios de aceptación:  Proveer opciones de montos preestablecidos para la 
+recarga de saldo digital. 
+
+=== PÁGINA 45 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 45 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+Sumar el monto adquirido a la cartera digital del usuario 
+tras procesar el pago con éxito. 
+Permitir que el saldo acumulado pueda ser utilizado 
+como método de pago válido en el carrito. 
+ 
+Historia de Usuario 
+Número: HU16  Usuario: Jugador  
+Nombre HU: Visualización de Biblioteca de Usuario  
+Prioridad en el negocio: Alta  Riesgo en desarrollo: Medio  
+Horas estimadas:  4 Iteración asignada: Sprint 4 
+Programador responsable: César Antezana  
+Actividades claves del usuario: Ingresar a la sección "Mis Juegos", visualizar 
+cuadrícula/lista de títulos, hacer clic en "Jugar".  
+Descripción: Como jugador, quiero ver en una cuadrícula todos mis 
+juegos comprados con un botón para acceder a ellos y 
+disfrutar mi colección digital. 
+Criterios de aceptación:  Mostrar de forma organizada, en formato lista o 
+cuadrícula, todos los juegos adquiridos por el usuario. 
+Conectar el Frontend y Base de datos para cargar 
+únicamente los juegos asociados a la cuenta en sesión.  
+Incluir un botón de "Jugar" o "Descargar" en cada 
+elemento de la biblioteca. 
+ 
+Historia de Usuario 
+Número: HU17  Usuario: Jugador  
+Nombre HU: Validación de Licencias (DRM)  
+Prioridad en el negocio: Alta  Riesgo en desarrollo: Alto  
+Horas estimadas:  5 Iteración asignada: Sprint 4 
+Programador responsable: Leonardo Flores  
+
+=== PÁGINA 46 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 46 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+Actividades claves del usuario: Intentar ejecutar o descargar un juego desde la 
+biblioteca.  
+Descripción: Como jugador, quiero que el sistema valide 
+silenciosamente mi propiedad del juego para permitirme 
+ejecutar el software sin problemas de licencia. 
+Criterios de aceptación:  El servicio backend debe verificar que el usuario posee 
+una licencia activa del producto (DRM). 
+Permitir la apertura del lanzador o descarga únicamente 
+si la validación retorna verdadero. 
+Mostrar un error descriptivo si el usuario intenta acceder 
+a un juego sin una licencia válida asociada. 
+ 
+Historia de Usuario 
+Número: HU18  Usuario: Jugador  
+Nombre HU: Categorización Personalizada de Biblioteca  
+Prioridad en el negocio: Baja  Riesgo en desarrollo: Bajo  
+Horas estimadas:  3 Iteración asignada: Sprint 4 
+Programador responsable: César Antezana  
+Actividades claves del usuario: Crear nueva colección, arrastrar o asignar juegos a las 
+carpetas.  
+Descripción: Como jugador, quiero crear colecciones personalizadas 
+en mi biblioteca para organizar y ordenar mis títulos 
+según mis preferencias. 
+Criterios de aceptación:  Habilitar la creación, edición y eliminación de carpetas 
+o categorías dentro de la biblioteca. 
+Permitir al usuario asignar uno o múltiples juegos a una 
+colección creada. 
+Mantener persistencia de esta organización 
+personalizada en la base de datos del perfil. 
+ 
+Historia de Usuario 
+
+=== PÁGINA 47 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 47 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+Número: HU19  Usuario: Usuario  
+Nombre HU: Gestión de Red de Amigos  
+Prioridad en el negocio: Media  Riesgo en desarrollo: Medio  
+Horas estimadas:  5 Iteración asignada: Sprint 4 
+Programador responsable: Fabrizzio Zegarra  
+Actividades claves del usuario: Enviar invitación, aceptar solicitud, visualizar estado, 
+bloquear contactos.  
+Descripción: Como usuario, quiero gestionar una lista de amigos para 
+interactuar con otras personas, enviar solicitudes y ver 
+su estado de conexión en la red. 
+Criterios de aceptación:  Implementar la funcionalidad para enviar, aceptar y 
+rechazar solicitudes de amistad. 
+Mostrar el estado de conexión actual (en línea, ausente, 
+desconectado) de los contactos agregados. 
+Habilitar la opción de bloquear contactos no deseados, 
+impidiendo interacciones futuras. 
+ 
+Historia de Usuario 
+Número: HU20  Usuario: Jugador (Poseedor 
+del juego)  
+Nombre HU: Publicación y Calificación de Reseñas  
+Prioridad en el negocio: Media  Riesgo en desarrollo: Medio  
+Horas estimadas:  4 Iteración asignada: Sprint 4 
+Programador responsable: Fabrizzio Zegarra  
+Actividades claves del usuario: Redactar comentario, seleccionar pulgar arriba/abajo, 
+publicar reseña.  
+Descripción: Como poseedor de un juego, quiero dejar una 
+calificación de recomendación y redactar un comentario 
+para opinar públicamente sobre el título.  
+Criterios de aceptación:  El sistema debe validar que el usuario acredite 
+propiedad (licencia activa) del juego antes de permitirle 
+
+=== PÁGINA 48 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 48 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+escribir. 
+Permitir emitir una calificación binaria (recomendación 
+positiva o negativa) adjunta al texto de la reseña. 
+Reflejar la reseña publicada en la vista de detalles del 
+producto de manera pública. 
+ 
+Historia de Usuario 
+Número: HU21 Usuario: Comprador   
+Nombre HU: Selección de Modalidad de Alquiler Digital  
+Prioridad en el negocio: Alta   Riesgo en desarrollo: Medio   
+Horas estimadas:  8 Iteración asignada: Sprint 5  
+Programador responsable: Leonardo Flores / Leo Yañez  
+Actividades claves del usuario: Abrir ficha del juego, elegir alquiler de 48 o 72 horas, 
+agregar al carrito.  
+Descripción: Como comprador, quiero elegir entre comprar o alquilar 
+un juego por 48 o 72 horas para probarlo a menor costo.  
+Criterios de aceptación:  El sistema debe mostrar en la ficha la compra 
+permanente y el alquiler de 48 h y 72 h con su precio 
+(RFU-021).  
+Permitir que el precio del alquiler sea una fracción del 
+precio de compra permanente.  
+Agregar la modalidad elegida al carrito de compras  
+ 
+Historia de Usuario 
+Número: HU22  Usuario: Comprador   
+Nombre HU: Pago y Activación de la Licencia de Alquiler 
+Prioridad en el negocio: Alta Riesgo en desarrollo: Alto 
+Horas estimadas:  8 Iteración asignada: Sprint 5 
+
+=== PÁGINA 49 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 49 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+Programador responsable: Fabrizzio Zegarra 
+Actividades claves del usuario: Pagar alquiler desde el carrito, confirmar pago, revisar 
+comprobante. 
+Descripción: Como comprador, quiero que mi alquiler se active al 
+pagar para jugar de inmediato durante el plazo 
+contratado. 
+Criterios de aceptación:  El sistema debe registrar la licencia de alquiler del 
+usuario tras un pago exitoso (RFU-022). 
+Calcular la fecha y hora exacta de expiración a partir del 
+momento del pago. 
+No crear la licencia de alquiler si el pago falla. 
+ 
+Historia de Usuario 
+Número: HU23 Usuario: Jugador (Poseedor 
+de un alquiler)   
+Nombre HU: Temporizador de Tiempo Restante en la Biblioteca  
+Prioridad en el negocio: Media Riesgo en desarrollo: Bajo 
+Horas estimadas:  6 Iteración asignada: Sprint 5 
+Programador responsable: César Antezana  
+Actividades claves del usuario: Abrir biblioteca, consultar horas restantes del alquiler.  
+Descripción: Como jugador, quiero ver el tiempo restante de mis 
+juegos alquilados para aprovecharlos antes de que 
+terminen.  
+Criterios de aceptación:  El sistema debe mostrar un temporizador con las horas 
+restantes en cada juego alquilado (RFU-022).  
+Distinguir visualmente en la biblioteca los juegos 
+alquilados de los comprados.  
+No mostrar temporizador en los juegos de compra 
+permanente.  
+ 
+
+=== PÁGINA 50 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 50 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+Historia de Usuario 
+Número: HU24 Usuario: Jugador (Poseedor 
+de un alquiler)  
+Nombre HU: Expiración y Revocación de Acceso al Alquiler  
+Prioridad en el negocio: Alta Riesgo en desarrollo: Alto 
+Horas estimadas:  10 Iteración asignada: Sprint 5 
+Programador responsable: Fabrizzio Zegarra / César Antezana  
+Actividades claves del usuario: Intentar jugar un alquiler vencido, revisar opción de 
+compra. 
+Descripción: Como jugador, quiero que el acceso se bloquee al 
+terminar mi alquiler para saber que debo comprar el 
+juego si quiero seguir jugando.  
+Criterios de aceptación:  El sistema debe revocar el acceso a ejecutar el juego al 
+finalizar el plazo de alquiler (RFU-022).  
+Deshabilitar el botón Jugar mediante la validación 
+DRM.  
+Mostrar la opción de comprar el juego cuando el 
+alquiler venció.  
+ 
+Historia de Usuario 
+Número: HU25 Usuario: Jugador (Alquiler 
+activo)   
+Nombre HU: Conversión de Alquiler a Compra (Rent-to-Own)  
+Prioridad en el negocio: Media  Riesgo en desarrollo: Medio   
+Horas estimadas:  8 Iteración asignada: Sprint 5  
+Programador responsable: Leo Yañez / Leonardo Flores  
+Actividades claves del usuario: Abrir alquiler activo, elegir compra permanente, pagar 
+con descuento. 
+Descripción: Como jugador con un alquiler activo, quiero comprar el 
+juego descontando lo que ya pagué para no pagar dos 
+
+=== PÁGINA 51 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 51 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+veces por lo mismo. 
+Criterios de aceptación:  El sistema debe permitir la compra permanente sólo si el 
+alquiler sigue vigente (RFU-023). 
+Descontar el 100% de lo pagado por el alquiler del 
+precio total de venta. 
+Reemplazar la licencia temporal por una permanente al 
+completar el pago. 
+ 
+7. Conclusiones y Recomendaciones 
+A lo largo del desarrollo de este trabajo, logramos analizar y diseñar las principales 
+funcionalidades de Gvox, una plataforma de distribución digital de videojuegos inspirada en 
+Steam. Se definieron los procesos de registro de usuarios, búsqueda de juegos, compras, 
+pagos, gestión de bibliotecas y participación en la comunidad. Además, incorporamos el 
+alquiler digital por 48 o 72 horas, permitiendo que los usuarios puedan probar videojuegos 
+antes de decidir si desean comprarlos de forma permanente. 
+La elaboración de los diagramas UML nos ayudó a comprender mejor cómo se relacionan los 
+diferentes elementos del sistema y cómo se llevarían a cabo sus procesos. Asimismo, el uso 
+de patrones de diseño permitió organizar las responsabilidades de las clases, evitar 
+dependencias innecesarias y plantear soluciones que faciliten futuras modificaciones. 
+También comprendimos la importancia de mantener una relación coherente entre los 
+requisitos funcionales, las pantallas diseñadas y los diagramas, ya que todos deben 
+representar el mismo funcionamiento del sistema. Esto nos permitió identificar aspectos que 
+necesitaban mayor detalle y mejorar la estructura general del proyecto. 
+Finalmente, consideramos que Gvox cuenta con una base sólida a nivel de análisis y diseño. 
+Como recomendación, sería importante continuar con la implementación de sus 
+funcionalidades, realizar pruebas de funcionamiento y reforzar aspectos como la seguridad de 
+los pagos, la validación de licencias y el control de los alquileres, para garantizar una buena 
+experiencia a los usuarios. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PÁGINA 52 ===
+  
+ 
+ 
+Formato: Especificaciones Funcionales –  Pág. 52 de 52 
+Versión: 1.0  -  Archivo:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 

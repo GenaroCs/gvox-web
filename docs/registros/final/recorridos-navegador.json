@@ -1,0 +1,50 @@
+{
+  "fecha": "2026-10-29T21:48:06.493Z",
+  "results": [
+    {
+      "prueba": "Registro, validación de correo y código numérico 0",
+      "estado": "Correcto"
+    },
+    {
+      "prueba": "Búsqueda, cero resultados, filtros acumulativos, favoritos y ordenamiento",
+      "estado": "Correcto"
+    },
+    {
+      "prueba": "Galería, requisitos, reseña sin licencia bloqueada, pago y descarga real del comprobante",
+      "estado": "Correcto"
+    },
+    {
+      "prueba": "Temporizador, conversión íntegra sin duplicados, vencidos y colecciones persistentes",
+      "estado": "Correcto"
+    },
+    {
+      "prueba": "Reseña negativa con licencia reflejada en la ficha",
+      "estado": "Correcto"
+    },
+    {
+      "prueba": "Diez avatares sin texto, Goku, perfil, privacidad, saldo y persistencia",
+      "estado": "Correcto"
+    },
+    {
+      "prueba": "Aceptar, rechazar, solicitar, bloquear, publicación y reacción",
+      "estado": "Correcto"
+    },
+    {
+      "prueba": "Visa, Mastercard y Yape: comprobantes correctos, 72 h y saldo sin cargo externo",
+      "estado": "Correcto"
+    },
+    {
+      "prueba": "Reembolso de compra convertida devuelve lo efectivamente pagado",
+      "estado": "Correcto"
+    },
+    {
+      "prueba": "Pago sin fondos: error claro y ningún cambio de carrito, licencia o comprobante",
+      "estado": "Correcto"
+    },
+    {
+      "prueba": "Recuperación y nuevo acceso conservan el nombre personalizado de la cuenta",
+      "estado": "Correcto"
+    }
+  ],
+  "errors": []
+}

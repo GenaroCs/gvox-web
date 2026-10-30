@@ -1,0 +1,482 @@
+[
+  {
+    "id": 2679460,
+    "slug": "metaphor-refantazio",
+    "nombre": "Metaphor: ReFantazio",
+    "coleccion": "Anime / JRPG",
+    "genero": "ROL",
+    "desarrollador": "ATLUS",
+    "editor": "SEGA",
+    "destacado": true,
+    "precio_demo_soles": 179.9,
+    "alquiler_48h_demo_soles": 17.9,
+    "alquiler_72h_demo_soles": 25.9,
+    "tienda_oficial": "https://store.steampowered.com/app/2679460/",
+    "imagenes": {
+      "portada_vertical": "imagenes/catalogo/metaphor-refantazio/portada_vertical.jpg",
+      "cabecera": "imagenes/catalogo/metaphor-refantazio/cabecera.jpg",
+      "tarjeta_horizontal": "imagenes/catalogo/metaphor-refantazio/tarjeta_horizontal.jpg"
+    },
+    "modalidades_demo": [
+      "compra",
+      "alquiler_48h",
+      "alquiler_72h"
+    ]
+  },
+  {
+    "id": 2161700,
+    "slug": "persona-3-reload",
+    "nombre": "Persona 3 Reload",
+    "coleccion": "Anime / JRPG",
+    "genero": "ROL",
+    "desarrollador": "ATLUS",
+    "editor": "SEGA",
+    "destacado": true,
+    "precio_demo_soles": 169.9,
+    "alquiler_48h_demo_soles": 16.9,
+    "alquiler_72h_demo_soles": 24.9,
+    "tienda_oficial": "https://store.steampowered.com/app/2161700/",
+    "imagenes": {
+      "portada_vertical": "imagenes/catalogo/persona-3-reload/portada_vertical.jpg",
+      "cabecera": "imagenes/catalogo/persona-3-reload/cabecera.jpg",
+      "tarjeta_horizontal": "imagenes/catalogo/persona-3-reload/tarjeta_horizontal.jpg"
+    },
+    "modalidades_demo": [
+      "compra",
+      "alquiler_48h",
+      "alquiler_72h"
+    ]
+  },
+  {
+    "id": 1687950,
+    "slug": "persona-5-royal",
+    "nombre": "Persona 5 Royal",
+    "coleccion": "Anime / JRPG",
+    "genero": "ROL",
+    "desarrollador": "ATLUS",
+    "editor": "SEGA",
+    "destacado": true,
+    "precio_demo_soles": 159.9,
+    "alquiler_48h_demo_soles": 15.9,
+    "alquiler_72h_demo_soles": 22.9,
+    "tienda_oficial": "https://store.steampowered.com/app/1687950/",
+    "imagenes": {
+      "portada_vertical": "imagenes/catalogo/persona-5-royal/portada_vertical.jpg",
+      "cabecera": "imagenes/catalogo/persona-5-royal/cabecera.jpg",
+      "tarjeta_horizontal": "imagenes/catalogo/persona-5-royal/tarjeta_horizontal.jpg"
+    },
+    "modalidades_demo": [
+      "compra",
+      "alquiler_48h",
+      "alquiler_72h"
+    ]
+  },
+  {
+    "id": 740130,
+    "slug": "tales-of-arise",
+    "nombre": "Tales of ARISE",
+    "coleccion": "Anime / JRPG",
+    "genero": "ROL",
+    "desarrollador": "Bandai Namco Studios",
+    "editor": "Bandai Namco Entertainment",
+    "destacado": false,
+    "precio_demo_soles": 119.9,
+    "alquiler_48h_demo_soles": 11.9,
+    "alquiler_72h_demo_soles": 16.9,
+    "tienda_oficial": "https://store.steampowered.com/app/740130/",
+    "imagenes": {
+      "portada_vertical": "imagenes/catalogo/tales-of-arise/portada_vertical.jpg",
+      "cabecera": "imagenes/catalogo/tales-of-arise/cabecera.jpg",
+      "tarjeta_horizontal": "imagenes/catalogo/tales-of-arise/tarjeta_horizontal.jpg"
+    },
+    "modalidades_demo": [
+      "compra",
+      "alquiler_48h",
+      "alquiler_72h"
+    ]
+  },
+  {
+    "id": 775500,
+    "slug": "scarlet-nexus",
+    "nombre": "SCARLET NEXUS",
+    "coleccion": "Anime / JRPG",
+    "genero": "ACCIÓN",
+    "desarrollador": "Bandai Namco Studios",
+    "editor": "Bandai Namco Entertainment",
+    "destacado": false,
+    "precio_demo_soles": 99.9,
+    "alquiler_48h_demo_soles": 9.9,
+    "alquiler_72h_demo_soles": 14.9,
+    "tienda_oficial": "https://store.steampowered.com/app/775500/",
+    "imagenes": {
+      "portada_vertical": "imagenes/catalogo/scarlet-nexus/portada_vertical.jpg",
+      "cabecera": "imagenes/catalogo/scarlet-nexus/cabecera.jpg",
+      "tarjeta_horizontal": "imagenes/catalogo/scarlet-nexus/tarjeta_horizontal.jpg"
+    },
+    "modalidades_demo": [
+      "compra",
+      "alquiler_48h",
+      "alquiler_72h"
+    ]
+  },
+  {
+    "id": 678960,
+    "slug": "code-vein",
+    "nombre": "CODE VEIN",
+    "coleccion": "Anime / JRPG",
+    "genero": "ACCIÓN",
+    "desarrollador": "Bandai Namco Studios",
+    "editor": "Bandai Namco Entertainment",
+    "destacado": false,
+    "precio_demo_soles": 79.9,
+    "alquiler_48h_demo_soles": 7.9,
+    "alquiler_72h_demo_soles": 11.9,
+    "tienda_oficial": "https://store.steampowered.com/app/678960/",
+    "imagenes": {
+      "portada_vertical": "imagenes/catalogo/code-vein/portada_vertical.jpg",
+      "cabecera": "imagenes/catalogo/code-vein/cabecera.jpg",
+      "tarjeta_horizontal": "imagenes/catalogo/code-vein/tarjeta_horizontal.jpg"
+    },
+    "modalidades_demo": [
+      "compra",
+      "alquiler_48h",
+      "alquiler_72h"
+    ]
+  },
+  {
+    "id": 524220,
+    "slug": "nier-automata",
+    "nombre": "NieR:Automata",
+    "coleccion": "Anime / JRPG",
+    "genero": "ACCIÓN",
+    "desarrollador": "PlatinumGames",
+    "editor": "Square Enix",
+    "destacado": true,
+    "precio_demo_soles": 129.9,
+    "alquiler_48h_demo_soles": 12.9,
+    "alquiler_72h_demo_soles": 18.9,
+    "tienda_oficial": "https://store.steampowered.com/app/524220/",
+    "imagenes": {
+      "portada_vertical": "imagenes/catalogo/nier-automata/portada_vertical.jpg",
+      "cabecera": "imagenes/catalogo/nier-automata/cabecera.jpg",
+      "tarjeta_horizontal": "imagenes/catalogo/nier-automata/tarjeta_horizontal.jpg"
+    },
+    "modalidades_demo": [
+      "compra",
+      "alquiler_48h",
+      "alquiler_72h"
+    ]
+  },
+  {
+    "id": 1245620,
+    "slug": "elden-ring",
+    "nombre": "ELDEN RING",
+    "coleccion": "Acción / Fantasía",
+    "genero": "ROL",
+    "desarrollador": "FromSoftware",
+    "editor": "Bandai Namco Entertainment",
+    "destacado": true,
+    "precio_demo_soles": 189.9,
+    "alquiler_48h_demo_soles": 18.9,
+    "alquiler_72h_demo_soles": 27.9,
+    "tienda_oficial": "https://store.steampowered.com/app/1245620/",
+    "imagenes": {
+      "portada_vertical": "imagenes/catalogo/elden-ring/portada_vertical.jpg",
+      "cabecera": "imagenes/catalogo/elden-ring/cabecera.jpg",
+      "tarjeta_horizontal": "imagenes/catalogo/elden-ring/tarjeta_horizontal.jpg"
+    },
+    "modalidades_demo": [
+      "compra",
+      "alquiler_48h",
+      "alquiler_72h"
+    ]
+  },
+  {
+    "id": 1145350,
+    "slug": "hades-ii",
+    "nombre": "Hades II",
+    "coleccion": "Acción / Fantasía",
+    "genero": "ACCIÓN",
+    "desarrollador": "Supergiant Games",
+    "editor": "Supergiant Games",
+    "destacado": true,
+    "precio_demo_soles": 119.9,
+    "alquiler_48h_demo_soles": 11.9,
+    "alquiler_72h_demo_soles": 16.9,
+    "tienda_oficial": "https://store.steampowered.com/app/1145350/",
+    "imagenes": {
+      "portada_vertical": "imagenes/catalogo/hades-ii/portada_vertical.jpg",
+      "cabecera": "imagenes/catalogo/hades-ii/cabecera.jpg",
+      "tarjeta_horizontal": "imagenes/catalogo/hades-ii/tarjeta_horizontal.jpg"
+    },
+    "modalidades_demo": [
+      "compra",
+      "alquiler_48h",
+      "alquiler_72h"
+    ]
+  },
+  {
+    "id": 814380,
+    "slug": "sekiro",
+    "nombre": "Sekiro: Shadows Die Twice",
+    "coleccion": "Acción / Fantasía",
+    "genero": "ACCIÓN",
+    "desarrollador": "FromSoftware",
+    "editor": "Activision",
+    "destacado": false,
+    "precio_demo_soles": 159.9,
+    "alquiler_48h_demo_soles": 15.9,
+    "alquiler_72h_demo_soles": 22.9,
+    "tienda_oficial": "https://store.steampowered.com/app/814380/",
+    "imagenes": {
+      "portada_vertical": "imagenes/catalogo/sekiro/portada_vertical.jpg",
+      "cabecera": "imagenes/catalogo/sekiro/cabecera.jpg",
+      "tarjeta_horizontal": "imagenes/catalogo/sekiro/tarjeta_horizontal.jpg"
+    },
+    "modalidades_demo": [
+      "compra",
+      "alquiler_48h",
+      "alquiler_72h"
+    ]
+  },
+  {
+    "id": 1091500,
+    "slug": "cyberpunk-2077",
+    "nombre": "Cyberpunk 2077",
+    "coleccion": "Acción / Fantasía",
+    "genero": "ROL",
+    "desarrollador": "CD PROJEKT RED",
+    "editor": "CD PROJEKT RED",
+    "destacado": true,
+    "precio_demo_soles": 199.9,
+    "alquiler_48h_demo_soles": 19.9,
+    "alquiler_72h_demo_soles": 28.9,
+    "tienda_oficial": "https://store.steampowered.com/app/1091500/",
+    "imagenes": {
+      "portada_vertical": "imagenes/catalogo/cyberpunk-2077/portada_vertical.jpg",
+      "cabecera": "imagenes/catalogo/cyberpunk-2077/cabecera.jpg",
+      "tarjeta_horizontal": "imagenes/catalogo/cyberpunk-2077/tarjeta_horizontal.jpg"
+    },
+    "modalidades_demo": [
+      "compra",
+      "alquiler_48h",
+      "alquiler_72h"
+    ]
+  },
+  {
+    "id": 2050650,
+    "slug": "resident-evil-4",
+    "nombre": "Resident Evil 4",
+    "coleccion": "Acción / Fantasía",
+    "genero": "TERROR",
+    "desarrollador": "CAPCOM",
+    "editor": "CAPCOM",
+    "destacado": false,
+    "precio_demo_soles": 169.9,
+    "alquiler_48h_demo_soles": 16.9,
+    "alquiler_72h_demo_soles": 24.9,
+    "tienda_oficial": "https://store.steampowered.com/app/2050650/",
+    "imagenes": {
+      "portada_vertical": "imagenes/catalogo/resident-evil-4/portada_vertical.jpg",
+      "cabecera": "imagenes/catalogo/resident-evil-4/cabecera.jpg",
+      "tarjeta_horizontal": "imagenes/catalogo/resident-evil-4/tarjeta_horizontal.jpg"
+    },
+    "modalidades_demo": [
+      "compra",
+      "alquiler_48h",
+      "alquiler_72h"
+    ]
+  },
+  {
+    "id": 1903340,
+    "slug": "clair-obscur-expedition-33",
+    "nombre": "Clair Obscur: Expedition 33",
+    "coleccion": "Acción / Fantasía",
+    "genero": "ROL",
+    "desarrollador": "Sandfall Interactive",
+    "editor": "Kepler Interactive",
+    "destacado": true,
+    "precio_demo_soles": 149.9,
+    "alquiler_48h_demo_soles": 14.9,
+    "alquiler_72h_demo_soles": 21.9,
+    "tienda_oficial": "https://store.steampowered.com/app/1903340/",
+    "imagenes": {
+      "portada_vertical": "imagenes/catalogo/clair-obscur-expedition-33/portada_vertical.jpg",
+      "cabecera": "imagenes/catalogo/clair-obscur-expedition-33/cabecera.jpg",
+      "tarjeta_horizontal": "imagenes/catalogo/clair-obscur-expedition-33/tarjeta_horizontal.jpg"
+    },
+    "modalidades_demo": [
+      "compra",
+      "alquiler_48h",
+      "alquiler_72h"
+    ]
+  },
+  {
+    "id": 367520,
+    "slug": "hollow-knight",
+    "nombre": "Hollow Knight",
+    "coleccion": "Indie / Aventura",
+    "genero": "METROIDVANIA",
+    "desarrollador": "Team Cherry",
+    "editor": "Team Cherry",
+    "destacado": false,
+    "precio_demo_soles": 49.9,
+    "alquiler_48h_demo_soles": 4.9,
+    "alquiler_72h_demo_soles": 7.9,
+    "tienda_oficial": "https://store.steampowered.com/app/367520/",
+    "imagenes": {
+      "portada_vertical": "imagenes/catalogo/hollow-knight/portada_vertical.jpg",
+      "cabecera": "imagenes/catalogo/hollow-knight/cabecera.jpg",
+      "tarjeta_horizontal": "imagenes/catalogo/hollow-knight/tarjeta_horizontal.jpg"
+    },
+    "modalidades_demo": [
+      "compra",
+      "alquiler_48h",
+      "alquiler_72h"
+    ]
+  },
+  {
+    "id": 1030300,
+    "slug": "hollow-knight-silksong",
+    "nombre": "Hollow Knight: Silksong",
+    "coleccion": "Indie / Aventura",
+    "genero": "METROIDVANIA",
+    "desarrollador": "Team Cherry",
+    "editor": "Team Cherry",
+    "destacado": true,
+    "precio_demo_soles": 69.9,
+    "alquiler_48h_demo_soles": 6.9,
+    "alquiler_72h_demo_soles": 9.9,
+    "tienda_oficial": "https://store.steampowered.com/app/1030300/",
+    "imagenes": {
+      "portada_vertical": "imagenes/catalogo/hollow-knight-silksong/portada_vertical.jpg",
+      "cabecera": "imagenes/catalogo/hollow-knight-silksong/cabecera.jpg",
+      "tarjeta_horizontal": "imagenes/catalogo/hollow-knight-silksong/tarjeta_horizontal.jpg"
+    },
+    "modalidades_demo": [
+      "compra",
+      "alquiler_48h",
+      "alquiler_72h"
+    ]
+  },
+  {
+    "id": 1057090,
+    "slug": "ori-will-of-wisps",
+    "nombre": "Ori and the Will of the Wisps",
+    "coleccion": "Indie / Aventura",
+    "genero": "PLATAFORMAS",
+    "desarrollador": "Moon Studios",
+    "editor": "Xbox Game Studios",
+    "destacado": false,
+    "precio_demo_soles": 69.9,
+    "alquiler_48h_demo_soles": 6.9,
+    "alquiler_72h_demo_soles": 9.9,
+    "tienda_oficial": "https://store.steampowered.com/app/1057090/",
+    "imagenes": {
+      "portada_vertical": "imagenes/catalogo/ori-will-of-wisps/portada_vertical.jpg",
+      "cabecera": "imagenes/catalogo/ori-will-of-wisps/cabecera.jpg",
+      "tarjeta_horizontal": "imagenes/catalogo/ori-will-of-wisps/tarjeta_horizontal.jpg"
+    },
+    "modalidades_demo": [
+      "compra",
+      "alquiler_48h",
+      "alquiler_72h"
+    ]
+  },
+  {
+    "id": 413150,
+    "slug": "stardew-valley",
+    "nombre": "Stardew Valley",
+    "coleccion": "Indie / Aventura",
+    "genero": "SIMULACIÓN",
+    "desarrollador": "ConcernedApe",
+    "editor": "ConcernedApe",
+    "destacado": false,
+    "precio_demo_soles": 39.9,
+    "alquiler_48h_demo_soles": 3.9,
+    "alquiler_72h_demo_soles": 5.9,
+    "tienda_oficial": "https://store.steampowered.com/app/413150/",
+    "imagenes": {
+      "portada_vertical": "imagenes/catalogo/stardew-valley/portada_vertical.jpg",
+      "cabecera": "imagenes/catalogo/stardew-valley/cabecera.jpg",
+      "tarjeta_horizontal": "imagenes/catalogo/stardew-valley/tarjeta_horizontal.jpg"
+    },
+    "modalidades_demo": [
+      "compra",
+      "alquiler_48h",
+      "alquiler_72h"
+    ]
+  },
+  {
+    "id": 1332010,
+    "slug": "stray",
+    "nombre": "Stray",
+    "coleccion": "Indie / Aventura",
+    "genero": "AVENTURA",
+    "desarrollador": "BlueTwelve Studio",
+    "editor": "Annapurna Interactive",
+    "destacado": false,
+    "precio_demo_soles": 79.9,
+    "alquiler_48h_demo_soles": 7.9,
+    "alquiler_72h_demo_soles": 11.9,
+    "tienda_oficial": "https://store.steampowered.com/app/1332010/",
+    "imagenes": {
+      "portada_vertical": "imagenes/catalogo/stray/portada_vertical.jpg",
+      "cabecera": "imagenes/catalogo/stray/cabecera.jpg",
+      "tarjeta_horizontal": "imagenes/catalogo/stray/tarjeta_horizontal.jpg"
+    },
+    "modalidades_demo": [
+      "compra",
+      "alquiler_48h",
+      "alquiler_72h"
+    ]
+  },
+  {
+    "id": 1868140,
+    "slug": "dave-the-diver",
+    "nombre": "DAVE THE DIVER",
+    "coleccion": "Indie / Aventura",
+    "genero": "AVENTURA",
+    "desarrollador": "MINTROCKET",
+    "editor": "MINTROCKET",
+    "destacado": false,
+    "precio_demo_soles": 59.9,
+    "alquiler_48h_demo_soles": 5.9,
+    "alquiler_72h_demo_soles": 8.9,
+    "tienda_oficial": "https://store.steampowered.com/app/1868140/",
+    "imagenes": {
+      "portada_vertical": "imagenes/catalogo/dave-the-diver/portada_vertical.jpg",
+      "cabecera": "imagenes/catalogo/dave-the-diver/cabecera.jpg",
+      "tarjeta_horizontal": "imagenes/catalogo/dave-the-diver/tarjeta_horizontal.jpg"
+    },
+    "modalidades_demo": [
+      "compra",
+      "alquiler_48h",
+      "alquiler_72h"
+    ]
+  },
+  {
+    "id": 1313140,
+    "slug": "cult-of-the-lamb",
+    "nombre": "Cult of the Lamb",
+    "coleccion": "Indie / Aventura",
+    "genero": "ROGUELIKE",
+    "desarrollador": "Massive Monster",
+    "editor": "Devolver Digital",
+    "destacado": false,
+    "precio_demo_soles": 69.9,
+    "alquiler_48h_demo_soles": 6.9,
+    "alquiler_72h_demo_soles": 9.9,
+    "tienda_oficial": "https://store.steampowered.com/app/1313140/",
+    "imagenes": {
+      "portada_vertical": "imagenes/catalogo/cult-of-the-lamb/portada_vertical.jpg",
+      "cabecera": "imagenes/catalogo/cult-of-the-lamb/cabecera.jpg",
+      "tarjeta_horizontal": "imagenes/catalogo/cult-of-the-lamb/tarjeta_horizontal.jpg"
+    },
+    "modalidades_demo": [
+      "compra",
+      "alquiler_48h",
+      "alquiler_72h"
+    ]
+  }
+]

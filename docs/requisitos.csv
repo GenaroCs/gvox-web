@@ -1,0 +1,24 @@
+﻿Requisito,Función,Pantallas,Representación y estado
+RFU-001,Registro de usuario,05_acceso.html,Formulario modal simulado; no crea cuenta real
+RFU-002,Inicio de sesión,05_acceso.html,Correo válido y contraseña opcional; simulación
+RFU-003,Segundo factor por código,05_acceso.html,Acepta cualquier secuencia numérica; no envía correo
+RFU-004,Recuperación de contraseña,05_acceso.html,Modal de recuperación de demostración
+RFU-005,Gestión de perfil,08_perfil_monedero.html,"Vista de avatar, biografía y privacidad; edición pendiente"
+RFU-006,Catálogo principal,01_inicio.html / 02_catalogo.html,"Promociones, seleccionados y catálogo"
+RFU-007,Búsqueda de productos,02_catalogo.html,Filtro simple JS por texto dentro del catálogo de muestra
+RFU-008,Filtrado avanzado,02_catalogo.html,Controles visuales de género/precio/modalidad; sin lógica completa
+RFU-009,Ficha y detalle del juego,03_ficha.html,"Galería, requisitos, descripción, reseñas y precios ficticios"
+RFU-010,Lista de deseados,02_catalogo.html / 03_ficha.html,Icono y acceso visual; persistencia pendiente
+RFU-011,Carrito de compras,04_carrito.html,"Productos, modalidades, importes; eliminación simulada"
+RFU-012,Pasarela de pago,04_carrito.html,Selección visual de método y pago de demostración
+RFU-013,Comprobante digital,04_carrito.html / 08_perfil_monedero.html,Estado de compra e historial; no se envían correos
+RFU-014,Reembolso,06_biblioteca.html,Botón de solicitud y regla informativa 14 días/2 horas
+RFU-015,Recarga monedero,08_perfil_monedero.html,Saldo y botones de recarga simulada
+RFU-016,Biblioteca,06_biblioteca.html,Juegos adquiridos y alquilados
+RFU-017,Validación de licencia (DRM),06_biblioteca.html,Estado visual de acceso/licencia; sin control real
+RFU-018,Colecciones personalizadas,06_biblioteca.html,Pestaña de colecciones; creación pendiente
+RFU-019,Red de amigos,07_comunidad.html,Solicitudes simuladas y perfiles de amigos
+RFU-020,Reseñas verificadas,07_comunidad.html / 03_ficha.html,Reseñas y badges demostrativos; propiedad no validada
+RFU-021,Alquiler 48/72 horas,03_ficha.html / 04_carrito.html,Selección visual con ambos precios
+RFU-022,Vigencia y expiración,06_biblioteca.html,Contador de ejemplo; reloj real y vencimiento pendientes
+RFU-023,Conversión alquiler a compra,06_biblioteca.html / 04_carrito.html,Botón y descuento informativo; cálculo/persistencia pendientes

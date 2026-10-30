@@ -1,0 +1,143 @@
+.tarjeta-juego {
+  border:1px solid var(--borde);
+  border-radius:8px;
+  background:#141d19;
+  overflow:hidden;
+  min-width:0;
+  transition:transform .25s,border-color .25s
+}
+.tarjeta-juego:hover {
+  transform:translateY(-4px);
+  border-color:#667f46
+}
+.tarjeta-arte {
+  position:relative;
+  overflow:hidden;
+  aspect-ratio:616/353;
+  background:#1b2820
+}
+.tarjeta-arte>a {
+  display:block;
+  height:100%
+}
+.tarjeta-arte img {
+  width:100%;
+  height:100%;
+  transition:transform .35s;
+  object-fit:cover
+}
+.tarjeta-juego:hover .tarjeta-arte img {
+  transform:scale(1.045)
+}
+.tarjeta-arte .etiqueta {
+  position:absolute;
+  left:11px;
+  top:11px;
+  pointer-events:none
+}
+.favorito {
+  position:absolute;
+  right:10px;
+  bottom:10px;
+  width:33px;
+  height:33px;
+  display:grid;
+  place-items:center;
+  border:1px solid #8fa18c55;
+  border-radius:50%;
+  color:#fff;
+  background:#08110bbb;
+  backdrop-filter:blur(5px)
+}
+.favorito .icono {
+  width:17px;
+  height:17px
+}
+.favorito.activo {
+  color:var(--lima);
+  border-color:var(--lima)
+}
+.favorito.activo svg {
+  fill:#d5ff5133
+}
+.tarjeta-info {
+  padding:16px
+}
+.tarjeta-info>.micro {
+  font-size:11px
+}
+.titulo-juego {
+  display:block;
+  font-size:14px;
+  font-weight:700;
+  white-space:normal;
+  overflow-wrap:anywhere;
+  min-height:2.5em;
+  line-height:1.3;
+  margin-top:5px
+}
+.tarjeta-precio {
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:6px;
+  margin-top:17px
+}
+.tarjeta-precio strong {
+  font-size:17px
+}
+.alquiler-mini {
+  font-size:11px;
+  color:var(--calido);
+  white-space:nowrap
+}
+.alquiler-mini .icono {
+  width:12px;
+  height:12px
+}
+.tarjeta-juego.vertical .tarjeta-arte {
+  aspect-ratio:3/3.6
+}
+.tarjeta-juego.vertical .tarjeta-arte img {
+  object-position:center 25%
+}
+.resena {
+  padding:20px 0;
+  border-bottom:1px solid var(--borde)
+}
+.resena-cabecera {
+  display:flex;
+  align-items:center;
+  gap:11px;
+  margin-bottom:12px
+}
+.resena-cabecera strong {
+  font-size:14px
+}
+.resena-cabecera small {
+  display:block;
+  font-size:11px;
+  color:var(--muted)
+}
+.resena>p {
+  font-size:14px;
+  color:#c0cdc3;
+  line-height:1.7
+}
+.estrellas {
+  color:var(--lima);
+  letter-spacing:3px;
+  font-size:14px
+}
+.resena-cabecera .estrellas {
+  margin-left:auto
+}
+.resena .insignia {
+  margin-top:12px
+}
+.recomendacion {
+  margin-left:auto;
+  font-size:11px;
+  font-weight:700;
+  white-space:nowrap
+}
