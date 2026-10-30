@@ -55,3 +55,6 @@ El primer comando utiliza almacenamiento temporal en memoria, sin cambiar las cu
 - [Arquitectura](docs/ARQUITECTURA.md).
 
 Contenido pendiente: no se recibieron videos locales. Stardew Valley no publica requisitos recomendados en los metadatos consultados. Los criterios que requieren backend se representan localmente y no se declaran como servicios reales.
+
+Prototipo academico 
+
